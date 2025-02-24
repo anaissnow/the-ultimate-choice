@@ -1538,3 +1538,441 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.24-08.52.32:530][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2025.02.24-08.52.32:536][769]Cmd: MAP CHECKDEP NOCLEARLOG
 [2025.02.24-08.52.32:536][769]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2025.02.24-09.01.00:577][725]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.24-09.01.00:617][725]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.24-09.01.00:624][725]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.24-09.01.00:673][727]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.24-09.01.08:249][175]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MainMenu
+[2025.02.24-09.01.08:310][175]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.24-09.02.17:417][768]LogSlate: External Image Picker: DecompressImage failed
+[2025.02.24-09.02.17:764][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-09.02.28:061][341]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.24-09.02.31:392][519]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-09.02.42:134][134]LogSlate: Window 'Project Settings' being destroyed
+[2025.02.24-09.02.42:145][134]LogSlate: Window 'Project Settings' being destroyed
+[2025.02.24-09.02.50:732][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.02.24-09.02.55:824][633]LogSlate: Window 'Save Content' being destroyed
+[2025.02.24-09.02.55:848][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-09.02.56:019][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/BP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenu.uasset" SILENT=true
+[2025.02.24-09.02.56:041][633]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_MainMenu
+[2025.02.24-09.02.56:041][633]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/BP_MainMenuDC585846467DF12027231C9F42BDE938.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenu.uasset'
+[2025.02.24-09.02.56:062][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 1.41 sec)
+[2025.02.24-09.02.56:062][633]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YE_Menus/MainMenu.MainMenu
+[2025.02.24-09.02.56:062][633]Cmd: MAP LOAD FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.24-09.02.56:062][633]LightingResults: New page: Lighting Build
+[2025.02.24-09.02.56:063][633]LoadErrors: New page: Loading map: MainMenu.umap
+[2025.02.24-09.02.56:117][633]LogWorld: UWorld::CleanupWorld for PauseMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-09.02.56:118][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-09.02.56:118][633]MapCheck: New page: Map Check
+[2025.02.24-09.02.56:118][633]LightingResults: New page: Lighting Build
+[2025.02.24-09.02.56:124][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-09.02.56:126][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.02.24-09.02.56:127][633]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-09.02.56:127][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-09.02.56:135][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.24-09.02.56:141][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.24-09.02.56:143][633]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.02.24-09.02.56:143][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-09.02.56:143][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-09.02.56:143][633]LogAIModule: Creating AISystem for world MainMenu
+[2025.02.24-09.02.56:183][633]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.24-09.02.56:189][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.02.24-09.02.56:196][633]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.24-09.02.56:196][633]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2025.02.24-09.02.56:203][633]AssetCheck: New page: Asset Save: BP_MainMenu
+[2025.02.24-09.02.56:203][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YE_Blueprints/BP_MainMenu.BP_MainMenu
+[2025.02.24-09.04.43:209][531]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.24-09.04.43:224][531]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.24-09.04.43:231][531]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.24-09.04.43:252][532]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.24-09.04.56:622][320]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_MainMenu
+[2025.02.24-09.04.56:650][320]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.24-09.05.00:364][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.24-09.05.01:368][539]LogSlate: Window 'Save Content' being destroyed
+[2025.02.24-09.05.01:392][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-09.05.01:574][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-09.05.01:580][539]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-09.05.01:580][539]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenu904BD5CA4D24EBC79EF31DB38E862A8A.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-09.05.01:601][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 1.62 sec)
+[2025.02.24-09.05.01:602][539]AssetCheck: New page: Asset Save: WP_MainMenu
+[2025.02.24-09.05.01:602][539]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-09.05.19:541][692]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-09.05.19:544][692]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-09.05.19:544][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-09.05.19:555][692]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-09.05.19:555][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-09.05.19:567][692]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.02.24-09.05.19:574][692]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.02.24-09.05.21:545][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2025.02.24-09.05.21:812][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.266195s
+[2025.02.24-09.05.21:931][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.390367s (0.390367s overbudget)
+[2025.02.24-09.05.22:029][692]LogSlate: Took 0.001002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.24-09.05.22:046][692]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.02.24-09.05.22:057][692]LogSlate: Took 0.008830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.24-09.08.53:727][ 51]LogSlate: Took 0.003390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.02.24-09.10.15:129][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-09.10.15:271][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-09.10.15:276][886]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-09.10.15:277][886]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenuC718767B482CD9C2C735B28EE5214A9D.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-09.10.15:294][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 1.78 sec)
+[2025.02.24-09.10.15:297][886]AssetCheck: New page: Asset Save: WP_MainMenu
+[2025.02.24-09.10.15:297][886]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-09.13.05:284][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.02.24-09.13.05:286][528]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YE_Menus/MainMenu' took 0.036
+[2025.02.24-09.13.05:289][528]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YE_Blueprints/WP_MainMenu] ([2] browsable assets)...
+[2025.02.24-09.13.05:292][528]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu]
+[2025.02.24-09.13.05:293][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/YE_Blueprints/WP_MainMenu]
+[2025.02.24-09.13.05:297][528]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YE_Blueprints/WP_MainMenu_Auto1
+[2025.02.24-09.13.05:297][528]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenu_Auto116F76FF944D341255BF136A02446FAB4.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/YE_Blueprints/WP_MainMenu_Auto1.uasset'
+[2025.02.24-09.13.05:300][528]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.02.24-09.13.29:141][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-09.13.29:271][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-09.13.29:276][965]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-09.13.29:277][965]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenu374ABA2049BE670A5FD968B2D61F3C46.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-09.13.29:293][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1.94 sec)
+[2025.02.24-09.13.29:295][965]AssetCheck: New page: Asset Save: WP_MainMenu
+[2025.02.24-09.13.29:296][965]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-09.15.04:278][992]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.24-09.15.04:294][992]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.24-09.15.04:304][992]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.24-09.15.04:316][993]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.24-09.15.19:101][863]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.02.24-09.15.19:116][863]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.24-09.15.23:338][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.02.24-09.15.24:804][ 89]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.24-09.15.24:843][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.24-09.15.24:859][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.02.24-09.15.24:874][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.24-09.15.33:741][595]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MainMenuMode
+[2025.02.24-09.15.33:782][595]LogMetaData: Removing '/Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/YE_Blueprints/NewBlueprint.PackageMetaData'
+[2025.02.24-09.15.33:783][595]LogMetaData: Removing '/Game/YE_Blueprints/BP_MainMenuMode.SKEL_BP_MainMenuMode_C:UserConstructionScript' ref from Metadata '/Game/YE_Blueprints/NewBlueprint.PackageMetaData'
+[2025.02.24-09.15.33:783][595]LogMetaData: Removing '/Game/YE_Blueprints/BP_MainMenuMode.SKEL_BP_MainMenuMode_C' ref from Metadata '/Game/YE_Blueprints/NewBlueprint.PackageMetaData'
+[2025.02.24-09.15.33:783][595]LogMetaData: Removing '/Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode_C' ref from Metadata '/Game/YE_Blueprints/NewBlueprint.PackageMetaData'
+[2025.02.24-09.15.33:783][595]LogMetaData: Removing '/Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/YE_Blueprints/NewBlueprint.PackageMetaData'
+[2025.02.24-09.15.33:783][595]LogMetaData: Removing '/Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/YE_Blueprints/NewBlueprint.PackageMetaData'
+[2025.02.24-09.15.33:783][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-09.15.33:913][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/BP_MainMenuMode" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenuMode.uasset" SILENT=true
+[2025.02.24-09.15.33:918][595]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_MainMenuMode
+[2025.02.24-09.15.33:918][595]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/BP_MainMenuMode706476A24D529638D003F3B918B9F065.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenuMode.uasset'
+[2025.02.24-09.15.33:942][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 2.10 sec)
+[2025.02.24-09.15.33:965][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.02.24-09.15.33:982][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.02.24-09.15.33:998][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.24-09.15.34:001][595]AssetCheck: New page: Asset Save: BP_MainMenuMode
+[2025.02.24-09.15.34:001][595]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode
+[2025.02.24-09.24.36:980][421]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.217 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 808 files in 1291 folders with total size 26 MiB.
+[2025.02.24-09.59.26:392][843]LogUObjectHash: Compacting FUObjectHashTables data took  10.72ms
+[2025.02.24-09.59.27:961][843]LogSlate: Window 'Save Content' being destroyed
+[2025.02.24-09.59.27:978][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-09.59.28:157][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Menus/MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.24-09.59.28:201][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.24-09.59.28:209][843]LogSavePackage: Moving output files for package: /Game/YE_Menus/MainMenu
+[2025.02.24-09.59.28:211][843]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/MainMenu96BB59474903419EA79860B3A1CD4A35.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap'
+[2025.02.24-09.59.28:224][843]LogFileHelpers: Saving map 'MainMenu' took 0.067
+[2025.02.24-09.59.28:238][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 2.36 sec)
+[2025.02.24-09.59.28:241][843]AssetCheck: New page: Asset Save: MainMenu
+[2025.02.24-09.59.28:241][843]LogContentValidation: Display: Validating /Script/Engine.World /Game/YE_Menus/MainMenu.MainMenu
+[2025.02.24-10.00.57:226][288]LogSlate: Took 0.016872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.02.24-10.00.59:462][419]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/YE_Blueprints/BP_MainMenuMode does not exist, will not scan.
+[2025.02.24-10.01.45:516][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-10.01.45:680][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-10.01.45:734][164]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-10.01.46:868][229]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/YE_Menus/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2025.02.24-10.01.46:871][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-10.01.46:871][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-10.09.26:712][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.02.24-10.09.26:713][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YE_Menus/MainMenu' took 0.046
+[2025.02.24-10.09.26:714][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YE_Blueprints/BP_MainMenuMode] ([2] browsable assets)...
+[2025.02.24-10.09.26:714][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/YE_Blueprints/BP_MainMenuMode]
+[2025.02.24-10.09.26:720][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YE_Blueprints/BP_MainMenuMode_Auto2
+[2025.02.24-10.09.26:720][768]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/BP_MainMenuMode_Auto2AC69D26540BEB60ED497158A05EE99D4.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/YE_Blueprints/BP_MainMenuMode_Auto2.uasset'
+[2025.02.24-10.09.26:722][768]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.02.24-10.24.35:915][496]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.143 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 808 files in 1291 folders with total size 26 MiB.
+[2025.02.24-11.24.37:019][297]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 808 files in 1291 folders with total size 26 MiB.
+[2025.02.24-12.23.51:487][957]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.24-12.23.51:487][957]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.02.24-12.24.36:921][558]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 808 files in 1291 folders with total size 26 MiB.
+[2025.02.24-12.24.50:157][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-12.24.50:337][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Menus/MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.24-12.24.50:458][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2025.02.24-12.24.50:498][691]LogSavePackage: Moving output files for package: /Game/YE_Menus/MainMenu
+[2025.02.24-12.24.50:499][691]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/MainMenu8F11AB0F4831F3B317FE6E83DC3521A5.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap'
+[2025.02.24-12.24.50:534][691]LogFileHelpers: Saving map 'MainMenu' took 0.215
+[2025.02.24-12.24.50:551][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 394 ms (total: 2.75 sec)
+[2025.02.24-12.24.50:560][691]AssetCheck: New page: Asset Save: MainMenu
+[2025.02.24-12.24.50:560][691]LogContentValidation: Display: Validating /Script/Engine.World /Game/YE_Menus/MainMenu.MainMenu
+[2025.02.24-12.24.51:439][742]BlueprintLog: New page: Compile MainMenu
+[2025.02.24-12.24.51:578][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2025.02.24-12.24.59:983][231]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.24-12.25.00:011][231]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.24-12.25.00:028][231]LogPlayLevel: [PlayLevel] Compiling WP_MainMenu before play...
+[2025.02.24-12.25.00:224][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.24-12.25.00:226][231]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2025.02.24-12.25.00:238][231]PIE: New page: PIE session: MainMenu (Feb 25, 2025, 4:25:00 AM)
+[2025.02.24-12.25.00:284][231]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.24-12.25.00:284][231]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.24-12.25.00:290][231]LogPlayLevel: Creating play world package: /Game/YE_Menus/UEDPIE_0_MainMenu
+[2025.02.24-12.25.00:314][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023819s)
+[2025.02.24-12.25.00:314][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YE_Menus/MainMenu.MainMenu to /Game/YE_Menus/UEDPIE_0_MainMenu.MainMenu (0.025422s)
+[2025.02.24-12.25.00:332][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.24-12.25.00:344][231]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.25.00:355][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-12.25.00:380][231]LogAIModule: Creating AISystem for world MainMenu
+[2025.02.24-12.25.00:398][231]LogPlayLevel: PIE: World Init took: (0.060351s)
+[2025.02.24-12.25.00:401][231]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.24-12.25.00:402][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.24-12.25.00:403][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.24-12.25.00:403][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.24-12.25.00:403][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.24-12.25.00:403][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.24-12.25.00:403][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.24-12.25.00:403][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.24-12.25.00:403][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.24-12.25.00:408][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.24-12.25.00:408][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.24-12.25.00:408][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.24-12.25.00:414][231]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.24-12.25.00:495][231]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.02.24-12.25.00:498][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.24-12.25.00:499][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.24-12.25.00:499][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.24-12.25.00:510][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.24-12.25.00:510][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.24-12.25.00:513][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.24-12.25.00:513][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.24-12.25.00:513][231]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.24-12.25.00:513][231]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2025.02.24-12.25.00:514][231]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.24-12.25.00:568][231]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.02.24-12.25.00:577][231]LogWorld: Bringing World /Game/YE_Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.02.24-20.25.00
+[2025.02.24-12.25.00:580][231]LogWorld: Bringing up level for play took: 0.009149
+[2025.02.24-12.25.00:587][231]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.02.24-12.25.00:678][231]PIE: Server logged in
+[2025.02.24-12.25.00:680][231]PIE: Play in editor total start time 0.676 seconds.
+[2025.02.24-12.25.06:356][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-12.25.06:358][418]LogWorld: BeginTearingDown for /Game/YE_Menus/UEDPIE_0_MainMenu
+[2025.02.24-12.25.06:373][418]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.25.06:377][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.25.06:657][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.24-12.25.06:679][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.25.06:738][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-12.25.06:740][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.24-12.25.06:744][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.24-12.25.06:750][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.24-12.25.06:783][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-12.25.06:831][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.02.24-12.25.06:958][419]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.02.24-12.25.49:455][153]LogAnalytics: Warning: EventCache either took too long to flush (1.602 ms) or had a very large payload (1.124 KB, 6 events). Listing events in the payload for investigation:
+[2025.02.24-12.25.49:456][153]LogAnalytics: Warning:     Editor.Usage.Brushes,141
+[2025.02.24-12.25.49:456][153]LogAnalytics: Warning:     Editor.Usage.BlueprintEditor.Compile,229
+[2025.02.24-12.25.49:456][153]LogAnalytics: Warning:     Editor.Usage.Heartbeat,422
+[2025.02.24-12.25.49:456][153]LogAnalytics: Warning:     Editor.Usage.PIE,98
+[2025.02.24-12.25.49:456][153]LogAnalytics: Warning:     Editor.Usage.PIE,86
+[2025.02.24-12.25.49:456][153]LogAnalytics: Warning:     Audio.Usage.ProjectSettings,162
+[2025.02.24-12.27.04:647][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.02.24-12.27.06:568][321]LogSlate: Window 'Save Content' being destroyed
+[2025.02.24-12.27.09:756][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.02.24-12.27.11:827][488]LogSlate: Window 'Save Content' being destroyed
+[2025.02.24-12.27.11:847][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-12.27.12:035][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/BP_MainMenuMode" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenuMode.uasset" SILENT=true
+[2025.02.24-12.27.12:067][488]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_MainMenuMode
+[2025.02.24-12.27.12:067][488]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/BP_MainMenuMode2AFFDDB44BFB304EB300458FA79EF1F2.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenuMode.uasset'
+[2025.02.24-12.27.12:106][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-12.27.12:123][488]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-12.27.12:123][488]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenuAE3AF764400B6530A507B9A1F7F22887.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-12.27.12:144][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 297 ms (total: 3.05 sec)
+[2025.02.24-12.27.12:444][488]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.27.12:467][488]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.02.24-12.27.12:467][488]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.24-12.27.12:468][488]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.24-12.27.13:085][488]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.24-12.27.13:088][488]LogWorldPartition: Display: WorldPartition initialize took 620 ms (total: 768 ms)
+[2025.02.24-12.27.13:153][488]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.02.24-12.27.13:157][488]Cmd: MAP LOAD FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.24-12.27.13:159][488]LightingResults: New page: Lighting Build
+[2025.02.24-12.27.13:172][488]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2025.02.24-12.27.13:250][488]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.27.13:250][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.27.13:343][488]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.27.13:344][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.27.13:344][488]MapCheck: New page: Map Check
+[2025.02.24-12.27.13:346][488]LightingResults: New page: Lighting Build
+[2025.02.24-12.27.13:369][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-12.27.13:383][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.02.24-12.27.13:395][488]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.27.13:395][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.27.13:399][488]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.24-12.27.13:429][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.02.24-12.27.13:448][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.02.24-12.27.13:462][488]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.02.24-12.27.13:464][488]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.27.13:466][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-12.27.13:476][488]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.24-12.27.13:481][488]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.02.24-12.27.13:481][488]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.24-12.27.13:481][488]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.24-12.27.13:540][488]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.24-12.27.13:540][488]LogWorldPartition: Display: WorldPartition initialize took 59 ms (total: 828 ms)
+[2025.02.24-12.27.13:709][488]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.24-12.27.13:734][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.24-12.27.13:746][488]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.24-12.27.13:750][488]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.669ms to complete.
+[2025.02.24-12.27.13:783][488]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.24-12.27.13:784][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode
+[2025.02.24-12.27.13:784][488]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-12.27.51:926][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-12.27.52:063][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-12.27.52:070][517]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-12.27.52:073][517]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenu856429C144CCB7FC89578082A5CD0DA2.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-12.27.52:087][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 3.21 sec)
+[2025.02.24-12.27.52:091][517]AssetCheck: New page: Asset Save: WP_MainMenu
+[2025.02.24-12.27.52:091][517]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-12.27.54:012][628]LogSlate: Window 'WP_MainMenu' being destroyed
+[2025.02.24-12.27.54:074][628]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.27.54:074][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.27.54:086][628]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.27.54:086][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.28.02:396][107]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-12.28.02:400][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.28.02:400][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-12.28.02:412][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.28.02:413][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-12.28.30:503][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-12.28.30:643][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-12.28.30:653][ 54]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-12.28.30:656][ 54]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenuA0AEC2A142DA5CF5212BF995B44F0D0E.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-12.28.30:675][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 3.38 sec)
+[2025.02.24-12.28.30:678][ 54]AssetCheck: New page: Asset Save: WP_MainMenu
+[2025.02.24-12.28.30:678][ 54]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-12.33.13:380][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-12.33.13:503][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-12.33.13:516][644]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-12.33.13:518][644]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenuC687F95F4660ED9F6F23D3A1D24326A5.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-12.33.13:541][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 3.54 sec)
+[2025.02.24-12.33.13:544][644]AssetCheck: New page: Asset Save: WP_MainMenu
+[2025.02.24-12.33.13:544][644]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-12.35.43:815][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-12.35.43:944][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.02.24-12.35.43:955][446]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.02.24-12.35.43:957][446]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenu9E791CC14BF620A8EE71DBB2CA19B8E3.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.02.24-12.35.43:977][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 3.70 sec)
+[2025.02.24-12.35.43:979][446]AssetCheck: New page: Asset Save: WP_MainMenu
+[2025.02.24-12.35.43:979][446]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.02.24-12.35.44:606][478]BlueprintLog: New page: Compile WP_MainMenu
+[2025.02.24-12.35.44:671][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2025.02.24-12.39.26:661][409]LogSlate: Window 'WP_MainMenu' being destroyed
+[2025.02.24-12.39.26:675][409]LogSlate: Window 'WP_MainMenu' being destroyed
+[2025.02.24-12.39.26:684][409]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.39.26:684][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.39.26:696][409]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.39.26:696][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.39.37:412][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.02.24-12.39.37:576][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.39.37:578][ 25]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YE_Menus/MainMenu.MainMenu
+[2025.02.24-12.39.37:578][ 25]Cmd: MAP LOAD FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.24-12.39.37:578][ 25]LightingResults: New page: Lighting Build
+[2025.02.24-12.39.37:578][ 25]LoadErrors: New page: Loading map: MainMenu.umap
+[2025.02.24-12.39.37:618][ 25]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.39.37:618][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.39.37:622][ 25]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.24-12.39.37:622][ 25]MapCheck: New page: Map Check
+[2025.02.24-12.39.37:622][ 25]LightingResults: New page: Lighting Build
+[2025.02.24-12.39.37:639][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-12.39.37:650][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.02.24-12.39.37:653][ 25]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.39.37:653][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.39.37:675][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.02.24-12.39.37:688][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.24-12.39.37:705][ 25]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.02.24-12.39.37:707][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.39.37:707][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-12.39.37:707][ 25]LogAIModule: Creating AISystem for world MainMenu
+[2025.02.24-12.39.37:743][ 25]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.24-12.39.37:762][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.24-12.39.37:772][ 25]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.24-12.39.37:772][ 25]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2025.02.24-12.39.40:827][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.24-12.39.40:827][186]PIE: New page: PIE session: MainMenu (Feb 25, 2025, 4:39:40 AM)
+[2025.02.24-12.39.40:830][186]LogPlayLevel: Creating play world package: /Game/YE_Menus/UEDPIE_0_MainMenu
+[2025.02.24-12.39.40:833][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003148s)
+[2025.02.24-12.39.40:833][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YE_Menus/MainMenu.MainMenu to /Game/YE_Menus/UEDPIE_0_MainMenu.MainMenu (0.003369s)
+[2025.02.24-12.39.40:849][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.24-12.39.40:854][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.39.40:854][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-12.39.40:855][186]LogAIModule: Creating AISystem for world MainMenu
+[2025.02.24-12.39.40:856][186]LogPlayLevel: PIE: World Init took: (0.002798s)
+[2025.02.24-12.39.40:857][186]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.24-12.39.40:858][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.24-12.39.40:858][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.24-12.39.40:858][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.24-12.39.40:858][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.24-12.39.40:858][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.24-12.39.40:858][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.24-12.39.40:858][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.24-12.39.40:860][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.24-12.39.40:863][186]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.24-12.39.40:863][186]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.24-12.39.40:863][186]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.24-12.39.40:867][186]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.24-12.39.40:947][186]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.02.24-12.39.40:950][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.24-12.39.40:950][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.24-12.39.40:950][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.24-12.39.40:954][186]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.24-12.39.40:954][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.24-12.39.40:957][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.24-12.39.40:957][186]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.24-12.39.40:957][186]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.24-12.39.40:957][186]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2025.02.24-12.39.40:957][186]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.24-12.39.41:102][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-12.39.41:106][186]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.02.24-12.39.41:106][186]LogWorld: Bringing World /Game/YE_Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.02.24-20.39.41
+[2025.02.24-12.39.41:107][186]LogWorld: Bringing up level for play took: 0.001646
+[2025.02.24-12.39.41:116][186]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.02.24-12.39.41:137][186]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.02.24-12.39.41:137][186]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.02.24-12.39.41:146][186]PIE: Server logged in
+[2025.02.24-12.39.41:149][186]PIE: Play in editor total start time 0.323 seconds.
+[2025.02.24-12.39.41:161][186]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2025.02.24-12.39.43:623][321]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.02.24-12.39.43:623][321]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.02.24-12.39.43:624][321]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.02.24-12.39.43:626][321]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.02.24-12.39.43:626][321]LogWorld: BeginTearingDown for /Game/YE_Menus/UEDPIE_0_MainMenu
+[2025.02.24-12.39.43:627][321]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.39.43:627][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.39.43:680][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-12.39.43:682][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.02.24-12.39.43:700][321]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.02.24-12.39.43:700][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-12.39.43:700][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-12.39.43:701][321]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.02.24-12.39.43:701][321]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.24-12.39.43:701][321]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.24-12.39.43:702][321]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.02.24-12.39.43:702][321]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.24-12.39.43:708][321]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.02.24-12.39.43:772][321]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 63 ms
+[2025.02.24-12.39.43:777][321]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.02.24-12.39.43:779][321]LogWorldPartition: Display: WorldPartition initialize took 76 ms (total: 905 ms)
+[2025.02.24-12.39.43:779][321]LogPlayLevel: PIE: World Init took: (0.077799s)
+[2025.02.24-12.39.43:779][321]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.24-12.39.43:785][321]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.02.24-20.39.43
+[2025.02.24-12.39.43:785][321]LogWorld: Bringing up level for play took: 0.006547
+[2025.02.24-12.39.43:844][321]LogLoad: Took 0.217706 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2025.02.24-12.39.57:682][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-12.39.57:682][ 67]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.02.24-12.39.57:683][ 67]LogSlate: Window 'TheUltimateChoice Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.02.24-12.39.57:695][ 67]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-12.39.57:697][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.39.57:699][ 67]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.24-12.39.57:702][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.24-12.39.57:712][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-12.39.57:727][ 67]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.24-12.39.57:727][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.24-12.39.57:729][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.24-12.39.57:764][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.02.24-12.39.57:798][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.02.24-12.39.57:870][ 70]LogSlate: Took 0.009477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.24-12.40.02:414][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
