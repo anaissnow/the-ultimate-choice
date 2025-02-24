@@ -1422,3 +1422,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.24-08.23.00:477][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2025.02.24-08.23.00:528][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2025.02.24-08.24.35:885][393]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 807 files in 1288 folders with total size 26 MiB.
+[2025.02.24-08.38.24:207][877]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - (Keyboard).
+[2025.02.24-08.38.24:209][877]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2025.02.24-08.38.41:292][833]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.24-08.38.41:308][833]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.24-08.38.41:325][834]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.24-08.39.01:559][ 30]LogContentBrowser: Attempting asset rename: NewFolder -> YE_Blueprints
+[2025.02.24-08.39.01:560][ 30]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.24-08.39.18:954][ 56]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.24-08.39.18:976][ 56]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.24-08.39.18:990][ 57]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.24-08.39.28:555][626]LogContentBrowser: Attempting asset rename: NewFolder -> YE_Menus
+[2025.02.24-08.39.28:556][626]LogContentBrowser: End creating deferred item NewFolder
