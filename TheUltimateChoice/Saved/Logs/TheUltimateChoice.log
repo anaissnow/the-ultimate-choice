@@ -1434,3 +1434,107 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.24-08.39.18:990][ 57]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.02.24-08.39.28:555][626]LogContentBrowser: Attempting asset rename: NewFolder -> YE_Menus
 [2025.02.24-08.39.28:556][626]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.24-08.43.49:193][991]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.02.24-08.43.49:205][991]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.02.24-08.47.23:266][761]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.24-08.47.23:291][761]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.24-08.50.52:269][194]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.02.24-08.50.52:280][194]LogContentBrowser: Creating deferred item: NewWorld
+[2025.02.24-08.50.52:358][196]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.02.24-08.51.01:553][737]LogContentBrowser: Attempting asset rename: NewWorld -> Lv_MainMenu
+[2025.02.24-08.51.01:587][737]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-08.51.01:596][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-08.51.01:671][737]LogContentBrowser: End creating deferred item NewWorld
+[2025.02.24-08.51.20:316][835]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2025.02.24-08.51.22:085][835]LogSlate: Window 'Save Content' being destroyed
+[2025.02.24-08.51.22:103][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-08.51.22:283][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Menus/Lv_MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/Lv_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.24-08.51.22:294][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.02.24-08.51.22:313][835]LogSavePackage: Moving output files for package: /Game/YE_Menus/Lv_MainMenu
+[2025.02.24-08.51.22:313][835]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/Lv_MainMenu2A03DADC4E7FD5CC74D96E991754F157.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/Lv_MainMenu.umap'
+[2025.02.24-08.51.22:329][835]LogFileHelpers: Saving map 'Lv_MainMenu' took 0.049
+[2025.02.24-08.51.22:346][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 763 ms)
+[2025.02.24-08.51.22:348][835]AssetCheck: New page: Asset Save: Lv_MainMenu
+[2025.02.24-08.51.22:349][835]LogContentValidation: Display: Validating /Script/Engine.World /Game/YE_Menus/Lv_MainMenu.Lv_MainMenu
+[2025.02.24-08.51.52:300][177]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.02.24-08.51.53:643][204]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.02.24-08.51.53:658][204]LogContentBrowser: Creating deferred item: NewWorld
+[2025.02.24-08.51.53:668][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.02.24-08.52.03:309][778]LogContentBrowser: Attempting asset rename: NewWorld -> PauseMenu
+[2025.02.24-08.52.03:310][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-08.52.03:312][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-08.52.03:314][778]LogContentBrowser: End creating deferred item NewWorld
+[2025.02.24-08.52.12:393][285]LogContentBrowser: Attempting asset rename: Lv_MainMenu -> MainMenu
+[2025.02.24-08.52.12:674][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-08.52.12:812][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Menus/MainMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.24-08.52.12:823][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.24-08.52.12:827][285]LogSavePackage: Moving output files for package: /Game/YE_Menus/MainMenu
+[2025.02.24-08.52.12:827][285]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/MainMenu03C9673746033BD8B046008649771FFE.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap'
+[2025.02.24-08.52.12:837][285]LogFileHelpers: Saving map 'MainMenu' took 0.025
+[2025.02.24-08.52.12:924][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 1.01 sec)
+[2025.02.24-08.52.12:941][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.24-08.52.12:947][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.24-08.52.12:953][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.24-08.52.12:958][285]AssetCheck: New page: Asset Save: MainMenu
+[2025.02.24-08.52.12:958][285]LogContentValidation: Display: Validating /Script/Engine.World /Game/YE_Menus/MainMenu.MainMenu
+[2025.02.24-08.52.15:511][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.24-08.52.16:804][428]LogSlate: Window 'Save Content' being destroyed
+[2025.02.24-08.52.16:821][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-08.52.16:978][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Menus/PauseMenu" FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/PauseMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.24-08.52.16:983][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.24-08.52.16:987][428]LogSavePackage: Moving output files for package: /Game/YE_Menus/PauseMenu
+[2025.02.24-08.52.16:987][428]LogSavePackage: Moving '../../../../the-ultimate-choice/TheUltimateChoice/Saved/PauseMenu248358BE42144AC221BFE3BAC3B9114D.tmp' to '../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/PauseMenu.umap'
+[2025.02.24-08.52.16:998][428]LogFileHelpers: Saving map 'PauseMenu' took 0.020
+[2025.02.24-08.52.17:010][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 1.20 sec)
+[2025.02.24-08.52.17:012][428]AssetCheck: New page: Asset Save: PauseMenu
+[2025.02.24-08.52.17:012][428]LogContentValidation: Display: Validating /Script/Engine.World /Game/YE_Menus/PauseMenu.PauseMenu
+[2025.02.24-08.52.29:560][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.24-08.52.29:564][630]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YE_Menus/MainMenu.MainMenu
+[2025.02.24-08.52.29:566][630]Cmd: MAP LOAD FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.24-08.52.29:567][630]LightingResults: New page: Lighting Build
+[2025.02.24-08.52.29:568][630]LoadErrors: New page: Loading map: MainMenu.umap
+[2025.02.24-08.52.29:622][630]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-08.52.29:629][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-08.52.29:648][630]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.02.24-08.52.29:653][630]MapCheck: New page: Map Check
+[2025.02.24-08.52.29:654][630]LightingResults: New page: Lighting Build
+[2025.02.24-08.52.29:659][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-08.52.29:698][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.24-08.52.29:703][630]LogWorld: UWorld::CleanupWorld for PauseMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-08.52.29:703][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-08.52.29:704][630]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-08.52.29:704][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-08.52.29:711][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.24-08.52.29:715][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.24-08.52.29:726][630]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.02.24-08.52.29:727][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-08.52.29:728][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-08.52.29:730][630]LogAIModule: Creating AISystem for world MainMenu
+[2025.02.24-08.52.29:862][630]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.24-08.52.29:873][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.24-08.52.29:881][630]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.24-08.52.29:882][630]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.352ms to complete.
+[2025.02.24-08.52.32:312][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.24-08.52.32:448][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-08.52.32:449][769]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YE_Menus/PauseMenu.PauseMenu
+[2025.02.24-08.52.32:449][769]Cmd: MAP LOAD FILE="../../../../the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/PauseMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.24-08.52.32:449][769]LightingResults: New page: Lighting Build
+[2025.02.24-08.52.32:449][769]LoadErrors: New page: Loading map: PauseMenu.umap
+[2025.02.24-08.52.32:469][769]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-08.52.32:469][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-08.52.32:469][769]MapCheck: New page: Map Check
+[2025.02.24-08.52.32:469][769]LightingResults: New page: Lighting Build
+[2025.02.24-08.52.32:474][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-08.52.32:476][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.24-08.52.32:477][769]LogWorld: UWorld::CleanupWorld for PauseMenu, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-08.52.32:477][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-08.52.32:483][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.24-08.52.32:489][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.24-08.52.32:492][769]LogAudio: Display: Audio Device (ID: 1) registered with world 'PauseMenu'.
+[2025.02.24-08.52.32:492][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.24-08.52.32:492][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.24-08.52.32:492][769]LogAIModule: Creating AISystem for world PauseMenu
+[2025.02.24-08.52.32:525][769]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.24-08.52.32:530][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.24-08.52.32:536][769]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.24-08.52.32:536][769]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
