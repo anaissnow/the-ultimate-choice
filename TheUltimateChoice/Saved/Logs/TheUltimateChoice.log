@@ -9611,3 +9611,166 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.03.25-03.26.51:742][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5485.008301
 [2025.03.25-03.26.52:738][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.25-03.26.52:738][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5485.671875, Update Interval: 357.308258
+[2025.03.25-03.27.28:760][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.25-03.27.28:918][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-03.27.28:924][402]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level2.Level2
+[2025.03.25-03.27.28:924][402]Cmd: MAP LOAD FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.25-03.27.28:924][402]LightingResults: New page: Lighting Build
+[2025.03.25-03.27.28:925][402]LoadErrors: New page: Loading map: Level2.umap
+[2025.03.25-03.27.28:961][402]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-03.27.28:961][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-03.27.28:962][402]MapCheck: New page: Map Check
+[2025.03.25-03.27.28:962][402]LightingResults: New page: Lighting Build
+[2025.03.25-03.27.28:967][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-03.27.28:977][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.25-03.27.28:982][402]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-03.27.28:983][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-03.27.28:998][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.25-03.27.29:004][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.25-03.27.29:031][402]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.03.25-03.27.29:031][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-03.27.29:031][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-03.27.29:032][402]LogAIModule: Creating AISystem for world Level2
+[2025.03.25-03.27.29:098][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.25-03.27.29:107][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.25-03.27.29:116][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.25-03.27.29:116][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2025.03.25-03.27.53:642][649]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.25-03.27.53:676][649]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.25-03.27.53:684][649]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.25-03.27.53:703][650]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.25-03.28.01:257][ 93]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RotatorZ
+[2025.03.25-03.28.01:270][ 93]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.25-03.28.03:169][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YE_Blueprints/BP_RotatorZ.BP_RotatorZ
+[2025.03.25-03.28.03:180][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-03.28.03:180][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-03.28.03:193][204]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.03.25-03.28.05:173][204]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2025.03.25-03.28.05:472][204]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.302540s (0.302540s overbudget)
+[2025.03.25-03.28.05:566][204]LogViewport: Scene viewport resized to 744x460, mode Windowed.
+[2025.03.25-03.28.07:621][300]LogViewport: Scene viewport resized to 1139x813, mode Windowed.
+[2025.03.25-03.28.52:355][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-03.29.04:597][261]BlueprintLog: New page: Compile BP_RotatorZ
+[2025.03.25-03.29.04:635][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.25-03.29.06:959][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-03.29.07:128][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/BP_RotatorZ" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_RotatorZ.uasset" SILENT=true
+[2025.03.25-03.29.07:134][372]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_RotatorZ
+[2025.03.25-03.29.07:134][372]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_RotatorZ93E675544E76F34EA21E1689197D29BC.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_RotatorZ.uasset'
+[2025.03.25-03.29.07:152][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 19.1 sec)
+[2025.03.25-03.29.07:154][372]AssetCheck: New page: Asset Save: BP_RotatorZ
+[2025.03.25-03.29.07:154][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YE_Blueprints/BP_RotatorZ.BP_RotatorZ
+[2025.03.25-03.29.38:685][980]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.25-03.29.38:704][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-03.29.38:705][980]PIE: New page: PIE session: Level2 (Mar 25, 2025, 7:29:38 PM)
+[2025.03.25-03.29.38:705][980]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.03.25-03.29.38:724][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018883s)
+[2025.03.25-03.29.38:724][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.018948s)
+[2025.03.25-03.29.38:740][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.25-03.29.38:742][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-03.29.38:743][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-03.29.38:743][980]LogAIModule: Creating AISystem for world Level2
+[2025.03.25-03.29.38:743][980]LogPlayLevel: PIE: World Init took: (0.001511s)
+[2025.03.25-03.29.38:744][980]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.25-03.29.38:744][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-03.29.38:744][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-03.29.38:744][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-03.29.38:744][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-03.29.38:744][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-03.29.38:744][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-03.29.38:744][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-03.29.38:744][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-03.29.38:744][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-03.29.38:744][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-03.29.38:744][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-03.29.38:746][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-03.29.38:815][980]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.25-03.29.38:815][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-03.29.38:815][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-03.29.38:815][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-03.29.38:816][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.25-03.29.38:816][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.25-03.29.38:818][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.25-03.29.38:818][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.25-03.29.38:818][980]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.25-03.29.38:818][980]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level2'.
+[2025.03.25-03.29.38:819][980]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.25-03.29.38:921][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-03.29.38:921][980]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.03.25-03.29.38:935][980]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.03.25-11.29.38
+[2025.03.25-03.29.38:935][980]LogWorld: Bringing up level for play took: 0.013688
+[2025.03.25-03.29.38:939][980]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.03.25-03.29.38:951][980]PIE: Server logged in
+[2025.03.25-03.29.38:954][980]PIE: Play in editor total start time 0.25 seconds.
+[2025.03.25-03.29.38:990][980]LogViewport: Scene viewport resized to 1300x820, mode Windowed.
+[2025.03.25-03.29.45:202][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-03.29.45:202][263]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.03.25-03.29.45:202][263]LogSlate: Window 'Sotong Game: The Ultimate Choice Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.25-03.29.45:214][263]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-03.29.45:216][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-03.29.45:220][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-03.29.45:225][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-03.29.45:243][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-03.29.45:243][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.25-03.29.45:243][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.25-03.29.45:259][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.25-03.29.45:275][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.25-03.29.45:544][264]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.03.25-03.29.55:457][794]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.25-03.29.55:477][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-03.29.55:478][794]PIE: New page: PIE session: Level2 (Mar 25, 2025, 7:29:55 PM)
+[2025.03.25-03.29.55:478][794]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.03.25-03.29.55:496][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018387s)
+[2025.03.25-03.29.55:496][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.018434s)
+[2025.03.25-03.29.55:512][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.25-03.29.55:513][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-03.29.55:514][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-03.29.55:514][794]LogAIModule: Creating AISystem for world Level2
+[2025.03.25-03.29.55:514][794]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2025.03.25-03.29.55:514][794]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.25-03.29.55:515][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-03.29.55:515][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-03.29.55:515][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-03.29.55:515][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-03.29.55:515][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-03.29.55:515][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-03.29.55:515][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-03.29.55:515][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-03.29.55:515][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-03.29.55:515][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-03.29.55:515][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-03.29.55:518][794]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-03.29.55:585][794]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.25-03.29.55:585][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-03.29.55:585][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-03.29.55:585][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-03.29.55:586][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.25-03.29.55:586][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.25-03.29.55:589][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.25-03.29.55:589][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.25-03.29.55:589][794]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.25-03.29.55:589][794]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level2'.
+[2025.03.25-03.29.55:589][794]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.25-03.29.55:688][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-03.29.55:688][794]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.03.25-03.29.55:704][794]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.03.25-11.29.55
+[2025.03.25-03.29.55:704][794]LogWorld: Bringing up level for play took: 0.015300
+[2025.03.25-03.29.55:707][794]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.03.25-03.29.55:714][794]PIE: Server logged in
+[2025.03.25-03.29.55:717][794]PIE: Play in editor total start time 0.24 seconds.
+[2025.03.25-03.29.55:763][794]LogViewport: Scene viewport resized to 1302x830, mode Windowed.
+[2025.03.25-03.30.00:369][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-03.30.00:369][951]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.03.25-03.30.00:370][951]LogSlate: Window 'Sotong Game: The Ultimate Choice Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.25-03.30.00:382][951]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-03.30.00:386][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-03.30.00:391][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-03.30.00:402][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-03.30.00:420][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-03.30.00:421][951]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.25-03.30.00:421][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.25-03.30.00:425][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.25-03.30.00:447][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.03.25-03.30.00:565][952]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.03.25-03.30.09:914][392]LogSlate: Window 'BP_RotatorZ' being destroyed
+[2025.03.25-03.30.09:937][392]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-03.30.09:937][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
