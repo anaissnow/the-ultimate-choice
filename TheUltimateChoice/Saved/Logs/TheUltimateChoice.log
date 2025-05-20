@@ -1625,3 +1625,688 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.19-23.36.08:191][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1359.967041
 [2025.05.19-23.36.09:191][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.19-23.36.09:191][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1360.633911, Update Interval: 341.670593
+[2025.05.19-23.42.20:281][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1732.053589
+[2025.05.19-23.42.20:464][379]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter does not exist, will not scan.
+[2025.05.19-23.42.20:806][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-23.42.20:807][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1732.543213, Update Interval: 337.984558
+[2025.05.19-23.42.29:936][809]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.19-23.42.30:156][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2025.05.19-23.42.30:908][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-23.42.31:180][827]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter
+[2025.05.19-23.42.31:182][827]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter398293294118F07F4FB3CCBEAC9F0843.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.19-23.42.31:200][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 292 ms (total: 2.74 sec)
+[2025.05.19-23.42.31:204][827]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.19-23.42.31:204][827]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.19-23.42.33:624][939]LogSlate: Took 0.014206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.05.19-23.43.20:297][525]BlueprintLog: New page: Compile WBP_PlayerStatus
+[2025.05.19-23.43.20:335][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.19-23.43.20:936][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-23.43.21:097][551]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/WBP_PlayerStatus
+[2025.05.19-23.43.21:100][551]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WBP_PlayerStatusB52F8EFE46544B8CA2AA12A1018D644D.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/WBP_PlayerStatus.uasset'
+[2025.05.19-23.43.21:115][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 2.92 sec)
+[2025.05.19-23.43.21:121][551]AssetCheck: New page: Asset Save: WBP_PlayerStatus
+[2025.05.19-23.43.21:121][551]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.19-23.43.27:646][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-23.43.27:800][918]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/WBP_PlayerStatus
+[2025.05.19-23.43.27:801][918]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WBP_PlayerStatus5F18B13C408CB0DE6E68C4961322B71F.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/WBP_PlayerStatus.uasset'
+[2025.05.19-23.43.27:813][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 3.09 sec)
+[2025.05.19-23.43.27:814][918]AssetCheck: New page: Asset Save: WBP_PlayerStatus
+[2025.05.19-23.43.27:814][918]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.19-23.43.36:930][393]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.05.19-23.43.39:388][530]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-23.43.39:389][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-23.43.40:609][592]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.19-23.43.40:609][592]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-23.43.40:609][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-23.43.41:683][636]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.19-23.43.41:683][636]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-23.43.41:683][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-23.43.43:448][717]LogSlate: Window 'WBP_PlayerStatus' being destroyed
+[2025.05.19-23.43.43:525][717]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-23.43.43:525][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-23.43.43:545][717]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-23.43.43:545][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-23.43.47:771][958]LogViewport: Scene viewport resized to 1370x516, mode Windowed.
+[2025.05.19-23.43.47:808][959]LogViewport: Scene viewport resized to 1370x494, mode Windowed.
+[2025.05.19-23.43.47:847][960]LogViewport: Scene viewport resized to 1370x463, mode Windowed.
+[2025.05.19-23.43.47:891][961]LogViewport: Scene viewport resized to 1370x437, mode Windowed.
+[2025.05.19-23.43.47:929][962]LogViewport: Scene viewport resized to 1370x397, mode Windowed.
+[2025.05.19-23.43.47:963][963]LogViewport: Scene viewport resized to 1370x369, mode Windowed.
+[2025.05.19-23.43.47:998][964]LogViewport: Scene viewport resized to 1370x345, mode Windowed.
+[2025.05.19-23.43.48:031][965]LogViewport: Scene viewport resized to 1370x334, mode Windowed.
+[2025.05.19-23.43.48:064][966]LogViewport: Scene viewport resized to 1370x325, mode Windowed.
+[2025.05.19-23.43.48:093][967]LogViewport: Scene viewport resized to 1370x319, mode Windowed.
+[2025.05.19-23.43.48:143][969]LogViewport: Scene viewport resized to 1370x315, mode Windowed.
+[2025.05.19-23.43.48:168][970]LogViewport: Scene viewport resized to 1370x313, mode Windowed.
+[2025.05.19-23.43.48:201][971]LogViewport: Scene viewport resized to 1370x312, mode Windowed.
+[2025.05.19-23.43.48:377][981]LogViewport: Scene viewport resized to 1370x319, mode Windowed.
+[2025.05.19-23.43.48:400][982]LogViewport: Scene viewport resized to 1370x335, mode Windowed.
+[2025.05.19-23.43.48:432][983]LogViewport: Scene viewport resized to 1370x352, mode Windowed.
+[2025.05.19-23.43.48:465][984]LogViewport: Scene viewport resized to 1370x371, mode Windowed.
+[2025.05.19-23.43.48:497][985]LogViewport: Scene viewport resized to 1370x400, mode Windowed.
+[2025.05.19-23.43.48:531][986]LogViewport: Scene viewport resized to 1370x421, mode Windowed.
+[2025.05.19-23.43.48:564][987]LogViewport: Scene viewport resized to 1370x437, mode Windowed.
+[2025.05.19-23.43.48:600][988]LogViewport: Scene viewport resized to 1370x466, mode Windowed.
+[2025.05.19-23.43.48:635][989]LogViewport: Scene viewport resized to 1370x491, mode Windowed.
+[2025.05.19-23.43.48:668][990]LogViewport: Scene viewport resized to 1370x509, mode Windowed.
+[2025.05.19-23.43.48:707][991]LogViewport: Scene viewport resized to 1370x524, mode Windowed.
+[2025.05.19-23.43.48:740][992]LogViewport: Scene viewport resized to 1370x537, mode Windowed.
+[2025.05.19-23.43.48:795][993]LogViewport: Scene viewport resized to 1370x556, mode Windowed.
+[2025.05.19-23.43.48:849][994]LogViewport: Scene viewport resized to 1370x566, mode Windowed.
+[2025.05.19-23.43.48:905][995]LogViewport: Scene viewport resized to 1370x569, mode Windowed.
+[2025.05.19-23.43.48:957][996]LogViewport: Scene viewport resized to 1370x571, mode Windowed.
+[2025.05.19-23.48.54:120][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2125.895020
+[2025.05.19-23.48.55:119][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-23.48.55:119][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2126.561768, Update Interval: 320.305176
+[2025.05.20-00.02.32:534][  8]LogAutomationController: Ignoring very large delta of 485.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.02.32:537][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2944.308594
+[2025.05.20-00.02.33:891][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.02.33:891][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2945.333984, Update Interval: 312.224487
+[2025.05.20-00.08.28:586][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3300.358398
+[2025.05.20-00.08.29:587][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.08.29:587][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3301.026123, Update Interval: 322.044739
+[2025.05.20-00.10.39:939][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB6CF14A2-4DDE-D8C2-4FA1-6EA9C29C8AE3%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.1-27379709%20-%20%2B%2BEOSSDK%2BRelease-1.16.1-new-CL-27379709&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x7bbee080480 [can pipeline])
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 1 (Re-using existing connection! (#21) with host api.epicgames.dev)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 2 (Connected to api.epicgames.dev (35.169.254.202) port 443 (#21))
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 6 (TLSv1.3 (IN), TLS Unknown, Unknown (21):)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, Client hello (1):)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 9 (Closing connection 21)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 11 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 12 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB6CF14A2-4DDE-D8C2-4FA1-6EA9C29C8AE3%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.1-27379709%20-%20%2B%2BEOSSDK%2BRelease-1.16.1-new-CL-27379709&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 13 (Could not resolve host: api.epicgames.dev)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF977D200: libcurl info message cache 14 (Closing connection 22)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF9777E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.1-27379709&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E6CEB7B54F51F479817C39B64D68B77A, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF9777E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF9777E00: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x7bbee080150 [serially])
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF9777E00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: 000007BBF9777E00: libcurl info message cache 2 (Closing connection 23)
+[2025.05.20-00.10.39:940][ 92]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.1-27379709&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E6CEB7B54F51F479817C39B64D68B77A
+[2025.05.20-00.10.40:263][ 93]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB6CF14A2-4DDE-D8C2-4FA1-6EA9C29C8AE3%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.1-27379709%20-%20%2B%2BEOSSDK%2BRelease-1.16.1-new-CL-27379709&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.20-00.10.41:264][ 96]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.1-27379709&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E6CEB7B54F51F479817C39B64D68B77A
+[2025.05.20-00.10.42:263][ 99]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.1-27379709&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E6CEB7B54F51F479817C39B64D68B77A
+[2025.05.20-00.13.23:353][582]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.20-00.13.23:353][582]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.20-00.13.26:107][718]LogViewport: Scene viewport resized to 1370x565, mode Windowed.
+[2025.05.20-00.13.26:144][719]LogViewport: Scene viewport resized to 1370x548, mode Windowed.
+[2025.05.20-00.13.26:171][720]LogViewport: Scene viewport resized to 1370x530, mode Windowed.
+[2025.05.20-00.13.26:207][721]LogViewport: Scene viewport resized to 1370x492, mode Windowed.
+[2025.05.20-00.13.26:246][722]LogViewport: Scene viewport resized to 1370x445, mode Windowed.
+[2025.05.20-00.13.26:291][723]LogViewport: Scene viewport resized to 1370x412, mode Windowed.
+[2025.05.20-00.13.26:323][724]LogViewport: Scene viewport resized to 1370x399, mode Windowed.
+[2025.05.20-00.13.26:357][725]LogViewport: Scene viewport resized to 1370x397, mode Windowed.
+[2025.05.20-00.13.26:388][726]LogViewport: Scene viewport resized to 1370x396, mode Windowed.
+[2025.05.20-00.13.34:527][178]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.13.39:234][443]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.13.39:236][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.13.39:238][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.13.57:498][  1]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2025.05.20-00.13.57:531][  1]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-00.13.57:533][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.14.00:201][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.14.00:201][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.14.00:201][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.14.27:417][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3659.183838
+[2025.05.20-00.14.27:750][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.14.27:751][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3659.500977, Update Interval: 343.624390
+[2025.05.20-00.14.32:689][519]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.14.32:830][519]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2025.05.20-00.15.12:923][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.20-00.15.12:929][872]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.025
+[2025.05.20-00.15.12:934][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController] ([2] browsable assets)...
+[2025.05.20-00.15.12:934][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController]
+[2025.05.20-00.15.12:962][872]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController_Auto2
+[2025.05.20-00.15.12:962][872]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerController_A472B1F8B442B4D19D40CA593886B1BED.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController_Auto2.uasset'
+[2025.05.20-00.15.12:969][872]LogFileHelpers: Auto-saving content packages took 0.041
+[2025.05.20-00.15.15:889][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.15.16:030][ 37]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2025.05.20-00.15.16:032][ 37]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerController6CA29FEB48B7BD28EE6F1EAF70151F46.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2025.05.20-00.15.16:055][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.25 sec)
+[2025.05.20-00.15.16:065][ 37]AssetCheck: New page: Asset Save: BP_FirstPersonPlayerController
+[2025.05.20-00.15.16:065][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.15.16:537][ 60]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.15.16:544][ 60]LogBlueprint: Error: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FirstPerson\Blueprints\BP_FirstPersonPlayerController.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.05.20-00.15.16:544][ 60]LogBlueprint: Error: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FirstPerson\Blueprints\BP_FirstPersonPlayerController.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.05.20-00.15.16:573][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.20-00.17.34:021][866]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.17.34:055][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.20-00.18.04:410][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.18.04:553][195]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2025.05.20-00.18.04:554][195]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerControllerDAEE332E4B1BAAEFE5879A8E50B55C9A.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2025.05.20-00.18.04:568][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 3.41 sec)
+[2025.05.20-00.18.04:571][195]AssetCheck: New page: Asset Save: BP_FirstPersonPlayerController
+[2025.05.20-00.18.04:572][195]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.18.09:758][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.18.09:772][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.18.09:779][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.20.44:204][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4035.984375
+[2025.05.20-00.20.45:205][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.20.45:205][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4036.650635, Update Interval: 328.748444
+[2025.05.20-00.21.12:344][367]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.20-00.21.12:373][367]LogBlueprint: Error: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a BP_FirstPersonPlayerController_C, therefore ' Target ' must have a connection.
+[2025.05.20-00.21.12:412][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.20-00.22.05:913][498]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.20-00.22.05:958][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.20-00.22.17:252][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.22.17:466][117]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.22.17:467][117]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter565FA8F84B0BBB218335738C782EC476.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.22.17:481][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 3.64 sec)
+[2025.05.20-00.22.17:485][117]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.22.17:485][117]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.23.27:985][394]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.539 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1578 files in 2493 folders with total size 59 MiB.
+[2025.05.20-00.23.48:490][228]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.23.48:548][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.05.20-00.23.49:342][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.23.49:487][269]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2025.05.20-00.23.49:488][269]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerController3713F7B44CA495B11276C6AEB4233DA8.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2025.05.20-00.23.49:504][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 3.80 sec)
+[2025.05.20-00.23.49:510][269]AssetCheck: New page: Asset Save: BP_FirstPersonPlayerController
+[2025.05.20-00.23.49:510][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.24.47:678][175]LogSlate: Took 0.010937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.20-00.24.54:217][541]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.24.54:253][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.20-00.24.54:852][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.24.54:989][570]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2025.05.20-00.24.54:990][570]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerController7C9C424C4BADFC89E76D62B0C0A768AF.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2025.05.20-00.24.55:004][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 3.96 sec)
+[2025.05.20-00.24.55:009][570]AssetCheck: New page: Asset Save: BP_FirstPersonPlayerController
+[2025.05.20-00.24.55:009][570]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.24.57:708][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.24.57:903][708]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.24.57:904][708]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter931BCB4A40BC591175EB4E869119FA28.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.24.57:920][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 4.17 sec)
+[2025.05.20-00.24.57:926][708]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.24.57:926][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.26.18:371][406]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.20-00.26.18:393][406]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.20-00.26.18:404][406]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.20-00.26.18:412][406]LogAutomationController: Ignoring very large delta of 2.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.26.18:423][407]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.20-00.26.23:792][723]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SpawnPos
+[2025.05.20-00.26.23:827][723]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.20-00.26.25:858][842]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos
+[2025.05.20-00.26.25:869][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.26.25:869][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.26.26:066][842]LogViewport: Scene viewport resized to 990x567, mode Windowed.
+[2025.05.20-00.26.33:479][214]BlueprintLog: New page: Compile BP_SpawnPos
+[2025.05.20-00.26.33:515][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.20-00.26.34:238][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.26.34:382][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/BP_SpawnPos" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_SpawnPos.uasset" SILENT=true
+[2025.05.20-00.26.34:387][251]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_SpawnPos
+[2025.05.20-00.26.34:387][251]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_SpawnPosE3F4A7404A3100317BF2F9BA922B6989.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_SpawnPos.uasset'
+[2025.05.20-00.26.34:405][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 4.34 sec)
+[2025.05.20-00.26.34:406][251]AssetCheck: New page: Asset Save: BP_SpawnPos
+[2025.05.20-00.26.34:406][251]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos
+[2025.05.20-00.26.45:505][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos_C
+[2025.05.20-00.26.45:505][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos_C
+[2025.05.20-00.26.45:508][866]LogActorFactory: Actor Factory spawned Blueprint /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos as actor: BP_SpawnPos_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_SpawnPos_C_0
+[2025.05.20-00.26.45:511][866]LogActorFactory: Actor Factory spawned Blueprint /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos as actor: BP_SpawnPos_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_SpawnPos_C_0
+[2025.05.20-00.26.45:522][867]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.20-00.26.46:126][902]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos_C
+[2025.05.20-00.26.46:126][902]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos_C
+[2025.05.20-00.26.46:135][902]LogActorFactory: Actor Factory spawned Blueprint /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos as actor: BP_SpawnPos_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_SpawnPos_C_1
+[2025.05.20-00.26.46:135][902]LogActorFactory: Actor Factory spawned Blueprint /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos as actor: BP_SpawnPos_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_SpawnPos_C_1
+[2025.05.20-00.26.58:624][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.20-00.26.59:753][627]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-00.26.59:773][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.27.00:050][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.20-00.27.00:209][627]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.20-00.27.00:211][627]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level137290A9E463B51FE66D31DBAFF51519E.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.20-00.27.00:231][627]LogFileHelpers: Saving map 'Level1' took 0.256
+[2025.05.20-00.27.00:247][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 474 ms (total: 4.81 sec)
+[2025.05.20-00.27.00:256][627]AssetCheck: New page: Asset Save: Level1
+[2025.05.20-00.27.00:256][627]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.20-00.27.01:831][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4413.620605
+[2025.05.20-00.27.02:833][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.27.02:833][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4414.286621, Update Interval: 342.126526
+[2025.05.20-00.28.20:369][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.28.20:507][425]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2025.05.20-00.28.20:508][425]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerController6432B4B44A16E87C295D2D8A26744B3A.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2025.05.20-00.28.20:523][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 4.96 sec)
+[2025.05.20-00.28.20:526][425]AssetCheck: New page: Asset Save: BP_FirstPersonPlayerController
+[2025.05.20-00.28.20:526][425]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.28.20:885][441]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.28.20:927][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2025.05.20-00.33.44:209][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4816.024414
+[2025.05.20-00.33.45:543][929]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.33.45:543][929]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4817.025391, Update Interval: 308.597076
+[2025.05.20-00.36.56:191][363]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.20-00.36.56:300][363]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2025.05.20-00.36.56:316][363]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter'!
+[2025.05.20-00.36.56:317][363]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_FirstPersonCharacter_C_3
+[2025.05.20-00.36.56:867][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.36.57:084][383]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.36.57:085][383]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter50DBCF024FF0963BAFCCADBBEB82C5BC.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.36.57:101][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 5.20 sec)
+[2025.05.20-00.36.57:103][383]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.36.57:103][383]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.38.24:299][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.38.24:457][115]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.38.24:458][115]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter89E4BB7C4A797EE9C2A2B183A0C75DA1.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.38.24:472][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 5.37 sec)
+[2025.05.20-00.38.24:477][115]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.38.24:477][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.38.40:815][ 23]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.38.40:862][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.05.20-00.38.41:404][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.38.41:550][ 48]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2025.05.20-00.38.41:551][ 48]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerController35ED8C82444BBFBD00AEFD9E00F05A6B.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2025.05.20-00.38.41:564][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 5.53 sec)
+[2025.05.20-00.38.41:568][ 48]AssetCheck: New page: Asset Save: BP_FirstPersonPlayerController
+[2025.05.20-00.38.41:569][ 48]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.38.48:001][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.38.48:189][417]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.38.48:190][417]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter4FB3EBF74B5727EDE4BA238854D088FE.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.38.48:203][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 5.73 sec)
+[2025.05.20-00.38.48:208][417]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.38.48:208][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.39.45:155][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5176.968750
+[2025.05.20-00.39.46:155][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.39.46:155][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5177.635254, Update Interval: 309.204987
+[2025.05.20-00.41.41:647][612]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter'!
+[2025.05.20-00.41.41:647][612]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_FirstPersonCharacter_C_4
+[2025.05.20-00.41.54:824][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.41.54:840][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.41.54:848][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.42.17:626][488]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.20-00.42.17:769][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2025.05.20-00.42.18:434][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.42.18:637][514]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.42.18:639][514]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacterA1151C694352569BAD36339DD74B9438.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.42.18:654][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 5.95 sec)
+[2025.05.20-00.42.18:660][514]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.42.18:660][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.43.02:428][739]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.20-00.43.02:470][739]LogBlueprint: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\YueErn\YE_Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "Target" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get Target
+[2025.05.20-00.43.02:477][739]LogBlueprint: Error: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\YueErn\YE_Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Target  could not be found in '/Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2025.05.20-00.43.02:529][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.05.20-00.43.04:872][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.43.05:082][842]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.43.05:085][842]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacterAD4E55154BB4E99586140EAF6552F96F.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.43.05:097][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 6.18 sec)
+[2025.05.20-00.43.05:101][842]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.43.05:101][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.43.26:236][991]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter'!
+[2025.05.20-00.43.26:236][991]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Engine/Transient.World_14:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2025.05.20-00.43.26:247][991]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-00.43.26:249][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.43.54:205][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.43.56:935][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.BP_RotatorZ:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:935][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.BP_RotatorZ_C' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:935][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.BP_RotatorZ:EventGraph.K2Node_Event_0' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:935][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.BP_RotatorZ:EventGraph.K2Node_Event_1' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:936][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.BP_RotatorZ:EventGraph.K2Node_Event_2' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:936][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.SKEL_BP_RotatorZ_C:ReceiveBeginPlay' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:936][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.SKEL_BP_RotatorZ_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:936][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.SKEL_BP_RotatorZ_C:ReceiveTick' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:936][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.SKEL_BP_RotatorZ_C:UserConstructionScript' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:936][666]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_RotatorZ.SKEL_BP_RotatorZ_C' ref from Metadata '/Game/YE_Blueprints/BP_RotatorZ.PackageMetaData'
+[2025.05.20-00.43.56:942][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.43.57:129][666]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/YueErn/YE_Blueprints/BP_RotatorZ does not exist, will not scan.
+[2025.05.20-00.43.57:135][666]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_RotatorZ
+[2025.05.20-00.43.57:135][666]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_RotatorZ0EA278E5423424F1F1191FA47CBC7398.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_RotatorZ.uasset'
+[2025.05.20-00.43.57:165][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 6.40 sec)
+[2025.05.20-00.43.57:207][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.05.20-00.43.57:238][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.20-00.43.57:257][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.20-00.43.57:395][666]AssetCheck: New page: Asset Save: BP_RotatorZ
+[2025.05.20-00.43.57:395][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_RotatorZ.BP_RotatorZ
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.BP_SpawnPos:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.SKEL_BP_SpawnPos_C' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.BP_SpawnPos_C' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.BP_SpawnPos:EventGraph.K2Node_Event_0' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.BP_SpawnPos:EventGraph.K2Node_Event_1' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.BP_SpawnPos:EventGraph.K2Node_Event_2' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.SKEL_BP_SpawnPos_C:ReceiveBeginPlay' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.SKEL_BP_SpawnPos_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.SKEL_BP_SpawnPos_C:ReceiveTick' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.11:983][502]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_SpawnPos.SKEL_BP_SpawnPos_C:UserConstructionScript' ref from Metadata '/Game/YE_Blueprints/BP_SpawnPos.PackageMetaData'
+[2025.05.20-00.44.12:011][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.44.12:206][502]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_SpawnPos
+[2025.05.20-00.44.12:206][502]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_SpawnPos683B13F94AA2B0021AB29A99596A31AC.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_SpawnPos.uasset'
+[2025.05.20-00.44.12:214][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/BP_SpawnPos" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_SpawnPos.uasset" SILENT=true
+[2025.05.20-00.44.12:216][502]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_SpawnPos
+[2025.05.20-00.44.12:218][502]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_SpawnPos75A0D5614D099E7A062B07ADE4761FFE.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_SpawnPos.uasset'
+[2025.05.20-00.44.12:235][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 6.62 sec)
+[2025.05.20-00.44.12:367][502]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.44.12:367][502]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_SpawnPos.BP_SpawnPos
+[2025.05.20-00.44.12:367][502]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos
+[2025.05.20-00.44.12:367][502]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos_C
+[2025.05.20-00.44.12:367][502]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_SpawnPos.Default__BP_SpawnPos_C
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode_C' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.SKEL_BP_MainMenuMode_C:ReceiveBeginPlay' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.SKEL_BP_MainMenuMode_C:ReceiveTick' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.SKEL_BP_MainMenuMode_C:UserConstructionScript' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:955][ 40]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/BP_MainMenuMode.SKEL_BP_MainMenuMode_C' ref from Metadata '/Game/YE_Blueprints/BP_MainMenuMode.PackageMetaData'
+[2025.05.20-00.44.21:960][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.44.22:146][ 40]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/YueErn/YE_Blueprints/BP_MainMenuMode does not exist, will not scan.
+[2025.05.20-00.44.22:152][ 40]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_MainMenuMode
+[2025.05.20-00.44.22:152][ 40]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_MainMenuMode645CA0CA43BC52CFC52310BBD0C25DF1.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_MainMenuMode.uasset'
+[2025.05.20-00.44.22:162][ 40]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_MainMenuMode
+[2025.05.20-00.44.22:163][ 40]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_MainMenuMode6FEFFA5B448232A07AA7D3BDC0362F8C.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenuMode.uasset'
+[2025.05.20-00.44.22:181][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 6.84 sec)
+[2025.05.20-00.44.22:324][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.44.22:324][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode
+[2025.05.20-00.44.22:324][ 40]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode
+[2025.05.20-00.44.22:324][ 40]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode_C
+[2025.05.20-00.44.22:324][ 40]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_MainMenuMode.Default__BP_MainMenuMode_C
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.WP_MainMenu_C' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.WP_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.WP_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.WP_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.SKEL_WP_MainMenu_C:PreConstruct' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.SKEL_WP_MainMenu_C:Construct' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.SKEL_WP_MainMenu_C:Tick' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.SKEL_WP_MainMenu_C:BndEvt__WP_MainMenu_Button_131_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.SKEL_WP_MainMenu_C:BndEvt__WP_MainMenu_Button_317_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:627][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.SKEL_WP_MainMenu_C' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:628][755]LogMetaData: Removing '/Game/YueErn/YE_Blueprints/WP_MainMenu.WP_MainMenu_C:Construct' ref from Metadata '/Game/YE_Blueprints/WP_MainMenu.PackageMetaData'
+[2025.05.20-00.44.35:632][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.44.35:829][755]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/WP_MainMenu
+[2025.05.20-00.44.35:829][755]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenu6B6CF52C47130078392286B3788F5CE7.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/WP_MainMenu.uasset'
+[2025.05.20-00.44.35:837][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.05.20-00.44.35:839][755]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.05.20-00.44.35:840][755]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenuB4F15C8F4A8F2A2C44D4C6942FFECF7B.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.05.20-00.44.35:857][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 7.07 sec)
+[2025.05.20-00.44.35:983][755]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.44.35:983][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YueErn/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.05.20-00.44.35:983][755]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+[2025.05.20-00.44.35:983][755]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu_C
+[2025.05.20-00.44.35:985][755]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/WP_MainMenu.Default__WP_MainMenu_C
+[2025.05.20-00.44.54:319][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2025.05.20-00.44.54:735][786]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter'!
+[2025.05.20-00.44.54:735][786]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_FirstPersonCharacter_C_5
+[2025.05.20-00.45.15:148][786]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.20-00.45.15:185][787]LogAutomationController: Ignoring very large delta of 20.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.45.18:370][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.05.20-00.45.18:372][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.026
+[2025.05.20-00.45.18:374][957]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.05.20-00.45.18:421][957]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.05.20-00.45.18:421][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter]
+[2025.05.20-00.45.18:449][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter_Auto3
+[2025.05.20-00.45.18:449][957]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter_Auto33836DB27475E4BE49FF595AD4F8BB4CB.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2025.05.20-00.45.18:451][957]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.05.20-00.45.18:460][957]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.05.20-00.45.18:461][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.05.20-00.45.18:474][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2025.05.20-00.45.18:474][957]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter_Auto3EBDD320B4BB7AC4499C6C5BA9C55F680.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2025.05.20-00.45.18:476][957]LogFileHelpers: Auto-saving content packages took 0.104
+[2025.05.20-00.45.29:525][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.45.29:663][581]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_SpawnPos
+[2025.05.20-00.45.29:665][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_SpawnPos93E30ACF4F0B8D3F1BDE70B194B72952.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_SpawnPos.uasset'
+[2025.05.20-00.45.29:679][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 7.22 sec)
+[2025.05.20-00.45.29:684][581]AssetCheck: New page: Asset Save: BP_SpawnPos
+[2025.05.20-00.45.29:684][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_SpawnPos.BP_SpawnPos
+[2025.05.20-00.45.33:384][793]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.20-00.45.33:384][793]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-00.45.33:384][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.45.47:404][615]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter'!
+[2025.05.20-00.45.47:405][615]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_FirstPersonCharacter_C_6
+[2025.05.20-00.45.51:243][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.20-00.45.52:752][843]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-00.45.52:779][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.45.53:004][843]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.45.53:005][843]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter23A9943C48A7A3183BB11285DAE6CD63.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.45.53:039][843]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.45.53:040][843]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter36C250E54423E244D7CBDC92F36DA584.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.45.53:059][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 278 ms (total: 7.50 sec)
+[2025.05.20-00.45.53:064][843]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.45.53:064][843]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.45.53:064][843]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.46.14:168][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5565.996582
+[2025.05.20-00.46.14:500][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.46.14:500][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5566.312988, Update Interval: 345.669739
+[2025.05.20-00.46.14:842][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.20-00.46.17:537][ 29]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.20-00.46.17:567][ 29]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.46.26:541][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.20-00.46.29:934][510]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.20-00.46.29:956][510]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/WP_MainMenu.Default__WP_MainMenu_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/BP_MainMenuMode.Default__BP_MainMenuMode_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/BP_SpawnPos.Default__BP_SpawnPos_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/YE_Blueprints/BP_SpawnPos.BP_SpawnPos_C
+	Asset Type: ObjectRedirector
+[2025.05.20-00.46.30:625][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.20-00.46.30:882][511]LogAutomationController: Ignoring very large delta of 4.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.47.00:523][206]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.05.20-00.47.00:523][206]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.05.20-00.47.04:385][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.47.04:390][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.47.06:187][404]LogSlate: Window 'Message' being destroyed
+[2025.05.20-00.47.06:199][404]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+MainMenu
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.05.20-00.47.06:220][404]LogMetaData: Removing '/Game/YueErn/YE_Menus/MainMenu.MainMenu_C' ref from Metadata '/Game/YE_Menus/MainMenu.PackageMetaData'
+[2025.05.20-00.47.06:220][404]LogMetaData: Removing '/Game/YueErn/YE_Menus/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/YE_Menus/MainMenu.PackageMetaData'
+[2025.05.20-00.47.06:220][404]LogMetaData: Removing '/Game/YueErn/YE_Menus/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_1' ref from Metadata '/Game/YE_Menus/MainMenu.PackageMetaData'
+[2025.05.20-00.47.06:220][404]LogMetaData: Removing '/Game/YueErn/YE_Menus/MainMenu.SKEL_MainMenu_C:ReceiveBeginPlay' ref from Metadata '/Game/YE_Menus/MainMenu.PackageMetaData'
+[2025.05.20-00.47.06:220][404]LogMetaData: Removing '/Game/YueErn/YE_Menus/MainMenu.SKEL_MainMenu_C:ReceiveTick' ref from Metadata '/Game/YE_Menus/MainMenu.PackageMetaData'
+[2025.05.20-00.47.06:220][404]LogMetaData: Removing '/Game/YueErn/YE_Menus/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/YE_Menus/MainMenu.PackageMetaData'
+[2025.05.20-00.47.06:220][404]LogMetaData: Removing '/Game/YueErn/YE_Menus/MainMenu.MainMenu_C:ReceiveBeginPlay' ref from Metadata '/Game/YE_Menus/MainMenu.PackageMetaData'
+[2025.05.20-00.47.06:226][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.47.06:421][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.47.06:445][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.20-00.47.06:451][404]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/YueErn/YE_Menus/MainMenu does not exist, will not scan.
+[2025.05.20-00.47.06:460][404]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Menus/MainMenu
+[2025.05.20-00.47.06:460][404]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/MainMenuE66C967D480C724C927B4E802F77A31E.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Menus/MainMenu.umap'
+[2025.05.20-00.47.06:478][404]LogFileHelpers: Saving map 'MainMenu' took 0.058
+[2025.05.20-00.47.06:480][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Menus/MainMenu" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap" SILENT=true
+[2025.05.20-00.47.06:482][404]LogSavePackage: Moving output files for package: /Game/YE_Menus/MainMenu
+[2025.05.20-00.47.06:484][404]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/MainMenuC1E906D244439B30C7FBE9AA8D5B80A4.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Menus/MainMenu.umap'
+[2025.05.20-00.47.06:487][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.47.06:507][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.20-00.47.06:512][404]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Menus/PauseMenu
+[2025.05.20-00.47.06:512][404]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/PauseMenuC66B8C9E40C513E0B00C04B38196B4EF.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Menus/PauseMenu.umap'
+[2025.05.20-00.47.06:524][404]LogFileHelpers: Saving map 'PauseMenu' took 0.037
+[2025.05.20-00.47.06:540][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 313 ms (total: 7.82 sec)
+[2025.05.20-00.47.06:567][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.20-00.47.06:587][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.20-00.47.06:604][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.20-00.47.06:757][404]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.47.06:757][404]LogContentValidation: Display: Validating /Script/Engine.World /Game/YueErn/YE_Menus/MainMenu.MainMenu
+[2025.05.20-00.47.06:757][404]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Menus/MainMenu.MainMenu_C
+[2025.05.20-00.47.06:757][404]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Menus/MainMenu.MainMenu
+[2025.05.20-00.47.06:757][404]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Menus/MainMenu.Default__MainMenu_C
+[2025.05.20-00.47.06:757][404]LogContentValidation: Display: Validating /Script/Engine.World /Game/YueErn/YE_Menus/PauseMenu.PauseMenu
+[2025.05.20-00.47.06:910][405]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.48.08:076][162]BlueprintLog: New page: Compile BP_FirstPersonPlayerController
+[2025.05.20-00.48.08:122][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.20-00.48.09:389][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.48.09:536][231]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2025.05.20-00.48.09:537][231]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonPlayerController359680934B39B076D78949813D75FA5A.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2025.05.20-00.48.09:554][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 7.98 sec)
+[2025.05.20-00.48.09:555][231]AssetCheck: New page: Asset Save: BP_FirstPersonPlayerController
+[2025.05.20-00.48.09:555][231]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2025.05.20-00.48.12:859][392]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.20-00.48.12:898][392]LogBlueprint: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\YueErn\YE_Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "Target" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get Target
+[2025.05.20-00.48.12:903][392]LogBlueprint: Error: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\YueErn\YE_Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Target  could not be found in '/Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2025.05.20-00.48.12:950][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.05.20-00.48.29:270][196]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.05.20-00.48.29:355][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.05.20-00.48.29:374][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter'!
+[2025.05.20-00.48.29:374][196]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_FirstPersonCharacter_C_12
+[2025.05.20-00.48.31:478][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.48.31:708][291]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter
+[2025.05.20-00.48.31:709][291]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonCharacter0D021734433115AF9AFA66B605F81B41.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.20-00.48.31:723][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 8.23 sec)
+[2025.05.20-00.48.31:727][291]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.05.20-00.48.31:727][291]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.20-00.48.35:959][524]LogViewport: Scene viewport resized to 1370x395, mode Windowed.
+[2025.05.20-00.48.35:991][525]LogViewport: Scene viewport resized to 1370x414, mode Windowed.
+[2025.05.20-00.48.36:021][526]LogViewport: Scene viewport resized to 1370x430, mode Windowed.
+[2025.05.20-00.48.36:056][527]LogViewport: Scene viewport resized to 1370x459, mode Windowed.
+[2025.05.20-00.48.36:093][528]LogViewport: Scene viewport resized to 1370x499, mode Windowed.
+[2025.05.20-00.48.36:131][529]LogViewport: Scene viewport resized to 1370x523, mode Windowed.
+[2025.05.20-00.48.36:168][530]LogViewport: Scene viewport resized to 1370x543, mode Windowed.
+[2025.05.20-00.48.36:209][531]LogViewport: Scene viewport resized to 1370x559, mode Windowed.
+[2025.05.20-00.48.36:240][532]LogViewport: Scene viewport resized to 1370x568, mode Windowed.
+[2025.05.20-00.48.36:276][533]LogViewport: Scene viewport resized to 1370x577, mode Windowed.
+[2025.05.20-00.48.36:309][534]LogViewport: Scene viewport resized to 1370x586, mode Windowed.
+[2025.05.20-00.48.36:364][535]LogViewport: Scene viewport resized to 1370x591, mode Windowed.
+[2025.05.20-00.48.37:306][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-00.48.37:328][588]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.05.20-00.48.37:330][588]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2025.05.20-00.48.37:363][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.05.20-00.48.37:372][588]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2025.05.20-00.48.37:374][588]PIE: New page: PIE session: Level1 (May 20, 2025, 4:48:37 PM)
+[2025.05.20-00.48.37:377][588]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.20-00.48.37:407][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030646s)
+[2025.05.20-00.48.37:407][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.030726s)
+[2025.05.20-00.48.37:425][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.20-00.48.37:432][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.48.37:434][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.48.37:437][588]LogAIModule: Creating AISystem for world Level1
+[2025.05.20-00.48.37:443][588]LogPlayLevel: PIE: World Init took: (0.013764s)
+[2025.05.20-00.48.37:445][588]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.20-00.48.37:446][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-00.48.37:446][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-00.48.37:446][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-00.48.37:446][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-00.48.37:446][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-00.48.37:446][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-00.48.37:446][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-00.48.37:446][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-00.48.37:450][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-00.48.37:450][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-00.48.37:450][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-00.48.37:454][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-00.48.37:550][588]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-00.48.37:553][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-00.48.37:553][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-00.48.37:553][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-00.48.37:557][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.20-00.48.37:557][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.20-00.48.37:560][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.20-00.48.37:560][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.20-00.48.37:560][588]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.20-00.48.37:560][588]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2025.05.20-00.48.37:560][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.20-00.48.37:579][588]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-00.48.37:593][588]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.20-08.48.37
+[2025.05.20-00.48.37:594][588]LogWorld: Bringing up level for play took: 0.015788
+[2025.05.20-00.48.37:607][588]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.05.20-00.48.37:654][588]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.20-00.48.37:656][588]PIE: Server logged in
+[2025.05.20-00.48.37:657][588]PIE: Play in editor total start time 0.333 seconds.
+[2025.05.20-00.48.49:283][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-00.48.49:284][ 80]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.20-00.48.49:288][ 80]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-00.48.49:292][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.48.49:305][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-00.48.49:315][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-00.48.49:336][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-00.48.49:340][ 80]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.20-00.48.49:342][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.20-00.48.49:345][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.20-00.48.49:374][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.05.20-00.48.49:494][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.05.20-00.48.51:716][169]LogViewport: Scene viewport resized to 1159x525, mode Windowed.
+[2025.05.20-00.48.54:229][170]LogAutomationController: Ignoring very large delta of 2.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.48.55:444][236]LogViewport: Scene viewport resized to 1370x591, mode Windowed.
+[2025.05.20-00.48.57:563][358]LogViewport: Scene viewport resized to 1370x590, mode Windowed.
+[2025.05.20-00.48.57:593][359]LogViewport: Scene viewport resized to 1370x574, mode Windowed.
+[2025.05.20-00.48.57:627][360]LogViewport: Scene viewport resized to 1370x549, mode Windowed.
+[2025.05.20-00.48.57:670][361]LogViewport: Scene viewport resized to 1370x523, mode Windowed.
+[2025.05.20-00.48.57:709][362]LogViewport: Scene viewport resized to 1370x493, mode Windowed.
+[2025.05.20-00.48.57:747][363]LogViewport: Scene viewport resized to 1370x485, mode Windowed.
+[2025.05.20-00.48.57:785][364]LogViewport: Scene viewport resized to 1370x484, mode Windowed.
+[2025.05.20-00.48.57:823][365]LogViewport: Scene viewport resized to 1370x483, mode Windowed.
+[2025.05.20-00.48.57:863][366]LogViewport: Scene viewport resized to 1370x482, mode Windowed.
+[2025.05.20-00.49.52:274][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.20-00.49.53:974][588]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-00.49.53:999][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.49.54:219][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.05.20-00.49.54:223][588]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/BP_MainMenuMode
+[2025.05.20-00.49.54:225][588]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_MainMenuModeD7B845B4444D6DCA3E47B39394DA0AD1.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenuMode.uasset'
+[2025.05.20-00.49.54:227][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YE_Blueprints/WP_MainMenu" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset" SILENT=true
+[2025.05.20-00.49.54:228][588]LogSavePackage: Moving output files for package: /Game/YE_Blueprints/WP_MainMenu
+[2025.05.20-00.49.54:230][588]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WP_MainMenuF1D6FC3B4F71B88E1BE3A498FDD9A4F6.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset'
+[2025.05.20-00.49.54:247][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 246 ms (total: 8.47 sec)
+[2025.05.20-00.49.54:250][588]LogAssetRegistry: Warning: C:/Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/BP_MainMenuMode.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.05.20-00.49.54:250][588]LogAssetRegistry: Warning: C:/Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YE_Blueprints/WP_MainMenu.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.05.20-00.49.54:257][588]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.49.54:257][588]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode_C
+[2025.05.20-00.49.54:257][588]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu_C
+[2025.05.20-00.49.54:278][589]LogAutomationController: Ignoring very large delta of 2.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.52.59:682][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5971.497559
+[2025.05.20-00.53.00:681][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.53.00:681][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5972.163574, Update Interval: 331.495117
+[2025.05.20-00.57.16:716][481]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2025.05.20-00.57.16:725][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.092
+[2025.05.20-00.59.11:795][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6343.623535
+[2025.05.20-00.59.12:794][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.59.12:794][831]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6344.290039, Update Interval: 332.015137
+[2025.05.20-01.05.17:837][926]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6709.679199
+[2025.05.20-01.05.19:172][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-01.05.19:172][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6710.679688, Update Interval: 358.080994
+[2025.05.20-01.07.17:103][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.20-01.07.17:106][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.029
+[2025.05.20-01.12.13:891][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7125.752441
+[2025.05.20-01.12.14:891][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-01.12.14:891][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7126.419434, Update Interval: 343.668335
+[2025.05.20-01.17.17:545][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.20-01.17.17:548][ 83]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.036
+[2025.05.20-01.18.49:952][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7521.826660
+[2025.05.20-01.18.50:969][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-01.18.50:969][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7522.505859, Update Interval: 301.127960
+[2025.05.20-01.19.29:108][478]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.05.20-01.19.29:187][478]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.078 s
+[2025.05.20-01.19.29:187][478]LogOutputDevice: Error: === Handled ensure: ===
+[2025.05.20-01.19.29:187][478]LogOutputDevice: Error: 
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: Ensure condition failed: AssetObject->IsA(AssetClass)  [File:D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\FindInBlueprintManager.cpp] [Line: 2172] 
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: AssetClass (World) matched handler, but does not match actual object type (ObjectRedirector) for asset: /Game/YE_Menus/MainMenu.MainMenu.
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: Stack: 
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe71da324f UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe71d64941 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe7171c26c UnrealEditor-AssetRegistry.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe71747d4c UnrealEditor-AssetRegistry.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe7172abe1 UnrealEditor-AssetRegistry.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe6aa9e4fb UnrealEditor-DirectoryWatcher.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe6aaa66d8 UnrealEditor-DirectoryWatcher.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe6aaa5fa3 UnrealEditor-DirectoryWatcher.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe73ee4975 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe74b3ea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db248af2 UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db26d28c UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db26d37a UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db270854 UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db286984 UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db289d7a UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007fff8d6fe8d7 KERNEL32.DLL!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007fff8f51c5dc ntdll.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: 
+[2025.05.20-01.19.29:196][478]LogStats:                SubmitErrorReport -  0.000 s
+[2025.05.20-01.19.32:509][478]LogStats:                    SendNewReport -  3.313 s
+[2025.05.20-01.19.32:510][478]LogStats:             FDebug::EnsureFailed -  3.402 s
+[2025.05.20-01.19.32:513][479]LogAutomationController: Ignoring very large delta of 3.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
