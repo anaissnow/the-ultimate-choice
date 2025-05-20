@@ -2644,3 +2644,312 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.05.20-00.25.54:575][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9998.923828
 [2025.05.20-00.25.55:575][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.20-00.25.55:575][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9999.591797, Update Interval: 328.874786
+[2025.05.20-00.31.59:129][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10363.458008
+[2025.05.20-00.32.00:129][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.32.00:129][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10364.125000, Update Interval: 310.303650
+[2025.05.20-00.38.01:173][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10725.457031
+[2025.05.20-00.38.02:174][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.38.02:174][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10726.125977, Update Interval: 354.125793
+[2025.05.20-00.41.23:977][345]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.333 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6924 files in 8721 folders with total size 1029 MiB.
+[2025.05.20-00.44.28:106][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11112.336914
+[2025.05.20-00.44.29:107][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.44.29:107][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11113.004883, Update Interval: 303.691528
+[2025.05.20-00.44.40:596][666]LogSlate: Took 0.009340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.20-00.44.46:518][666]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2025.05.20-00.44.47:807][666]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2025.05.20-00.44.47:827][666]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2025.05.20-00.44.47:844][667]LogAutomationController: Ignoring very large delta of 9.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.44.47:858][667]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2025.05.20-00.45.04:947][679]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> Fire_Particle
+[2025.05.20-00.45.05:436][679]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Total job queries 267, among them cache hits 190 (71.16%)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Tracking 77 distinct input hashes that result in 45 distinct outputs (58.44%)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: RAM used: 1.94 MiB of 716.80 MiB budget. Usage: 0.27%
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Shaders Compiled: 71
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Jobs assigned 71, completed 71 (100%)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Average time worker was idle: 206.69 s
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.69 s
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 3.39 s
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Job life time (pending + execution): average 1.22 s, max 3.53
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Shader code size: average 44.445 KiB, min 4.07 KiB, max 76.641 KiB
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.86 s
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Jobs were issued in 71 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Average processing rate: 2.64 jobs/sec
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Total thread time: 69.353 s
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Total thread preprocess time: 3.168 s
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Percentage time preprocessing: 4.57%
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 3.07 sec, max 3.11 sec, min 3.03 sec)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.03 sec, max 3.05 sec, min 3.00 sec)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 3.02 sec, max 3.03 sec, min 3.02 sec)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 3.01 sec, max 3.08 sec, min 2.94 sec)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.51% of total time (compiled    5 times, average 2.43 sec, max 2.54 sec, min 2.31 sec)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.50% of total time (compiled   11 times, average 0.79 sec, max 3.00 sec, min 0.23 sec)
+[2025.05.20-00.45.06:961][761]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.89% of total time (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.45.06:963][761]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.84% of total time (compiled    2 times, average 3.07 sec, max 3.11 sec, min 3.03 sec)
+[2025.05.20-00.45.06:963][761]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.74% of total time (compiled    2 times, average 3.03 sec, max 3.05 sec, min 3.00 sec)
+[2025.05.20-00.45.06:963][761]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.45.14:141][829]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 9.124344 sec (time since issued), 7.322876 sec (combined shader worker time).
+[2025.05.20-00.45.30:086][ 56]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-00.45.30:512][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.45.30:522][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.45.30:935][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-00.45.30:935][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-00.45.31:372][ 56]LogViewport: Scene viewport resized to 377x395, mode Windowed.
+[2025.05.20-00.45.35:062][ 87]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 4.468751 sec (time since issued), 3.618755 sec (combined shader worker time).
+[2025.05.20-00.45.35:524][ 94]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.46.45:306][138]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.962068 sec (time since issued), 1.798536 sec (combined shader worker time).
+[2025.05.20-00.46.45:680][145]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.49.16:619][787]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.49.17:701][826]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.49.17:701][826]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-00.49.17:701][826]LogShaderCompilers: Display: Total job queries 279, among them cache hits 191 (68.46%)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 53 distinct outputs (60.23%)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: RAM used: 2.14 MiB of 716.80 MiB budget. Usage: 0.30%
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Shaders Compiled: 82
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100%)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Average time worker was idle: 179.31 s
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.69 s
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 3.39 s
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 3.53
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Shader code size: average 40.899 KiB, min 1.932 KiB, max 76.641 KiB
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.25 s
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Jobs were issued in 82 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Average processing rate: 2.62 jobs/sec
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Total thread time: 72.035 s
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Total thread preprocess time: 3.168 s
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Percentage time preprocessing: 4.40%
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 3.07 sec, max 3.11 sec, min 3.03 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.03 sec, max 3.05 sec, min 3.00 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 3.02 sec, max 3.03 sec, min 3.02 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 3.01 sec, max 3.08 sec, min 2.94 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.85% of total time (compiled    5 times, average 2.43 sec, max 2.54 sec, min 2.31 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.03% of total time (compiled   11 times, average 0.79 sec, max 3.00 sec, min 0.23 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.56% of total time (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.51% of total time (compiled    2 times, average 3.07 sec, max 3.11 sec, min 3.03 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.41% of total time (compiled    2 times, average 3.03 sec, max 3.05 sec, min 3.00 sec)
+[2025.05.20-00.49.17:702][826]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.49.18:601][832]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 2.203275 sec (time since issued), 2.138454 sec (combined shader worker time).
+[2025.05.20-00.49.18:944][839]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.49.57:553][546]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.49.59:592][600]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 2.281908 sec (time since issued), 2.095297 sec (combined shader worker time).
+[2025.05.20-00.50.01:901][607]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.50.28:147][ 40]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11472.411133
+[2025.05.20-00.50.28:455][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.50.28:455][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11472.701172, Update Interval: 319.133270
+[2025.05.20-00.50.54:742][ 68]LogMaterial: Display: Material /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV needed to have new flag set bUsedWithNiagaraSprites !
+[2025.05.20-00.51.59:692][600]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.52.01:040][648]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.568812 sec (time since issued), 1.421938 sec (combined shader worker time).
+[2025.05.20-00.52.03:272][655]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.52.10:813][727]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.52.11:759][761]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.155633 sec (time since issued), 0.993028 sec (combined shader worker time).
+[2025.05.20-00.52.12:839][795]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.52.13:156][805]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.305129 sec (time since issued), 1.211761 sec (combined shader worker time).
+[2025.05.20-00.52.14:855][852]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.52.17:291][868]LogAutomationController: Ignoring very large delta of 2.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.52.28:127][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.20-00.52.28:141][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.52.28:279][398]LogSavePackage: Moving output files for package: /Game/YT_Materials/Fire_Particle
+[2025.05.20-00.52.28:279][398]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Fire_ParticleC9C484964D56F42E391E6C8CDAD87D2E.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Materials/Fire_Particle.uasset'
+[2025.05.20-00.52.28:393][398]LogSavePackage: Moving output files for package: /Game/StarterContent/Particles/Materials/M_Fire_SubUV
+[2025.05.20-00.52.28:393][398]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/M_Fire_SubUV2E68D6E04C88AE7E2061CF8DF15344AB.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset'
+[2025.05.20-00.52.28:412][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 10.6 sec)
+[2025.05.20-00.52.28:413][398]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.20-00.52.28:413][398]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-00.52.28:414][398]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV
+[2025.05.20-00.53.25:025][294]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Total job queries 310, among them cache hits 193 (62.26%)
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Tracking 117 distinct input hashes that result in 74 distinct outputs (63.25%)
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: RAM used: 3.07 MiB of 716.80 MiB budget. Usage: 0.43%
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Shaders Compiled: 111
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Jobs assigned 111, completed 111 (100%)
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Average time worker was idle: 769.88 s
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.69 s
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Job execution time: average 1.26 s, max 3.39 s
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 3.53
+[2025.05.20-00.53.25:895][331]LogShaderCompilers: Display: Shader code size: average 43.787 KiB, min 1.932 KiB, max 83.359 KiB
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.32 s
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Jobs were issued in 99 batches (only local compilation was used), average 1.12 jobs/batch
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Average processing rate: 2.82 jobs/sec
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Total thread time: 91.601 s
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Total thread preprocess time: 11.004 s
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Percentage time preprocessing: 12.01%
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Effective parallelization: 2.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 3.07 sec, max 3.11 sec, min 3.03 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.03 sec, max 3.05 sec, min 3.00 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 3.02 sec, max 3.03 sec, min 3.02 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 3.01 sec, max 3.08 sec, min 2.94 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.42% of total time (compiled    9 times, average 1.67 sec, max 2.54 sec, min 0.26 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.21% of total time (compiled   15 times, average 0.87 sec, max 3.00 sec, min 0.23 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.10% of total time (compiled   18 times, average 0.46 sec, max 1.60 sec, min 0.28 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:                                               FNiagaraShader - 7.62% of total time (compiled   21 times, average 0.33 sec, max 0.71 sec, min 0.07 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.73% of total time (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.53.25:897][331]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.53.26:296][338]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.509039 sec (time since issued), 1.430960 sec (combined shader worker time).
+[2025.05.20-00.53.27:580][347]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.55.39:403][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.20-00.55.39:413][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.55.39:532][275]LogSavePackage: Moving output files for package: /Game/YT_Materials/Fire_Particle
+[2025.05.20-00.55.39:532][275]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Fire_ParticleCCDC7E934668ABB0EB2D29B79361F5B3.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Materials/Fire_Particle.uasset'
+[2025.05.20-00.55.39:544][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 10.7 sec)
+[2025.05.20-00.55.39:545][275]AssetCheck: New page: Asset Save: Fire_Particle
+[2025.05.20-00.55.39:545][275]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-00.56.04:890][332]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:297 H:0
+[2025.05.20-00.56.05:213][334]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.56.06:900][386]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.994203 sec (time since issued), 1.902364 sec (combined shader worker time).
+[2025.05.20-00.56.09:368][393]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.56.20:213][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11824.427734
+[2025.05.20-00.56.21:215][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.56.21:215][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11825.094727, Update Interval: 342.082581
+[2025.05.20-00.58.02:716][457]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Total job queries 314, among them cache hits 193 (61.46%)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 78 distinct outputs (64.46%)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: RAM used: 3.21 MiB of 716.80 MiB budget. Usage: 0.45%
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Shaders Compiled: 115
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Jobs assigned 115, completed 115 (100%)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Average time worker was idle: 740.36 s
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.69 s
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Job execution time: average 1.24 s, max 3.39 s
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 3.53
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Shader code size: average 43.488 KiB, min 1.932 KiB, max 83.359 KiB
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.09 s
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Jobs were issued in 103 batches (only local compilation was used), average 1.12 jobs/batch
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Average processing rate: 2.73 jobs/sec
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Total thread time: 93.62 s
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Total thread preprocess time: 11.004 s
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Percentage time preprocessing: 11.75%
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Effective parallelization: 2.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 3.07 sec, max 3.11 sec, min 3.03 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.03 sec, max 3.05 sec, min 3.00 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 3.02 sec, max 3.03 sec, min 3.02 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 3.01 sec, max 3.08 sec, min 2.94 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.06% of total time (compiled    9 times, average 1.67 sec, max 2.54 sec, min 0.26 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.91% of total time (compiled   15 times, average 0.87 sec, max 3.00 sec, min 0.23 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:                                               FNiagaraShader - 9.61% of total time (compiled   25 times, average 0.36 sec, max 0.97 sec, min 0.07 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.91% of total time (compiled   18 times, average 0.46 sec, max 1.60 sec, min 0.28 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.58% of total time (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-00.58.03:705][502]LogShaderCompilers: Display: ================================================
+[2025.05.20-00.58.04:205][519]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.710499 sec (time since issued), 1.561450 sec (combined shader worker time).
+[2025.05.20-00.58.04:972][528]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.58.07:700][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.05.20-00.58.07:708][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-00.58.07:843][656]LogSavePackage: Moving output files for package: /Game/YT_Materials/Fire_Particle
+[2025.05.20-00.58.07:844][656]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Fire_Particle38DE8F3D41D759D4EFA75D8EB2011A9F.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Materials/Fire_Particle.uasset'
+[2025.05.20-00.58.07:854][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 10.9 sec)
+[2025.05.20-00.58.07:857][656]AssetCheck: New page: Asset Save: Fire_Particle
+[2025.05.20-00.58.07:857][656]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-00.58.51:663][120]LogNiagaraEditor: Removed Var 'Constants.Fire.Color.Color' from Script NiagaraScript /Game/YT_Materials/Fire_Particle.Fire_Particle:Fire_0.SpawnScript
+[2025.05.20-00.58.51:665][120]LogNiagaraEditor: Removed Var 'Constants.Fire.Color.Color' from Script NiagaraScript /Game/YT_Materials/Fire_Particle.Fire_Particle:Fire_0.UpdateScript
+[2025.05.20-00.58.51:995][122]49830_Fire_Particle_MessageLog: System compile status unknown.
+[2025.05.20-00.58.53:342][175]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 1.560475 sec (time since issued), 1.486525 sec (combined shader worker time).
+[2025.05.20-00.58.54:073][184]49830_Fire_Particle_MessageLog: System successfully compiled.
+[2025.05.20-00.59.52:336][683]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.00.09:587][441]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.00.24:807][211]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.01.02:002][527]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.01.08:252][842]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.01.15:774][212]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.01.20:847][455]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.01.25:455][669]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.01.34:602][111]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.01.53:282][938]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.02.16:155][600]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.02.20:682][815]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.02.26:611][101]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-01.02.45:790][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12210.034180
+[2025.05.20-01.02.46:790][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-01.02.46:790][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12210.702148, Update Interval: 325.298615
+[2025.05.20-01.03.12:194][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.05.20-01.03.12:201][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-01.03.12:326][729]LogSavePackage: Moving output files for package: /Game/YT_Materials/Fire_Particle
+[2025.05.20-01.03.12:326][729]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Fire_Particle8385B4B748BBCA05C14E8DABDB117480.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Materials/Fire_Particle.uasset'
+[2025.05.20-01.03.12:336][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 11.0 sec)
+[2025.05.20-01.03.12:339][729]AssetCheck: New page: Asset Save: Fire_Particle
+[2025.05.20-01.03.12:339][729]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-01.03.19:629][121]LogSlate: Window 'Fire_Particle' being destroyed
+[2025.05.20-01.03.19:639][121]LogSlate: Window 'Fire_Particle' being destroyed
+[2025.05.20-01.03.19:678][121]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-01.03.19:707][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-01.03.19:745][121]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-01.03.19:745][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-01.03.19:979][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.20-01.03.21:011][177]LogShaderCompilers: Display: ================================================
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Total job queries 318, among them cache hits 193 (60.69%)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Tracking 125 distinct input hashes that result in 82 distinct outputs (65.60%)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: RAM used: 3.33 MiB of 716.80 MiB budget. Usage: 0.46%
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Shaders Compiled: 119
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Jobs assigned 119, completed 119 (100%)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Average time worker was idle: 713.63 s
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.69 s
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Job execution time: average 1.21 s, max 3.39 s
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Job life time (pending + execution): average 1.29 s, max 3.53
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Shader code size: average 43.03 KiB, min 1.932 KiB, max 83.359 KiB
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.50 s
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Jobs were issued in 107 batches (only local compilation was used), average 1.11 jobs/batch
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Average processing rate: 2.67 jobs/sec
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Total thread time: 95.309 s
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Total thread preprocess time: 11.004 s
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Percentage time preprocessing: 11.55%
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Effective parallelization: 2.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 3.07 sec, max 3.11 sec, min 3.03 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 3.03 sec, max 3.05 sec, min 3.00 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 3.02 sec, max 3.03 sec, min 3.02 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 3.01 sec, max 3.08 sec, min 2.94 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 15.78% of total time (compiled    9 times, average 1.67 sec, max 2.54 sec, min 0.26 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.66% of total time (compiled   15 times, average 0.87 sec, max 3.00 sec, min 0.23 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:                                               FNiagaraShader - 11.21% of total time (compiled   29 times, average 0.37 sec, max 0.97 sec, min 0.07 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.75% of total time (compiled   18 times, average 0.46 sec, max 1.60 sec, min 0.28 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.47% of total time (compiled    2 times, average 3.08 sec, max 3.12 sec, min 3.05 sec)
+[2025.05.20-01.03.21:012][177]LogShaderCompilers: Display: ================================================
+[2025.05.20-01.03.21:957][227]LogNiagara: Compiling System NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle took 2.310228 sec (time since issued), 2.059010 sec (combined shader worker time).
+[2025.05.20-01.03.29:308][652]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-01.03.29:308][652]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-01.03.29:320][652]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle as actor: NiagaraActor /Game/YT_Level/Level3.Level3:PersistentLevel.NiagaraActor_0
+[2025.05.20-01.03.29:323][652]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle as actor: NiagaraActor /Game/YT_Level/Level3.Level3:PersistentLevel.NiagaraActor_0
+[2025.05.20-01.03.30:862][742]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-01.03.30:862][742]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle
+[2025.05.20-01.03.30:872][742]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle as actor: NiagaraActor /Game/YT_Level/Level3.Level3:PersistentLevel.NiagaraActor_1
+[2025.05.20-01.03.30:872][742]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/YT_Materials/Fire_Particle.Fire_Particle as actor: NiagaraActor /Game/YT_Level/Level3.Level3:PersistentLevel.NiagaraActor_1
+[2025.05.20-01.04.01:022][512]Cmd: TRANSACTION UNDO
+[2025.05.20-01.04.01:022][512]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.20-01.04.02:694][593]Cmd: TRANSACTION UNDO
+[2025.05.20-01.04.02:694][593]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.20-01.04.03:207][622]Cmd: TRANSACTION UNDO
+[2025.05.20-01.04.03:207][622]LogEditorTransaction: Undo Move Elements
+[2025.05.20-01.04.03:715][652]Cmd: TRANSACTION UNDO
+[2025.05.20-01.04.03:715][652]LogEditorTransaction: Undo Move Elements
+[2025.05.20-01.04.04:584][704]Cmd: TRANSACTION UNDO
+[2025.05.20-01.04.04:584][704]LogEditorTransaction: Undo Scale Elements
+[2025.05.20-01.06.23:399][490]Cmd: DELETE
+[2025.05.20-01.06.23:399][490]Cmd: ACTOR DELETE
+[2025.05.20-01.06.23:439][490]LogEditorActor: Deleted Actor: NiagaraActor
+[2025.05.20-01.06.23:451][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.20-01.06.23:455][490]LogEditorActor: Deleted 1 Actors (0.034 secs)
