@@ -2567,3 +2567,1336 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.20-03.15.52:551][744]AssetCheck: New page: Asset Save: multiple assets
 [2025.05.20-03.15.52:551][744]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/YueErn/YE_Materials/497713__miksmusic__punch-grunt-1.497713__miksmusic__punch-grunt-1
 [2025.05.20-03.15.52:551][744]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/YueErn/YE_Materials/HurtGrunt.HurtGrunt
+[2025.05.20-03.17.01:590][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.17.01:603][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.17.01:605][493]PIE: New page: PIE session: MainMenu (May 20, 2025, 7:17:01 PM)
+[2025.05.20-03.17.01:605][493]LogPlayLevel: Creating play world package: /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.17.01:607][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002480s)
+[2025.05.20-03.17.01:607][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YueErn/YE_Menus/MainMenu.MainMenu to /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu (0.002538s)
+[2025.05.20-03.17.01:625][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.05.20-03.17.01:627][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.17.01:627][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.17.01:627][493]LogAIModule: Creating AISystem for world MainMenu
+[2025.05.20-03.17.01:628][493]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2025.05.20-03.17.01:628][493]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.05.20-03.17.01:628][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.17.01:628][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.17.01:628][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.17.01:628][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.17.01:628][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.17.01:628][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.17.01:628][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.17.01:628][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.17.01:628][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.17.01:628][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.17.01:628][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.17.01:631][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.17.01:713][493]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.17.01:715][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.17.01:715][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.17.01:715][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.17.01:715][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.05.20-03.17.01:715][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.05.20-03.17.01:718][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.05.20-03.17.01:718][493]LogInit: FAudioDevice initialized with ID 14.
+[2025.05.20-03.17.01:718][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.05.20-03.17.01:718][493]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2025.05.20-03.17.01:718][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.05.20-03.17.01:723][493]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.05.20-03.17.01:724][493]LogWorld: Bringing World /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.05.20-11.17.01
+[2025.05.20-03.17.01:724][493]LogWorld: Bringing up level for play took: 0.000468
+[2025.05.20-03.17.01:727][493]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.05.20-03.17.01:733][493]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.20-03.17.01:733][493]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.20-03.17.01:735][493]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.05.20-03.17.01:735][493]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.05.20-03.17.01:735][493]PIE: Server logged in
+[2025.05.20-03.17.01:736][493]PIE: Play in editor total start time 0.132 seconds.
+[2025.05.20-03.17.04:276][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.17.04:277][637]LogWorld: BeginTearingDown for /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.17.04:277][637]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.17.04:277][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.17.04:281][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.17.04:286][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.17.04:303][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.17.04:303][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.05.20-03.17.04:303][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.05.20-03.17.04:305][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.05.20-03.17.04:312][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.20-03.17.04:343][638]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.05.20-03.17.22:869][726]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.17.22:870][726]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.17.22:870][726]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.17.22:883][726]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.17.22:883][726]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.17.45:573][902]LogSlate: External Image Picker: DecompressImage failed
+[2025.05.20-03.18.04:310][864]LogSlate: Window 'WBP_PlayerStatus' being destroyed
+[2025.05.20-03.18.04:331][864]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.18.04:331][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.04:345][864]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.18.04:345][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.05:394][922]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.18.05:407][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.18.05:407][922]PIE: New page: PIE session: MainMenu (May 20, 2025, 7:18:05 PM)
+[2025.05.20-03.18.05:407][922]LogPlayLevel: Creating play world package: /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.18.05:418][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001493s)
+[2025.05.20-03.18.05:418][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YueErn/YE_Menus/MainMenu.MainMenu to /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu (0.001533s)
+[2025.05.20-03.18.05:429][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.05.20-03.18.05:432][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.18.05:433][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.18.05:433][922]LogAIModule: Creating AISystem for world MainMenu
+[2025.05.20-03.18.05:433][922]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2025.05.20-03.18.05:433][922]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.05.20-03.18.05:433][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.18.05:433][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.18.05:433][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.18.05:433][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.18.05:433][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.18.05:433][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.18.05:433][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.18.05:433][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.18.05:434][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.18.05:434][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.18.05:434][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.18.05:436][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.18.05:511][922]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.18.05:511][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.18.05:511][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.18.05:511][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.18.05:511][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.05.20-03.18.05:511][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.05.20-03.18.05:514][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.05.20-03.18.05:514][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.05.20-03.18.05:514][922]LogInit: FAudioDevice initialized with ID 15.
+[2025.05.20-03.18.05:514][922]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2025.05.20-03.18.05:514][922]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.05.20-03.18.05:517][922]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.05.20-03.18.05:518][922]LogWorld: Bringing World /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.05.20-11.18.05
+[2025.05.20-03.18.05:518][922]LogWorld: Bringing up level for play took: 0.000431
+[2025.05.20-03.18.05:521][922]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.05.20-03.18.05:525][922]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.20-03.18.05:525][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.20-03.18.05:526][922]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.05.20-03.18.05:526][922]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.05.20-03.18.05:526][922]PIE: Server logged in
+[2025.05.20-03.18.05:527][922]PIE: Play in editor total start time 0.121 seconds.
+[2025.05.20-03.18.08:159][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.18.08:159][ 72]LogWorld: BeginTearingDown for /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.18.08:159][ 72]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.18.08:159][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.08:163][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.18.08:168][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.08:183][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.18.08:183][ 72]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.05.20-03.18.08:183][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.05.20-03.18.08:185][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.05.20-03.18.08:194][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.18.08:198][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.20-03.18.08:224][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.05.20-03.18.19:426][702]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.20-03.18.19:436][702]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.20-03.18.21:130][796]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.18.21:130][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.18.21:130][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.18.21:141][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.18.21:141][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.18.31:059][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.18.31:232][347]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/WBP_PlayerStatus
+[2025.05.20-03.18.31:234][347]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WBP_PlayerStatus5149AA2A453996864875A79DF409027E.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/WBP_PlayerStatus.uasset'
+[2025.05.20-03.18.31:248][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 4.96 sec)
+[2025.05.20-03.18.31:252][347]AssetCheck: New page: Asset Save: WBP_PlayerStatus
+[2025.05.20-03.18.31:252][347]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.18.32:727][429]BlueprintLog: New page: Compile WBP_PlayerStatus
+[2025.05.20-03.18.32:779][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.05.20-03.18.36:184][623]LogSlate: Window 'WBP_PlayerStatus' being destroyed
+[2025.05.20-03.18.36:196][623]LogSlate: Window 'WBP_PlayerStatus' being destroyed
+[2025.05.20-03.18.36:204][623]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.18.36:205][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.36:218][623]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.18.36:218][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.37:207][677]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.18.37:218][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.18.37:218][677]PIE: New page: PIE session: MainMenu (May 20, 2025, 7:18:37 PM)
+[2025.05.20-03.18.37:218][677]LogPlayLevel: Creating play world package: /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.18.37:219][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001494s)
+[2025.05.20-03.18.37:219][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YueErn/YE_Menus/MainMenu.MainMenu to /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu (0.001545s)
+[2025.05.20-03.18.37:239][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.20-03.18.37:247][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.18.37:247][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.18.37:247][677]LogAIModule: Creating AISystem for world MainMenu
+[2025.05.20-03.18.37:248][677]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2025.05.20-03.18.37:248][677]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.05.20-03.18.37:248][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.18.37:248][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.18.37:248][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.18.37:248][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.18.37:248][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.18.37:248][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.18.37:248][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.18.37:248][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.18.37:248][677]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.18.37:248][677]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.18.37:248][677]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.18.37:251][677]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.18.37:324][677]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.18.37:324][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.18.37:324][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.18.37:324][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.18.37:325][677]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.05.20-03.18.37:325][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.05.20-03.18.37:328][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.05.20-03.18.37:328][677]LogInit: FAudioDevice initialized with ID 16.
+[2025.05.20-03.18.37:328][677]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2025.05.20-03.18.37:328][677]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.05.20-03.18.37:328][677]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.05.20-03.18.37:332][677]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.05.20-03.18.37:332][677]LogWorld: Bringing World /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.05.20-11.18.37
+[2025.05.20-03.18.37:332][677]LogWorld: Bringing up level for play took: 0.000438
+[2025.05.20-03.18.37:335][677]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.05.20-03.18.37:339][677]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.20-03.18.37:339][677]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.20-03.18.37:340][677]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.05.20-03.18.37:341][677]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.05.20-03.18.37:341][677]PIE: Server logged in
+[2025.05.20-03.18.37:341][677]PIE: Play in editor total start time 0.124 seconds.
+[2025.05.20-03.18.37:352][677]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:353][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:353][677]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:354][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:375][678]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:375][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:375][678]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:375][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:466][679]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:466][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:466][679]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:466][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:486][680]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:486][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:486][680]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:486][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:501][681]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:501][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:501][681]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:501][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:518][682]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:518][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:518][682]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:518][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:534][683]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:534][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:534][683]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:535][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:552][684]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_HealthBar_Percent:0021
+[2025.05.20-03.18.37:552][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:552][684]LogScript: Warning: Accessed None trying to read property FirstPersonChar
+	WBP_PlayerStatus_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.WBP_PlayerStatus_C_0
+	Function /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus_C:Get_EnergyBar_Percent:0021
+[2025.05.20-03.18.37:552][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:568][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:568][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:583][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:585][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:600][687]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:600][687]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:617][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:617][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:634][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:634][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:650][690]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:650][690]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:668][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:668][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:685][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:685][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:702][693]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:702][693]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:718][694]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:718][694]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:735][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:735][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:751][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:751][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:768][697]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:768][697]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:784][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:784][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:800][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:800][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:819][700]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:819][700]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:834][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:834][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:850][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:850][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:867][703]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:867][703]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:884][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:884][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:901][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:901][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:918][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:918][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:935][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:935][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:952][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:952][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:969][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:969][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:984][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.37:986][710]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:001][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:001][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:018][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:018][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:035][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:035][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:052][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:052][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:068][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:068][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:086][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:086][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:101][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:102][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:118][718]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:118][718]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:135][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:135][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:152][720]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:152][720]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:169][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:169][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:183][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:185][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:201][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:201][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:219][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:219][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:235][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:235][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:252][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:252][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:267][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:267][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:285][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:285][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:302][729]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:303][729]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:318][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:318][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:335][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:335][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:351][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:352][732]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:368][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:368][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:384][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:384][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:403][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:403][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:418][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:418][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:436][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:436][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:451][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:451][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:468][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:468][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:484][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:484][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:502][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:503][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:519][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:519][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:535][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:536][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:552][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:552][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:569][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:569][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:585][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:586][746]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:602][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:602][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:621][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:621][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:636][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:637][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:654][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:654][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:670][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:670][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:686][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:686][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:703][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:703][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:719][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:719][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:736][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:737][755]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:753][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:753][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:769][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:769][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:786][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:786][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:802][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:802][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:819][760]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:819][760]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:836][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:836][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:852][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:852][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:869][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:869][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:886][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:886][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:903][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:903][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:918][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:918][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:935][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:935][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:952][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:952][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:970][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:970][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:986][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.38:986][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:002][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:002][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:018][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:020][772]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:036][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:036][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:052][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:053][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:069][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:069][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:084][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:084][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:101][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:101][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:118][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:118][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:134][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:135][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:152][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:152][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:168][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:168][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:186][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:186][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:201][783]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:201][783]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:218][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:218][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:234][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:234][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:252][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:252][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:268][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:268][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:284][788]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:284][788]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:301][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:301][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:317][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:317][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:334][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:334][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:351][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:351][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:368][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:368][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:385][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:385][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:401][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:401][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:418][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:418][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:434][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:434][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:450][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:451][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:467][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:467][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:485][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:485][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:501][801]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:501][801]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:519][802]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:519][802]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:534][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:534][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:551][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:551][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:567][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:567][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:584][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:584][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:602][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:602][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:618][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:618][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:634][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:634][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:651][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:651][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:668][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:668][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:685][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:685][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:701][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:702][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:718][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:719][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:735][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:735][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:751][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:751][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:768][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:768][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:784][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:784][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:802][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:802][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:818][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:818][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:835][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:835][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:852][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:852][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:868][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:868][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:884][824]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:884][824]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:902][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:902][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:918][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:918][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:935][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:935][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:951][828]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:951][828]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:968][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:968][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:984][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.39:984][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:001][831]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:001][831]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:018][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:018][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:034][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:034][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:050][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:050][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:068][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:068][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:084][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:084][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:101][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:102][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:118][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:118][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:134][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:134][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:152][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_HealthBar_Percent Function:  Get Health Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:152][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property FirstPersonChar". Node:  Return Node Graph:  Get_EnergyBar_Percent Function:  Get Energy Bar Percent Blueprint:  WBP_PlayerStatus
+[2025.05.20-03.18.40:199][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.18.40:200][841]LogWorld: BeginTearingDown for /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.18.40:200][841]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.18.40:200][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.40:204][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.18.40:209][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.18.40:221][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.18.40:221][841]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.05.20-03.18.40:221][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.05.20-03.18.40:224][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.05.20-03.18.40:232][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.18.40:236][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.20-03.18.40:555][842]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.05.20-03.18.42:478][948]LogSlate: Window 'Message Log' being destroyed
+[2025.05.20-03.18.42:487][948]LogSlate: Window 'Message Log' being destroyed
+[2025.05.20-03.18.43:900][ 26]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.18.43:901][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.18.43:901][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.18.43:910][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.18.43:910][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.18.52:960][521]BlueprintLog: New page: Compile WBP_PlayerStatus
+[2025.05.20-03.18.52:992][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.20-03.18.58:142][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.18.58:291][817]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/WBP_PlayerStatus
+[2025.05.20-03.18.58:293][817]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WBP_PlayerStatus1F1ECC4A4CC67A506629A89A5A4480E9.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/WBP_PlayerStatus.uasset'
+[2025.05.20-03.18.58:306][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 5.13 sec)
+[2025.05.20-03.18.58:311][817]AssetCheck: New page: Asset Save: WBP_PlayerStatus
+[2025.05.20-03.18.58:312][817]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.19.10:229][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.19.10:369][521]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/WBP_PlayerStatus
+[2025.05.20-03.19.10:371][521]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WBP_PlayerStatus4EF34E024184D90C926EBB8A1F518362.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/WBP_PlayerStatus.uasset'
+[2025.05.20-03.19.10:382][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 5.28 sec)
+[2025.05.20-03.19.10:385][521]AssetCheck: New page: Asset Save: WBP_PlayerStatus
+[2025.05.20-03.19.10:385][521]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.19.10:899][547]BlueprintLog: New page: Compile WBP_PlayerStatus
+[2025.05.20-03.19.10:936][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.20-03.19.12:140][616]LogSlate: Window 'WBP_PlayerStatus' being destroyed
+[2025.05.20-03.19.12:156][616]LogSlate: Window 'WBP_PlayerStatus' being destroyed
+[2025.05.20-03.19.12:190][616]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.12:190][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.12:201][616]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.12:201][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.13:065][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.19.13:076][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.19.13:076][662]PIE: New page: PIE session: MainMenu (May 20, 2025, 7:19:13 PM)
+[2025.05.20-03.19.13:110][662]LogPlayLevel: Creating play world package: /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.19.13:111][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2025.05.20-03.19.13:111][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YueErn/YE_Menus/MainMenu.MainMenu to /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu (0.001776s)
+[2025.05.20-03.19.13:131][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.20-03.19.13:138][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.19.13:138][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.19.13:138][662]LogAIModule: Creating AISystem for world MainMenu
+[2025.05.20-03.19.13:139][662]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2025.05.20-03.19.13:139][662]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.05.20-03.19.13:139][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.19.13:139][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.19.13:139][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.19.13:139][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.19.13:139][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.19.13:139][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.19.13:139][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.19.13:139][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.19.13:140][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.19.13:140][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.19.13:140][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.19.13:143][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.19.13:219][662]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.19.13:219][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.19.13:219][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.19.13:219][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.19.13:219][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.05.20-03.19.13:220][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.05.20-03.19.13:223][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.05.20-03.19.13:223][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.05.20-03.19.13:223][662]LogInit: FAudioDevice initialized with ID 17.
+[2025.05.20-03.19.13:223][662]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2025.05.20-03.19.13:223][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.05.20-03.19.13:226][662]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.05.20-03.19.13:226][662]LogWorld: Bringing World /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.05.20-11.19.13
+[2025.05.20-03.19.13:226][662]LogWorld: Bringing up level for play took: 0.000412
+[2025.05.20-03.19.13:229][662]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.05.20-03.19.13:233][662]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.20-03.19.13:233][662]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.20-03.19.13:234][662]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.05.20-03.19.13:234][662]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.05.20-03.19.13:234][662]PIE: Server logged in
+[2025.05.20-03.19.13:235][662]PIE: Play in editor total start time 0.16 seconds.
+[2025.05.20-03.19.16:150][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.19.16:151][828]LogWorld: BeginTearingDown for /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.19.16:151][828]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.16:151][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.16:155][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.19.16:159][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.16:173][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.19.16:173][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.05.20-03.19.16:173][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.05.20-03.19.16:177][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.05.20-03.19.16:185][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.20-03.19.16:212][829]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.05.20-03.19.19:537][ 27]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.19.19:537][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.19.19:537][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.19.19:545][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.19.19:545][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.19.24:038][274]BlueprintLog: New page: Compile WBP_PlayerStatus
+[2025.05.20-03.19.24:066][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.05.20-03.19.24:691][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.19.24:853][307]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/WBP_PlayerStatus
+[2025.05.20-03.19.24:854][307]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/WBP_PlayerStatusD24A280D44E8C5A6EEFDDFB1B15EF6A4.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/WBP_PlayerStatus.uasset'
+[2025.05.20-03.19.24:868][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 5.46 sec)
+[2025.05.20-03.19.24:871][307]AssetCheck: New page: Asset Save: WBP_PlayerStatus
+[2025.05.20-03.19.24:871][307]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/YueErn/YE_Blueprints/WBP_PlayerStatus.WBP_PlayerStatus
+[2025.05.20-03.19.25:782][358]LogSlate: Window 'WBP_PlayerStatus' being destroyed
+[2025.05.20-03.19.25:807][358]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.25:807][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.25:818][358]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.25:818][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.30:820][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.19.30:830][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.19.30:830][651]PIE: New page: PIE session: MainMenu (May 20, 2025, 7:19:30 PM)
+[2025.05.20-03.19.30:830][651]LogPlayLevel: Creating play world package: /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.19.30:832][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001596s)
+[2025.05.20-03.19.30:832][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YueErn/YE_Menus/MainMenu.MainMenu to /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu (0.001636s)
+[2025.05.20-03.19.30:850][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.20-03.19.30:857][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.19.30:857][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.19.30:857][651]LogAIModule: Creating AISystem for world MainMenu
+[2025.05.20-03.19.30:858][651]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2025.05.20-03.19.30:858][651]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.05.20-03.19.30:858][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.19.30:858][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.19.30:858][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.19.30:858][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.19.30:858][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.19.30:858][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.19.30:858][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.19.30:858][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.19.30:858][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.19.30:858][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.19.30:858][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.19.30:861][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.19.30:935][651]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.19.30:935][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.19.30:935][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.19.30:935][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.19.30:935][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.05.20-03.19.30:935][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.05.20-03.19.30:939][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.05.20-03.19.30:939][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.05.20-03.19.30:939][651]LogInit: FAudioDevice initialized with ID 18.
+[2025.05.20-03.19.30:939][651]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2025.05.20-03.19.30:939][651]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.20-03.19.30:941][651]LogLoad: Game class is 'BP_MainMenuMode_C'
+[2025.05.20-03.19.30:941][651]LogWorld: Bringing World /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2025.05.20-11.19.30
+[2025.05.20-03.19.30:941][651]LogWorld: Bringing up level for play took: 0.000376
+[2025.05.20-03.19.30:945][651]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.05.20-03.19.30:949][651]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.20-03.19.30:949][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.20-03.19.30:950][651]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.05.20-03.19.30:950][651]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.05.20-03.19.30:950][651]PIE: Server logged in
+[2025.05.20-03.19.30:950][651]PIE: Play in editor total start time 0.12 seconds.
+[2025.05.20-03.19.36:912][  3]LogNet: Browse: /Game/YT_Level/Level1
+[2025.05.20-03.19.36:914][  3]LogLoad: LoadMap: /Game/YT_Level/Level1
+[2025.05.20-03.19.36:914][  3]LogWorld: BeginTearingDown for /Game/YueErn/YE_Menus/UEDPIE_0_MainMenu
+[2025.05.20-03.19.36:916][  3]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.36:916][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.36:931][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.19.36:935][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.20-03.19.37:038][  3]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2025.05.20-03.19.37:039][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.19.37:039][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.19.37:039][  3]LogAIModule: Creating AISystem for world Level1
+[2025.05.20-03.19.37:039][  3]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2025.05.20-03.19.37:039][  3]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.19.37:076][  3]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.20-11.19.37
+[2025.05.20-03.19.37:076][  3]LogWorld: Bringing up level for play took: 0.036157
+[2025.05.20-03.19.37:090][  3]LogLoad: Took 0.175971 seconds to LoadMap(/Game/YT_Level/Level1)
+[2025.05.20-03.19.37:193][  4]LogShaderCompilers: Display: ================================================
+[2025.05.20-03.19.37:193][  4]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-03.19.37:193][  4]LogShaderCompilers: Display: Total job queries 30, among them cache hits 24 (80.00%)
+[2025.05.20-03.19.37:193][  4]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2025.05.20-03.19.37:193][  4]LogShaderCompilers: Display: RAM used: 119.19 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.20-03.19.37:194][  4]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-03.19.37:194][  4]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.20-03.19.37:194][  4]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.20-03.19.37:194][  4]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.20-03.19.37:194][  4]LogShaderCompilers: Display: ================================================
+[2025.05.20-03.19.44:331][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.19.44:331][384]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.20-03.19.44:331][384]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.44:334][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.44:339][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.19.44:343][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.44:363][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.19.44:363][384]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.20-03.19.44:363][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.20-03.19.44:365][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.20-03.19.44:383][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.20-03.19.44:426][385]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.05.20-03.19.45:806][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3175.369141
+[2025.05.20-03.19.46:155][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-03.19.46:155][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3175.700684, Update Interval: 335.347748
+[2025.05.20-03.19.54:952][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.20-03.19.55:124][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.19.55:142][  9]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level1.Level1
+[2025.05.20-03.19.55:143][  9]Cmd: MAP LOAD FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.20-03.19.55:143][  9]LightingResults: New page: Lighting Build
+[2025.05.20-03.19.55:143][  9]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.20-03.19.55:195][  9]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.55:195][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.55:195][  9]MapCheck: New page: Map Check
+[2025.05.20-03.19.55:195][  9]LightingResults: New page: Lighting Build
+[2025.05.20-03.19.55:213][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.19.55:218][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.20-03.19.55:222][  9]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.19.55:223][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.19.55:252][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.20-03.19.55:272][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.20-03.19.55:304][  9]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.20-03.19.55:304][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.19.55:304][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.19.55:304][  9]LogAIModule: Creating AISystem for world Level1
+[2025.05.20-03.19.55:369][  9]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.20-03.19.55:396][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.05.20-03.19.55:405][  9]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.20-03.19.55:406][  9]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.599ms to complete.
+[2025.05.20-03.20.06:088][602]LogViewport: Scene viewport resized to 1370x516, mode Windowed.
+[2025.05.20-03.20.06:113][603]LogViewport: Scene viewport resized to 1370x507, mode Windowed.
+[2025.05.20-03.20.06:147][604]LogViewport: Scene viewport resized to 1370x500, mode Windowed.
+[2025.05.20-03.20.06:186][605]LogViewport: Scene viewport resized to 1370x493, mode Windowed.
+[2025.05.20-03.20.06:217][606]LogViewport: Scene viewport resized to 1370x490, mode Windowed.
+[2025.05.20-03.20.17:345][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.20.17:345][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.20.17:347][212]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame as actor: StaticMeshActor /Game/YT_Level/Level1.Level1:PersistentLevel.StaticMeshActor_0
+[2025.05.20-03.20.21:183][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.20.21:184][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.20.21:186][440]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame as actor: StaticMeshActor /Game/YT_Level/Level1.Level1:PersistentLevel.StaticMeshActor_4
+[2025.05.20-03.20.28:956][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.20.28:956][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.20.28:956][870]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door as actor: StaticMeshActor /Game/YT_Level/Level1.Level1:PersistentLevel.StaticMeshActor_28
+[2025.05.20-03.20.31:086][996]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.20.31:086][996]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.20.31:087][996]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door as actor: StaticMeshActor /Game/YT_Level/Level1.Level1:PersistentLevel.StaticMeshActor_44
+[2025.05.20-03.20.53:404][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.20-03.20.54:543][303]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-03.20.54:564][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.20.54:805][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.20-03.20.54:926][303]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.20-03.20.54:928][303]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level138BEE04C445F39E91AAE4F8D2B095387.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.20-03.20.54:942][303]LogFileHelpers: Saving map 'Level1' took 0.199
+[2025.05.20-03.20.54:954][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 390 ms (total: 5.85 sec)
+[2025.05.20-03.20.54:961][303]AssetCheck: New page: Asset Save: Level1
+[2025.05.20-03.20.54:961][303]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.20-03.21.52:996][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.20-03.21.54:142][668]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-03.21.54:163][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.21.54:401][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.20-03.21.54:510][668]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.20-03.21.54:511][668]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level19A57C89B48B4F639529CAE8D76002895.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.20-03.21.54:523][668]LogFileHelpers: Saving map 'Level1' took 0.178
+[2025.05.20-03.21.54:535][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 372 ms (total: 6.22 sec)
+[2025.05.20-03.21.54:540][668]AssetCheck: New page: Asset Save: Level1
+[2025.05.20-03.21.54:540][668]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.20-03.22.03:964][203]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.22.03:976][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.22.03:976][203]PIE: New page: PIE session: Level1 (May 20, 2025, 7:22:03 PM)
+[2025.05.20-03.22.03:977][203]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.20-03.22.03:997][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020361s)
+[2025.05.20-03.22.03:997][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.020415s)
+[2025.05.20-03.22.04:015][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.20-03.22.04:019][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.22.04:020][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.22.04:020][203]LogAIModule: Creating AISystem for world Level1
+[2025.05.20-03.22.04:020][203]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2025.05.20-03.22.04:020][203]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.05.20-03.22.04:020][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.22.04:020][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.22.04:020][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.22.04:020][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.22.04:020][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.22.04:020][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.22.04:020][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.22.04:020][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.22.04:022][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.22.04:022][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.22.04:022][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.22.04:024][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.22.04:108][203]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.22.04:108][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.22.04:108][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.22.04:108][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.22.04:109][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.05.20-03.22.04:109][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.05.20-03.22.04:110][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.05.20-03.22.04:110][203]LogInit: FAudioDevice initialized with ID 19.
+[2025.05.20-03.22.04:110][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.05.20-03.22.04:110][203]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2025.05.20-03.22.04:110][203]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.20-03.22.04:115][203]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.22.04:123][203]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.20-11.22.04
+[2025.05.20-03.22.04:123][203]LogWorld: Bringing up level for play took: 0.007447
+[2025.05.20-03.22.04:126][203]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.05.20-03.22.04:130][203]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.20-03.22.04:130][203]PIE: Server logged in
+[2025.05.20-03.22.04:130][203]PIE: Play in editor total start time 0.155 seconds.
+[2025.05.20-03.22.12:373][632]LogNet: Browse: /Game/YT_Level/Level2
+[2025.05.20-03.22.12:373][632]LogLoad: LoadMap: /Game/YT_Level/Level2
+[2025.05.20-03.22.12:373][632]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.20-03.22.12:375][632]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.22.12:376][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.22.12:395][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.22.12:401][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.05.20-03.22.12:439][632]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level2'.
+[2025.05.20-03.22.12:440][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.22.12:440][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.22.12:440][632]LogAIModule: Creating AISystem for world Level2
+[2025.05.20-03.22.12:442][632]LogPlayLevel: PIE: World Init took: (0.002231s)
+[2025.05.20-03.22.12:442][632]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.22.12:494][632]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.20-11.22.12
+[2025.05.20-03.22.12:494][632]LogWorld: Bringing up level for play took: 0.051663
+[2025.05.20-03.22.12:500][632]LogLoad: Took 0.127269 seconds to LoadMap(/Game/YT_Level/Level2)
+[2025.05.20-03.22.18:317][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.22.18:317][977]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.22.18:317][977]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.22.18:320][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.22.18:326][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.22.18:332][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.22.18:348][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.22.18:349][977]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.20-03.22.18:350][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.20-03.22.18:351][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.20-03.22.18:361][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.20-03.22.18:451][978]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.05.20-03.22.25:577][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.05.20-03.22.25:753][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.22.25:763][343]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level2.Level2
+[2025.05.20-03.22.25:764][343]Cmd: MAP LOAD FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.20-03.22.25:764][343]LightingResults: New page: Lighting Build
+[2025.05.20-03.22.25:764][343]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.20-03.22.25:818][343]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.22.25:818][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.22.25:818][343]MapCheck: New page: Map Check
+[2025.05.20-03.22.25:818][343]LightingResults: New page: Lighting Build
+[2025.05.20-03.22.25:835][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.22.25:846][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.20-03.22.25:851][343]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.22.25:852][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.22.25:882][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.20-03.22.25:899][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.20-03.22.25:933][343]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.20-03.22.25:933][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.22.25:933][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.22.25:933][343]LogAIModule: Creating AISystem for world Level2
+[2025.05.20-03.22.26:006][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.20-03.22.26:027][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.20-03.22.26:036][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.20-03.22.26:036][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2025.05.20-03.22.45:926][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.22.45:926][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.22.45:927][446]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame as actor: StaticMeshActor /Game/YT_Level/Level2.Level2:PersistentLevel.StaticMeshActor_2
+[2025.05.20-03.22.48:856][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.22.48:856][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.22.48:857][620]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame as actor: StaticMeshActor /Game/YT_Level/Level2.Level2:PersistentLevel.StaticMeshActor_3
+[2025.05.20-03.22.49:525][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.22.49:526][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2025.05.20-03.22.49:528][660]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame as actor: StaticMeshActor /Game/YT_Level/Level2.Level2:PersistentLevel.StaticMeshActor_4
+[2025.05.20-03.22.58:444][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.22.58:444][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.22.58:445][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door as actor: StaticMeshActor /Game/YT_Level/Level2.Level2:PersistentLevel.StaticMeshActor_5
+[2025.05.20-03.23.00:800][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.23.00:800][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2025.05.20-03.23.00:802][306]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door as actor: StaticMeshActor /Game/YT_Level/Level2.Level2:PersistentLevel.StaticMeshActor_144
+[2025.05.20-03.23.27:214][828]Cmd: TRANSACTION UNDO
+[2025.05.20-03.23.27:214][828]LogEditorTransaction: Undo Move Elements
+[2025.05.20-03.23.59:490][630]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.20-03.24.03:200][851]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.20-03.24.08:623][163]Cmd: DELETE
+[2025.05.20-03.24.08:623][163]Cmd: ACTOR DELETE
+[2025.05.20-03.24.08:649][163]LogEditorActor: Deleted Actor: PlayerStart
+[2025.05.20-03.24.08:668][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.20-03.24.08:675][163]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.05.20-03.24.12:307][378]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.20-03.24.16:892][643]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.20-03.24.38:442][924]Cmd: DELETE
+[2025.05.20-03.24.38:442][924]Cmd: ACTOR DELETE
+[2025.05.20-03.24.38:447][924]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.38:461][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.20-03.24.38:464][924]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.20-03.24.39:289][969]Cmd: DELETE
+[2025.05.20-03.24.39:289][969]Cmd: ACTOR DELETE
+[2025.05.20-03.24.39:294][969]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.39:309][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.20-03.24.39:312][969]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.20-03.24.40:402][ 30]Cmd: DELETE
+[2025.05.20-03.24.40:402][ 30]Cmd: ACTOR DELETE
+[2025.05.20-03.24.40:408][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.40:423][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.20-03.24.40:428][ 30]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.20-03.24.41:080][ 63]Cmd: DELETE
+[2025.05.20-03.24.41:080][ 63]Cmd: ACTOR DELETE
+[2025.05.20-03.24.41:085][ 63]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.41:102][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.20-03.24.41:105][ 63]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.05.20-03.24.43:545][205]Cmd: DELETE
+[2025.05.20-03.24.43:545][205]Cmd: ACTOR DELETE
+[2025.05.20-03.24.43:550][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.43:566][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.20-03.24.43:569][205]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.20-03.24.44:180][237]Cmd: DELETE
+[2025.05.20-03.24.44:180][237]Cmd: ACTOR DELETE
+[2025.05.20-03.24.44:185][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.44:204][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.20-03.24.44:207][237]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.05.20-03.24.44:944][276]Cmd: DELETE
+[2025.05.20-03.24.44:944][276]Cmd: ACTOR DELETE
+[2025.05.20-03.24.44:949][276]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.44:967][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.20-03.24.44:970][276]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.05.20-03.24.46:466][361]Cmd: DELETE
+[2025.05.20-03.24.46:467][361]Cmd: ACTOR DELETE
+[2025.05.20-03.24.46:471][361]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.46:488][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.20-03.24.46:492][361]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.20-03.24.47:441][414]Cmd: DELETE
+[2025.05.20-03.24.47:441][414]Cmd: ACTOR DELETE
+[2025.05.20-03.24.47:446][414]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.20-03.24.47:463][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.20-03.24.47:467][414]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.20-03.24.59:698][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Path.BP_Path_C
+[2025.05.20-03.24.59:699][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Path.BP_Path_C
+[2025.05.20-03.24.59:701][119]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Path.BP_Path as actor: BP_Path_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Path_C_0
+[2025.05.20-03.24.59:702][119]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Path.BP_Path as actor: BP_Path_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Path_C_0
+[2025.05.20-03.25.02:578][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Path.BP_Path_C
+[2025.05.20-03.25.02:578][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Path.BP_Path_C
+[2025.05.20-03.25.02:581][290]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Path.BP_Path as actor: BP_Path_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Path_C_1
+[2025.05.20-03.25.02:582][290]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Path.BP_Path as actor: BP_Path_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Path_C_1
+[2025.05.20-03.25.40:514][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YueErn/YE_Blueprints/BP_Path.BP_Path
+[2025.05.20-03.25.40:517][518]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.25.40:517][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.25.56:180][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3545.744141
+[2025.05.20-03.25.56:512][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-03.25.56:512][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3546.058594, Update Interval: 306.145203
+[2025.05.20-03.25.56:745][398]BlueprintLog: New page: Compile BP_Path
+[2025.05.20-03.25.56:823][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.05.20-03.25.57:535][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.25.57:685][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YueErn/YE_Blueprints/BP_Path" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_Path.uasset" SILENT=true
+[2025.05.20-03.25.57:692][426]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_Path
+[2025.05.20-03.25.57:693][426]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_Path654285EC45B7F59F9974ADBA5AD3A15A.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_Path.uasset'
+[2025.05.20-03.25.57:714][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 6.40 sec)
+[2025.05.20-03.25.57:718][426]AssetCheck: New page: Asset Save: BP_Path
+[2025.05.20-03.25.57:720][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_Path.BP_Path
+[2025.05.20-03.25.58:773][479]LogSlate: Window 'BP_Path' being destroyed
+[2025.05.20-03.25.58:790][479]LogSlate: Window 'BP_Path' being destroyed
+[2025.05.20-03.25.58:802][479]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.25.58:802][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.26.31:975][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue_C
+[2025.05.20-03.26.31:975][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue_C
+[2025.05.20-03.26.31:979][391]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue as actor: BP_Statue_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Statue_C_0
+[2025.05.20-03.26.31:982][391]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue as actor: BP_Statue_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Statue_C_0
+[2025.05.20-03.26.33:417][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue_C
+[2025.05.20-03.26.33:417][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue_C
+[2025.05.20-03.26.33:421][466]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue as actor: BP_Statue_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Statue_C_1
+[2025.05.20-03.26.33:423][466]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_Statue.BP_Statue as actor: BP_Statue_C /Game/YT_Level/Level2.Level2:PersistentLevel.BP_Statue_C_1
+[2025.05.20-03.26.49:411][378]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.26.49:425][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.26.49:425][378]PIE: New page: PIE session: Level2 (May 20, 2025, 7:26:49 PM)
+[2025.05.20-03.26.49:425][378]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.26.49:448][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023372s)
+[2025.05.20-03.26.49:448][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.023442s)
+[2025.05.20-03.26.49:476][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.05.20-03.26.49:484][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.26.49:484][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.26.49:484][378]LogAIModule: Creating AISystem for world Level2
+[2025.05.20-03.26.49:485][378]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2025.05.20-03.26.49:485][378]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.05.20-03.26.49:485][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.26.49:485][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.26.49:485][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.26.49:485][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.26.49:485][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.26.49:485][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.26.49:485][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.26.49:485][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.26.49:485][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.26.49:485][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.26.49:485][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.26.49:488][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.26.49:563][378]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.26.49:564][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.26.49:564][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.26.49:564][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.26.49:565][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.05.20-03.26.49:565][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.05.20-03.26.49:567][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.05.20-03.26.49:567][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.05.20-03.26.49:567][378]LogInit: FAudioDevice initialized with ID 20.
+[2025.05.20-03.26.49:567][378]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level2'.
+[2025.05.20-03.26.49:567][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.05.20-03.26.49:570][378]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.26.49:578][378]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.20-11.26.49
+[2025.05.20-03.26.49:580][378]LogWorld: Bringing up level for play took: 0.008953
+[2025.05.20-03.26.49:582][378]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.05.20-03.26.49:588][378]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.20-03.26.49:588][378]PIE: Server logged in
+[2025.05.20-03.26.49:588][378]PIE: Play in editor total start time 0.164 seconds.
+[2025.05.20-03.27.07:536][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.27.07:536][398]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.27.07:536][398]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.27.07:537][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.27.07:541][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.27.07:547][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.27.07:563][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.27.07:563][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.05.20-03.27.07:563][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.05.20-03.27.07:566][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.05.20-03.27.07:570][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.27.07:576][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.20-03.27.07:686][399]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.05.20-03.27.19:649][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.20-03.27.20:635][ 64]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-03.27.20:663][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.27.20:908][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.20-03.27.21:022][ 64]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.20-03.27.21:024][ 64]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level2A207BB3A460230236360A5AF1A045BA1.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.20-03.27.21:038][ 64]LogFileHelpers: Saving map 'Level2' took 0.189
+[2025.05.20-03.27.21:052][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 388 ms (total: 6.79 sec)
+[2025.05.20-03.27.21:059][ 64]AssetCheck: New page: Asset Save: Level2
+[2025.05.20-03.27.21:059][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.20-03.27.22:425][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.27.22:437][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.27.22:437][142]PIE: New page: PIE session: Level2 (May 20, 2025, 7:27:22 PM)
+[2025.05.20-03.27.22:437][142]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.27.22:460][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021978s)
+[2025.05.20-03.27.22:460][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.022023s)
+[2025.05.20-03.27.22:474][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.20-03.27.22:476][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.27.22:476][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.27.22:476][142]LogAIModule: Creating AISystem for world Level2
+[2025.05.20-03.27.22:477][142]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2025.05.20-03.27.22:477][142]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.05.20-03.27.22:477][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.27.22:477][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.27.22:477][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.27.22:477][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.27.22:477][142]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.27.22:477][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.27.22:477][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.27.22:477][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.27.22:477][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.27.22:477][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.27.22:477][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.27.22:481][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.27.22:555][142]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.27.22:556][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.27.22:556][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.27.22:556][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.27.22:556][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.05.20-03.27.22:556][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.05.20-03.27.22:559][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.05.20-03.27.22:559][142]LogInit: FAudioDevice initialized with ID 21.
+[2025.05.20-03.27.22:559][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.05.20-03.27.22:559][142]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level2'.
+[2025.05.20-03.27.22:559][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.20-03.27.22:563][142]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.27.22:572][142]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.20-11.27.22
+[2025.05.20-03.27.22:572][142]LogWorld: Bringing up level for play took: 0.009009
+[2025.05.20-03.27.22:576][142]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.05.20-03.27.22:581][142]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.20-03.27.22:581][142]PIE: Server logged in
+[2025.05.20-03.27.22:582][142]PIE: Play in editor total start time 0.145 seconds.
+[2025.05.20-03.27.25:357][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.27.25:357][272]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.27.25:357][272]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.27.25:358][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.27.25:363][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.27.25:369][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.27.25:385][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.27.25:385][272]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.20-03.27.25:387][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.20-03.27.25:389][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.20-03.27.25:403][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.05.20-03.27.25:561][273]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.05.20-03.27.43:329][282]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.27.43:349][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.27.43:350][282]PIE: New page: PIE session: Level2 (May 20, 2025, 7:27:43 PM)
+[2025.05.20-03.27.43:375][282]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.27.43:396][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019571s)
+[2025.05.20-03.27.43:396][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.019626s)
+[2025.05.20-03.27.43:413][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.20-03.27.43:418][282]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.27.43:418][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.27.43:419][282]LogAIModule: Creating AISystem for world Level2
+[2025.05.20-03.27.43:419][282]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2025.05.20-03.27.43:419][282]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.05.20-03.27.43:419][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.27.43:419][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.27.43:419][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.27.43:419][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.27.43:419][282]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.27.43:419][282]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.27.43:420][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.27.43:420][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.27.43:420][282]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.27.43:420][282]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.27.43:420][282]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.27.43:423][282]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.27.43:494][282]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.27.43:495][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.27.43:495][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.27.43:495][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.27.43:495][282]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.05.20-03.27.43:495][282]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.05.20-03.27.43:499][282]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.05.20-03.27.43:499][282]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.05.20-03.27.43:499][282]LogInit: FAudioDevice initialized with ID 22.
+[2025.05.20-03.27.43:499][282]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level2'.
+[2025.05.20-03.27.43:499][282]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.20-03.27.43:502][282]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.27.43:511][282]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.20-11.27.43
+[2025.05.20-03.27.43:511][282]LogWorld: Bringing up level for play took: 0.009272
+[2025.05.20-03.27.43:515][282]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.05.20-03.27.43:520][282]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.20-03.27.43:520][282]PIE: Server logged in
+[2025.05.20-03.27.43:521][282]PIE: Play in editor total start time 0.171 seconds.
+[2025.05.20-03.27.50:908][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.27.50:908][673]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.27.50:908][673]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.27.50:910][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.27.50:913][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.27.50:918][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.27.50:936][673]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.20-03.27.50:936][673]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.20-03.27.50:936][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.20-03.27.50:939][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.20-03.27.50:947][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.27.50:953][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.20-03.27.51:084][674]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.05.20-03.28.32:405][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.20-03.28.33:226][ 43]LogSlate: Window 'Save Content' being destroyed
+[2025.05.20-03.28.33:254][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.28.33:508][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.20-03.28.33:633][ 43]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.20-03.28.33:635][ 43]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level2380A6B254C09CB3D6836A5BAC4009B3A.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.20-03.28.33:652][ 43]LogFileHelpers: Saving map 'Level2' took 0.207
+[2025.05.20-03.28.33:666][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 411 ms (total: 7.20 sec)
+[2025.05.20-03.28.33:674][ 43]AssetCheck: New page: Asset Save: Level2
+[2025.05.20-03.28.33:674][ 43]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.20-03.28.34:130][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.28.34:145][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.28.34:146][ 66]PIE: New page: PIE session: Level2 (May 20, 2025, 7:28:34 PM)
+[2025.05.20-03.28.34:146][ 66]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.28.34:173][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027472s)
+[2025.05.20-03.28.34:173][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.027531s)
+[2025.05.20-03.28.34:190][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.20-03.28.34:192][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.28.34:192][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.28.34:193][ 66]LogAIModule: Creating AISystem for world Level2
+[2025.05.20-03.28.34:193][ 66]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2025.05.20-03.28.34:193][ 66]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.05.20-03.28.34:193][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.28.34:193][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.28.34:193][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.28.34:193][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.28.34:193][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.28.34:193][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.28.34:193][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.28.34:193][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.28.34:193][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.28.34:193][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.28.34:193][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.28.34:196][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.28.34:279][ 66]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.28.34:279][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.28.34:279][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.28.34:279][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.28.34:281][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.05.20-03.28.34:281][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.05.20-03.28.34:283][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.05.20-03.28.34:283][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.05.20-03.28.34:283][ 66]LogInit: FAudioDevice initialized with ID 23.
+[2025.05.20-03.28.34:283][ 66]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level2'.
+[2025.05.20-03.28.34:283][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.05.20-03.28.34:287][ 66]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.28.34:297][ 66]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.20-11.28.34
+[2025.05.20-03.28.34:298][ 66]LogWorld: Bringing up level for play took: 0.010037
+[2025.05.20-03.28.34:300][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.05.20-03.28.34:305][ 66]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.20-03.28.34:305][ 66]PIE: Server logged in
+[2025.05.20-03.28.34:306][ 66]PIE: Play in editor total start time 0.161 seconds.
+[2025.05.20-03.28.43:594][584]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.513 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1600 files in 2525 folders with total size 59 MiB.
+[2025.05.20-03.28.56:070][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.28.56:070][330]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.28.56:070][330]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.28.56:071][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.28.56:075][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.28.56:082][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.28.56:098][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.28.56:099][330]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.05.20-03.28.56:099][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.20-03.28.56:102][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.05.20-03.28.56:117][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.05.20-03.28.56:208][331]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.05.20-03.29.05:925][874]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.20-03.29.05:945][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.20-03.29.05:946][874]PIE: New page: PIE session: Level2 (May 20, 2025, 7:29:05 PM)
+[2025.05.20-03.29.05:946][874]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.29.05:966][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019802s)
+[2025.05.20-03.29.05:966][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.019851s)
+[2025.05.20-03.29.05:979][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.20-03.29.05:982][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.20-03.29.05:982][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.20-03.29.05:983][874]LogAIModule: Creating AISystem for world Level2
+[2025.05.20-03.29.05:983][874]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2025.05.20-03.29.05:983][874]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.05.20-03.29.05:983][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.20-03.29.05:983][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.20-03.29.05:983][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.20-03.29.05:983][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.20-03.29.05:983][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.20-03.29.05:983][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.20-03.29.05:983][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.20-03.29.05:983][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.20-03.29.05:984][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.20-03.29.05:984][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.20-03.29.05:984][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.20-03.29.05:986][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.20-03.29.06:056][874]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.20-03.29.06:057][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.20-03.29.06:057][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.20-03.29.06:057][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.20-03.29.06:058][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.05.20-03.29.06:058][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.05.20-03.29.06:061][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.05.20-03.29.06:061][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.05.20-03.29.06:061][874]LogInit: FAudioDevice initialized with ID 24.
+[2025.05.20-03.29.06:061][874]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level2'.
+[2025.05.20-03.29.06:061][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.05.20-03.29.06:063][874]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.20-03.29.06:073][874]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.20-11.29.06
+[2025.05.20-03.29.06:074][874]LogWorld: Bringing up level for play took: 0.009063
+[2025.05.20-03.29.06:077][874]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.05.20-03.29.06:081][874]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.20-03.29.06:082][874]PIE: Server logged in
+[2025.05.20-03.29.06:082][874]PIE: Play in editor total start time 0.137 seconds.
+[2025.05.20-03.29.13:790][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.29.13:790][303]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.20-03.29.13:790][303]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-03.29.13:792][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.29.13:796][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.20-03.29.13:801][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-03.29.13:816][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.20-03.29.13:818][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.05.20-03.29.13:818][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.20-03.29.13:820][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.05.20-03.29.13:834][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.20-03.29.13:922][304]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.05.20-03.29.25:611][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.29.25:811][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.20-03.29.25:931][962]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.20-03.29.25:933][962]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level2F7F37AC94EFA2747D35434852193091E.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.20-03.29.25:949][962]LogFileHelpers: Saving map 'Level2' took 0.199
+[2025.05.20-03.29.25:962][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 7.55 sec)
+[2025.05.20-03.29.25:967][962]AssetCheck: New page: Asset Save: Level2
+[2025.05.20-03.29.25:967][962]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
