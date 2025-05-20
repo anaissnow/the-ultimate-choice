@@ -2277,3 +2277,36 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get Target
 [2025.05.20-01.18.49:952][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7521.826660
 [2025.05.20-01.18.50:969][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.20-01.18.50:969][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7522.505859, Update Interval: 301.127960
+[2025.05.20-01.19.29:108][478]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.05.20-01.19.29:187][478]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.078 s
+[2025.05.20-01.19.29:187][478]LogOutputDevice: Error: === Handled ensure: ===
+[2025.05.20-01.19.29:187][478]LogOutputDevice: Error: 
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: Ensure condition failed: AssetObject->IsA(AssetClass)  [File:D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\FindInBlueprintManager.cpp] [Line: 2172] 
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: AssetClass (World) matched handler, but does not match actual object type (ObjectRedirector) for asset: /Game/YE_Menus/MainMenu.MainMenu.
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: Stack: 
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe71da324f UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe71d64941 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe7171c26c UnrealEditor-AssetRegistry.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe71747d4c UnrealEditor-AssetRegistry.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe7172abe1 UnrealEditor-AssetRegistry.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe6aa9e4fb UnrealEditor-DirectoryWatcher.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe6aaa66d8 UnrealEditor-DirectoryWatcher.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe6aaa5fa3 UnrealEditor-DirectoryWatcher.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe73ee4975 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ffe74b3ea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db248af2 UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db26d28c UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db26d37a UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db270854 UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db286984 UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007ff6db289d7a UnrealEditor.exe!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007fff8d6fe8d7 KERNEL32.DLL!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: [Callstack] 0x00007fff8f51c5dc ntdll.dll!UnknownFunction []
+[2025.05.20-01.19.29:188][478]LogOutputDevice: Error: 
+[2025.05.20-01.19.29:196][478]LogStats:                SubmitErrorReport -  0.000 s
+[2025.05.20-01.19.32:509][478]LogStats:                    SendNewReport -  3.313 s
+[2025.05.20-01.19.32:510][478]LogStats:             FDebug::EnsureFailed -  3.402 s
+[2025.05.20-01.19.32:513][479]LogAutomationController: Ignoring very large delta of 3.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
