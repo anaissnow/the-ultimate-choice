@@ -2256,3 +2256,19 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get Target
 [2025.05.20-00.49.54:257][588]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/BP_MainMenuMode.BP_MainMenuMode_C
 [2025.05.20-00.49.54:257][588]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/YE_Blueprints/WP_MainMenu.WP_MainMenu_C
 [2025.05.20-00.49.54:278][589]LogAutomationController: Ignoring very large delta of 2.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-00.52.59:682][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5971.497559
+[2025.05.20-00.53.00:681][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.53.00:681][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5972.163574, Update Interval: 331.495117
+[2025.05.20-00.57.16:716][481]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2025.05.20-00.57.16:725][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.092
+[2025.05.20-00.59.11:795][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6343.623535
+[2025.05.20-00.59.12:794][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-00.59.12:794][831]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6344.290039, Update Interval: 332.015137
+[2025.05.20-01.05.17:837][926]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6709.679199
+[2025.05.20-01.05.19:172][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-01.05.19:172][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6710.679688, Update Interval: 358.080994
+[2025.05.20-01.07.17:103][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.20-01.07.17:106][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.029
+[2025.05.20-01.12.13:891][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7125.752441
+[2025.05.20-01.12.14:891][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-01.12.14:891][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7126.419434, Update Interval: 343.668335
