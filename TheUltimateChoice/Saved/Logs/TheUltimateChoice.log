@@ -1745,3 +1745,34 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.05.20-04.43.31:723][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 312.574707
 [2025.05.20-04.43.32:722][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.20-04.43.32:723][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 313.242004, Update Interval: 351.399261
+[2025.05.20-04.47.01:824][188]LogViewport: Scene viewport resized to 1370x528, mode Windowed.
+[2025.05.20-04.47.01:843][189]LogViewport: Scene viewport resized to 1370x521, mode Windowed.
+[2025.05.20-04.47.01:865][190]LogViewport: Scene viewport resized to 1370x515, mode Windowed.
+[2025.05.20-04.47.01:882][191]LogViewport: Scene viewport resized to 1370x506, mode Windowed.
+[2025.05.20-04.47.01:901][192]LogViewport: Scene viewport resized to 1370x500, mode Windowed.
+[2025.05.20-04.47.01:933][193]LogViewport: Scene viewport resized to 1370x493, mode Windowed.
+[2025.05.20-04.47.01:951][194]LogViewport: Scene viewport resized to 1370x485, mode Windowed.
+[2025.05.20-04.47.01:972][195]LogViewport: Scene viewport resized to 1370x477, mode Windowed.
+[2025.05.20-04.47.01:988][196]LogViewport: Scene viewport resized to 1370x473, mode Windowed.
+[2025.05.20-04.47.02:011][197]LogViewport: Scene viewport resized to 1370x472, mode Windowed.
+[2025.05.20-04.47.02:412][221]LogViewport: Scene viewport resized to 1370x473, mode Windowed.
+[2025.05.20-04.47.02:429][222]LogViewport: Scene viewport resized to 1370x477, mode Windowed.
+[2025.05.20-04.47.02:462][224]LogViewport: Scene viewport resized to 1370x479, mode Windowed.
+[2025.05.20-04.47.02:479][225]LogViewport: Scene viewport resized to 1370x483, mode Windowed.
+[2025.05.20-04.47.02:497][226]LogViewport: Scene viewport resized to 1370x484, mode Windowed.
+[2025.05.20-04.47.02:535][228]LogViewport: Scene viewport resized to 1370x486, mode Windowed.
+[2025.05.20-04.47.02:568][230]LogViewport: Scene viewport resized to 1370x490, mode Windowed.
+[2025.05.20-04.47.02:585][231]LogViewport: Scene viewport resized to 1370x491, mode Windowed.
+[2025.05.20-04.47.02:620][233]LogViewport: Scene viewport resized to 1370x493, mode Windowed.
+[2025.05.20-04.47.02:655][235]LogViewport: Scene viewport resized to 1370x494, mode Windowed.
+[2025.05.20-04.47.02:790][243]LogViewport: Scene viewport resized to 1370x495, mode Windowed.
+[2025.05.20-04.47.02:822][245]LogViewport: Scene viewport resized to 1370x497, mode Windowed.
+[2025.05.20-04.47.02:839][246]LogViewport: Scene viewport resized to 1370x500, mode Windowed.
+[2025.05.20-04.47.02:891][249]LogViewport: Scene viewport resized to 1370x501, mode Windowed.
+[2025.05.20-04.47.02:941][252]LogViewport: Scene viewport resized to 1370x503, mode Windowed.
+[2025.05.20-04.49.28:094][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 668.946228
+[2025.05.20-04.49.29:094][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.49.29:094][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.613037, Update Interval: 346.512024
+[2025.05.20-04.55.21:153][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1022.004761
+[2025.05.20-04.55.22:153][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.55.22:153][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1022.671509, Update Interval: 343.715942
