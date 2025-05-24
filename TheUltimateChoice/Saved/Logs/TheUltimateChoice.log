@@ -1854,3 +1854,119 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.24-12.50.18:591][836]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/BeiFeng/Dialogues/Whispers/Random_4__Whisper_.Random_4__Whisper_
 [2025.05.24-12.50.18:591][836]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/BeiFeng/Dialogues/Cassette/Starting__Cassette_Voice_.Starting__Cassette_Voice_
 [2025.05.24-12.50.18:591][836]LogContentValidation: Display: Validating /Script/MediaAssets.FileMediaSource /Game/BeiFeng/Dialogues/Player/Starting__player_.Starting__player_
+[2025.05.24-12.51.02:345][312]LogViewport: Scene viewport resized to 990x567, mode Windowed.
+[2025.05.24-12.51.15:814][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.24-12.51.25:909][ 74]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.24-12.51.26:044][ 74]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.51.26:047][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.51.26:158][ 74]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.51.26:158][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.51.26:171][ 74]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.51.26:171][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.51.26:250][ 74]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.24-12.51.26:250][ 74]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.51.26:250][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.51.26:289][ 74]LogUObjectGlobals: Force Deleting 21 Package(s):
+	Asset Name: /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial
+	Asset Type: Material
+	Asset Name: /Game/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+	Asset Type: StaticMesh
+	Asset Name: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+	Asset Type: SoundWave
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+	Asset Type: Texture2D
+[2025.05.24-12.51.26:702][ 74]LogStaticMesh: Display: Building static mesh FirstPersonProjectileMesh...
+[2025.05.24-12.51.26:718][ 74]LogMaterial: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2025.05.24-12.51.26:719][ 74]LogStaticMesh: Built static mesh [0.02s] /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2025.05.24-12.51.26:723][ 74]LogMaterial: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2025.05.24-12.51.26:725][ 74]LogMaterial: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2025.05.24-12.51.26:727][ 74]LogMaterial: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2025.05.24-12.51.27:639][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.05.24-12.51.27:658][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.24-12.51.27:674][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.51.30:036][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.05.24-12.51.34:836][206]LogSlate: Window 'Save Content' being destroyed
+[2025.05.24-12.51.34:855][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-12.51.35:079][206]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2025.05.24-12.51.35:080][206]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_FirstPersonProjectile1D6E643A4F77CDA5ABD76DB185539CAD.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2025.05.24-12.51.35:108][206]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.05.24-12.51.35:110][206]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_Weapon_ComponentFE31CEEA47850879A900DDAB34E284DC.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.05.24-12.51.35:131][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 2.16 sec)
+[2025.05.24-12.51.35:140][206]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.24-12.51.35:140][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2025.05.24-12.51.35:140][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.05.24-12.51.38:621][409]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2025.05.24-12.51.38:621][409]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2025.05.24-12.51.38:621][409]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2025.05.24-12.51.38:694][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.51.38:910][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.52.10:722][291]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.24-12.52.11:204][291]LogLinker: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FirstPerson\Blueprints\BP_Pickup_Rifle.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2025.05.24-12.52.11:204][291]LogLinker: Warning: [AssetLog] C:\Users\yueer\Desktop\the-ultimate-choice\TheUltimateChoice\Content\FirstPerson\Blueprints\BP_Pickup_Rifle.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Mesh/SK_FPGun'
+[2025.05.24-12.52.11:573][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.52.11:575][291]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.24-12.52.11:575][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.24-12.52.11:576][291]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.24-12.52.11:589][291]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.05.24-12.52.11:590][291]LogWorldPartition: Display: WorldPartition initialize took 14 ms
+[2025.05.24-12.52.11:609][291]LogObjectTools: Deleting 1 worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.05.24-12.52.11:609][291]LogObjectTools: Currently 5 active worlds: /Temp/Untitled_0.Untitled, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2025.05.24-12.52.11:629][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.05.24-12.52.17:210][291]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.24-12.52.17:225][291]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.52.17:226][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.52.17:228][291]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.05.24-12.52.17:406][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.24-12.52.17:422][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.24-12.52.17:439][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.24-12.52.17:504][291]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Maps/FirstPersonMap does not exist, will not scan.
+[2025.05.24-12.52.20:977][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-12.52.25:618][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
