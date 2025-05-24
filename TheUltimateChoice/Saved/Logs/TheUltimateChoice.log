@@ -1970,3 +1970,2098 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.24-12.52.17:504][291]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Maps/FirstPersonMap does not exist, will not scan.
 [2025.05.24-12.52.20:977][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2025.05.24-12.52.25:618][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.53.05:821][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.24-12.53.06:134][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.53.06:145][999]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level1.Level1
+[2025.05.24-12.53.06:145][999]Cmd: MAP LOAD FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.24-12.53.06:147][999]LightingResults: New page: Lighting Build
+[2025.05.24-12.53.06:150][999]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.24-12.53.06:193][999]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.53.06:194][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.53.06:196][999]MapCheck: New page: Map Check
+[2025.05.24-12.53.06:196][999]LightingResults: New page: Lighting Build
+[2025.05.24-12.53.06:210][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.24-12.53.06:216][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.05.24-12.53.06:222][999]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.53.06:223][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.53.06:249][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.24-12.53.06:265][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.24-12.53.06:292][999]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.24-12.53.06:292][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.53.06:293][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.24-12.53.06:293][999]LogAIModule: Creating AISystem for world Level1
+[2025.05.24-12.53.06:355][999]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.24-12.53.06:376][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.24-12.53.06:386][999]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.24-12.53.06:387][999]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2025.05.24-12.53.06:498][999]LogShaderCompilers: Display: ================================================
+[2025.05.24-12.53.06:498][999]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.24-12.53.06:498][999]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2025.05.24-12.53.06:498][999]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2025.05.24-12.53.06:498][999]LogShaderCompilers: Display: RAM used: 25.25 KiB of 819.20 MiB budget. Usage: 0.00%
+[2025.05.24-12.53.06:498][999]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.24-12.53.06:498][999]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.24-12.53.06:499][999]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.24-12.53.06:499][999]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.24-12.53.06:499][999]LogShaderCompilers: Display: ================================================
+[2025.05.24-12.53.13:990][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.53.19:162][654]Cmd: DELETE
+[2025.05.24-12.53.19:162][654]Cmd: ACTOR DELETE
+[2025.05.24-12.53.19:178][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.19:194][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.53.19:197][654]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.05.24-12.53.25:442][ 21]Cmd: DELETE
+[2025.05.24-12.53.25:442][ 21]Cmd: ACTOR DELETE
+[2025.05.24-12.53.25:447][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.25:462][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-12.53.25:466][ 21]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.28:249][182]Cmd: DELETE
+[2025.05.24-12.53.28:249][182]Cmd: ACTOR DELETE
+[2025.05.24-12.53.28:253][182]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.28:267][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-12.53.28:270][182]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.53.30:233][295]Cmd: DELETE
+[2025.05.24-12.53.30:234][295]Cmd: ACTOR DELETE
+[2025.05.24-12.53.30:238][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.30:253][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.53.30:256][295]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.53.32:557][428]Cmd: DELETE
+[2025.05.24-12.53.32:558][428]Cmd: ACTOR DELETE
+[2025.05.24-12.53.32:563][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.32:579][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.53.32:582][428]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.53.35:793][615]Cmd: DELETE
+[2025.05.24-12.53.35:793][615]Cmd: ACTOR DELETE
+[2025.05.24-12.53.35:798][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.35:813][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-12.53.35:817][615]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.37:829][731]Cmd: DELETE
+[2025.05.24-12.53.37:829][731]Cmd: ACTOR DELETE
+[2025.05.24-12.53.37:833][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.37:848][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.53.37:851][731]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.53.40:310][873]Cmd: DELETE
+[2025.05.24-12.53.40:310][873]Cmd: ACTOR DELETE
+[2025.05.24-12.53.40:315][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.40:330][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.53.40:334][873]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.53.42:442][995]Cmd: DELETE
+[2025.05.24-12.53.42:442][995]Cmd: ACTOR DELETE
+[2025.05.24-12.53.42:447][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.42:462][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.24-12.53.42:465][995]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.45:072][147]Cmd: DELETE
+[2025.05.24-12.53.45:073][147]Cmd: ACTOR DELETE
+[2025.05.24-12.53.45:077][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.45:092][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.24-12.53.45:095][147]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.47:655][296]Cmd: DELETE
+[2025.05.24-12.53.47:655][296]Cmd: ACTOR DELETE
+[2025.05.24-12.53.47:660][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.47:675][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.24-12.53.47:679][296]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.53.49:997][430]Cmd: DELETE
+[2025.05.24-12.53.49:997][430]Cmd: ACTOR DELETE
+[2025.05.24-12.53.50:002][430]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.50:017][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-12.53.50:021][430]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.52:162][554]Cmd: DELETE
+[2025.05.24-12.53.52:162][554]Cmd: ACTOR DELETE
+[2025.05.24-12.53.52:166][554]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.52:182][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.05.24-12.53.52:185][554]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.54:627][696]Cmd: DELETE
+[2025.05.24-12.53.54:628][696]Cmd: ACTOR DELETE
+[2025.05.24-12.53.54:632][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.54:648][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.53.54:650][696]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.56:502][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1394.328125
+[2025.05.24-12.53.56:819][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-12.53.56:819][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1394.627808, Update Interval: 347.447754
+[2025.05.24-12.53.56:879][825]Cmd: DELETE
+[2025.05.24-12.53.56:879][825]Cmd: ACTOR DELETE
+[2025.05.24-12.53.56:884][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.56:899][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-12.53.56:902][825]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.53.59:680][987]Cmd: DELETE
+[2025.05.24-12.53.59:680][987]Cmd: ACTOR DELETE
+[2025.05.24-12.53.59:685][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.53.59:701][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.24-12.53.59:704][987]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.54.01:307][ 79]Cmd: DELETE
+[2025.05.24-12.54.01:307][ 79]Cmd: ACTOR DELETE
+[2025.05.24-12.54.01:311][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.01:326][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.54.01:329][ 79]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.54.05:447][315]Cmd: DELETE
+[2025.05.24-12.54.05:447][315]Cmd: ACTOR DELETE
+[2025.05.24-12.54.05:453][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.05:468][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-12.54.05:471][315]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.54.08:586][497]Cmd: DELETE
+[2025.05.24-12.54.08:586][497]Cmd: ACTOR DELETE
+[2025.05.24-12.54.08:591][497]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.08:607][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.24-12.54.08:610][497]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.54.10:818][625]Cmd: DELETE
+[2025.05.24-12.54.10:818][625]Cmd: ACTOR DELETE
+[2025.05.24-12.54.10:823][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.10:838][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.24-12.54.10:842][625]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.54.14:621][839]Cmd: DELETE
+[2025.05.24-12.54.14:621][839]Cmd: ACTOR DELETE
+[2025.05.24-12.54.14:625][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.14:640][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.24-12.54.14:643][839]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.54.16:491][945]Cmd: DELETE
+[2025.05.24-12.54.16:491][945]Cmd: ACTOR DELETE
+[2025.05.24-12.54.16:495][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.16:511][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.54.16:514][945]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.54.18:440][ 56]Cmd: DELETE
+[2025.05.24-12.54.18:440][ 56]Cmd: ACTOR DELETE
+[2025.05.24-12.54.18:444][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.18:461][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.05.24-12.54.18:464][ 56]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.54.20:354][165]Cmd: DELETE
+[2025.05.24-12.54.20:355][165]Cmd: ACTOR DELETE
+[2025.05.24-12.54.20:359][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.54.20:374][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-12.54.20:378][165]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.54.55:886][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.24-12.54.57:196][234]LogSlate: Window 'Save Content' being destroyed
+[2025.05.24-12.54.57:214][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-12.54.57:443][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-12.54.57:549][234]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.24-12.54.57:550][234]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level150748FDC452DC552FBDA00822DF7C99C.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.24-12.54.57:563][234]LogFileHelpers: Saving map 'Level1' took 0.176
+[2025.05.24-12.54.57:582][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 367 ms (total: 2.53 sec)
+[2025.05.24-12.54.57:585][234]AssetCheck: New page: Asset Save: Level1
+[2025.05.24-12.54.57:585][234]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.24-12.55.05:931][717]Cmd: DELETE
+[2025.05.24-12.55.05:931][717]Cmd: ACTOR DELETE
+[2025.05.24-12.55.05:936][717]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.05:952][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.55.05:954][717]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.55.06:689][758]Cmd: DELETE
+[2025.05.24-12.55.06:689][758]Cmd: ACTOR DELETE
+[2025.05.24-12.55.06:694][758]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.06:709][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.55.06:711][758]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.55.07:322][792]Cmd: DELETE
+[2025.05.24-12.55.07:322][792]Cmd: ACTOR DELETE
+[2025.05.24-12.55.07:327][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.07:342][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-12.55.07:345][792]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.55.08:343][849]Cmd: DELETE
+[2025.05.24-12.55.08:343][849]Cmd: ACTOR DELETE
+[2025.05.24-12.55.08:347][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.08:362][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.24-12.55.08:365][849]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.55.08:824][872]Cmd: DELETE
+[2025.05.24-12.55.08:824][872]Cmd: ACTOR DELETE
+[2025.05.24-12.55.08:828][872]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.08:844][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.55.08:847][872]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.55.09:545][911]Cmd: DELETE
+[2025.05.24-12.55.09:545][911]Cmd: ACTOR DELETE
+[2025.05.24-12.55.09:550][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.09:565][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.24-12.55.09:568][911]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.55.10:180][945]Cmd: DELETE
+[2025.05.24-12.55.10:180][945]Cmd: ACTOR DELETE
+[2025.05.24-12.55.10:180][945]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.05.24-12.55.10:185][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.10:200][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-12.55.10:202][945]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.55.11:608][ 26]Cmd: DELETE
+[2025.05.24-12.55.11:608][ 26]Cmd: ACTOR DELETE
+[2025.05.24-12.55.11:613][ 26]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.11:627][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.55.11:631][ 26]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.55.12:363][ 67]Cmd: DELETE
+[2025.05.24-12.55.12:363][ 67]Cmd: ACTOR DELETE
+[2025.05.24-12.55.12:369][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.12:385][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.24-12.55.12:388][ 67]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-12.55.25:552][847]Cmd: DELETE
+[2025.05.24-12.55.25:552][847]Cmd: ACTOR DELETE
+[2025.05.24-12.55.25:556][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.25:571][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.24-12.55.25:574][847]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.55.26:225][881]Cmd: DELETE
+[2025.05.24-12.55.26:225][881]Cmd: ACTOR DELETE
+[2025.05.24-12.55.26:231][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.26:246][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.24-12.55.26:248][881]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.55.26:886][916]Cmd: DELETE
+[2025.05.24-12.55.26:886][916]Cmd: ACTOR DELETE
+[2025.05.24-12.55.26:891][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.26:908][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.24-12.55.26:911][916]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.55.27:969][975]Cmd: DELETE
+[2025.05.24-12.55.27:969][975]Cmd: ACTOR DELETE
+[2025.05.24-12.55.27:974][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.27:989][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-12.55.27:991][975]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.55.28:616][  8]Cmd: DELETE
+[2025.05.24-12.55.28:616][  8]Cmd: ACTOR DELETE
+[2025.05.24-12.55.28:620][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.28:636][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-12.55.28:638][  8]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.55.29:403][ 50]Cmd: DELETE
+[2025.05.24-12.55.29:403][ 50]Cmd: ACTOR DELETE
+[2025.05.24-12.55.29:408][ 50]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.29:425][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-12.55.29:429][ 50]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-12.55.30:591][114]Cmd: DELETE
+[2025.05.24-12.55.30:591][114]Cmd: ACTOR DELETE
+[2025.05.24-12.55.30:595][114]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.30:611][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.24-12.55.30:614][114]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.55.31:510][165]Cmd: DELETE
+[2025.05.24-12.55.31:510][165]Cmd: ACTOR DELETE
+[2025.05.24-12.55.31:515][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.31:532][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.24-12.55.31:534][165]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.55.50:767][300]Cmd: DELETE
+[2025.05.24-12.55.50:767][300]Cmd: ACTOR DELETE
+[2025.05.24-12.55.50:772][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.55.50:787][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.55.50:789][300]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.56.09:807][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.24-12.56.10:840][433]LogSlate: Window 'Save Content' being destroyed
+[2025.05.24-12.56.10:859][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-12.56.11:096][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.24-12.56.11:206][433]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.24-12.56.11:208][433]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level1CBDAD5DB42745EA6AAD212BEF97ED1DF.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.24-12.56.11:220][433]LogFileHelpers: Saving map 'Level1' took 0.180
+[2025.05.24-12.56.11:232][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 372 ms (total: 2.90 sec)
+[2025.05.24-12.56.11:237][433]AssetCheck: New page: Asset Save: Level1
+[2025.05.24-12.56.11:237][433]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.24-12.56.17:955][819]Cmd: DELETE
+[2025.05.24-12.56.17:955][819]Cmd: ACTOR DELETE
+[2025.05.24-12.56.17:959][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.17:975][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.56.17:978][819]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.56.18:826][867]Cmd: DELETE
+[2025.05.24-12.56.18:826][867]Cmd: ACTOR DELETE
+[2025.05.24-12.56.18:830][867]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.18:845][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.24-12.56.18:848][867]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.56.19:482][902]Cmd: DELETE
+[2025.05.24-12.56.19:482][902]Cmd: ACTOR DELETE
+[2025.05.24-12.56.19:486][902]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.19:502][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.56.19:504][902]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.56.20:089][934]Cmd: DELETE
+[2025.05.24-12.56.20:089][934]Cmd: ACTOR DELETE
+[2025.05.24-12.56.20:093][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.20:108][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.24-12.56.20:110][934]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.56.20:690][966]Cmd: DELETE
+[2025.05.24-12.56.20:690][966]Cmd: ACTOR DELETE
+[2025.05.24-12.56.20:697][966]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.20:713][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-12.56.20:716][966]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-12.56.21:238][993]Cmd: DELETE
+[2025.05.24-12.56.21:238][993]Cmd: ACTOR DELETE
+[2025.05.24-12.56.21:243][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.21:257][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.56.21:259][993]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-12.56.21:809][ 22]Cmd: DELETE
+[2025.05.24-12.56.21:809][ 22]Cmd: ACTOR DELETE
+[2025.05.24-12.56.21:813][ 22]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.21:828][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-12.56.21:830][ 22]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.56.22:533][ 60]Cmd: DELETE
+[2025.05.24-12.56.22:533][ 60]Cmd: ACTOR DELETE
+[2025.05.24-12.56.22:537][ 60]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.22:550][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.56.22:552][ 60]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-12.56.23:039][ 85]Cmd: DELETE
+[2025.05.24-12.56.23:039][ 85]Cmd: ACTOR DELETE
+[2025.05.24-12.56.23:042][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.23:058][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.56.23:060][ 85]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.56.36:246][864]Cmd: DELETE
+[2025.05.24-12.56.36:247][864]Cmd: ACTOR DELETE
+[2025.05.24-12.56.36:251][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.36:266][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.24-12.56.36:268][864]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.56.36:844][894]Cmd: DELETE
+[2025.05.24-12.56.36:844][894]Cmd: ACTOR DELETE
+[2025.05.24-12.56.36:849][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.36:866][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-12.56.36:868][894]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.56.37:463][925]Cmd: DELETE
+[2025.05.24-12.56.37:463][925]Cmd: ACTOR DELETE
+[2025.05.24-12.56.37:466][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.37:480][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-12.56.37:482][925]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-12.56.38:062][957]Cmd: DELETE
+[2025.05.24-12.56.38:063][957]Cmd: ACTOR DELETE
+[2025.05.24-12.56.38:067][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.38:080][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-12.56.38:083][957]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-12.56.38:763][994]Cmd: DELETE
+[2025.05.24-12.56.38:764][994]Cmd: ACTOR DELETE
+[2025.05.24-12.56.38:767][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.38:781][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-12.56.38:785][994]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.56.39:427][ 30]Cmd: DELETE
+[2025.05.24-12.56.39:427][ 30]Cmd: ACTOR DELETE
+[2025.05.24-12.56.39:431][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.39:446][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.24-12.56.39:449][ 30]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.56.40:212][ 73]Cmd: DELETE
+[2025.05.24-12.56.40:212][ 73]Cmd: ACTOR DELETE
+[2025.05.24-12.56.40:215][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.40:230][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.56.40:232][ 73]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.56.42:467][201]Cmd: DELETE
+[2025.05.24-12.56.42:467][201]Cmd: ACTOR DELETE
+[2025.05.24-12.56.42:471][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.42:486][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.56.42:488][201]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.56.43:166][239]Cmd: DELETE
+[2025.05.24-12.56.43:166][239]Cmd: ACTOR DELETE
+[2025.05.24-12.56.43:171][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.56.43:186][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.56.43:188][239]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.16:616][211]Cmd: DELETE
+[2025.05.24-12.57.16:616][211]Cmd: ACTOR DELETE
+[2025.05.24-12.57.16:620][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.16:632][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.57.16:634][211]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.05.24-12.57.17:467][258]Cmd: DELETE
+[2025.05.24-12.57.17:467][258]Cmd: ACTOR DELETE
+[2025.05.24-12.57.17:471][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.17:486][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.57.17:489][258]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.18:319][305]Cmd: DELETE
+[2025.05.24-12.57.18:319][305]Cmd: ACTOR DELETE
+[2025.05.24-12.57.18:323][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.18:338][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.24-12.57.18:341][305]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.19:004][342]Cmd: DELETE
+[2025.05.24-12.57.19:005][342]Cmd: ACTOR DELETE
+[2025.05.24-12.57.19:009][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.19:024][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-12.57.19:026][342]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.19:674][378]Cmd: DELETE
+[2025.05.24-12.57.19:674][378]Cmd: ACTOR DELETE
+[2025.05.24-12.57.19:677][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.19:692][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.24-12.57.19:695][378]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.20:298][410]Cmd: DELETE
+[2025.05.24-12.57.20:298][410]Cmd: ACTOR DELETE
+[2025.05.24-12.57.20:301][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.20:314][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-12.57.20:317][410]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.05.24-12.57.20:893][440]Cmd: DELETE
+[2025.05.24-12.57.20:893][440]Cmd: ACTOR DELETE
+[2025.05.24-12.57.20:896][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.20:910][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.57.20:912][440]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-12.57.21:486][470]Cmd: DELETE
+[2025.05.24-12.57.21:487][470]Cmd: ACTOR DELETE
+[2025.05.24-12.57.21:491][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.21:505][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-12.57.21:508][470]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.22:037][497]Cmd: DELETE
+[2025.05.24-12.57.22:037][497]Cmd: ACTOR DELETE
+[2025.05.24-12.57.22:041][497]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.22:056][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.24-12.57.22:059][497]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.23:569][584]Cmd: DELETE
+[2025.05.24-12.57.23:570][584]Cmd: ACTOR DELETE
+[2025.05.24-12.57.23:574][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.23:591][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.24-12.57.23:593][584]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.57.24:310][624]Cmd: DELETE
+[2025.05.24-12.57.24:310][624]Cmd: ACTOR DELETE
+[2025.05.24-12.57.24:314][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.24:329][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.57.24:332][624]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.25:090][665]Cmd: DELETE
+[2025.05.24-12.57.25:091][665]Cmd: ACTOR DELETE
+[2025.05.24-12.57.25:095][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.25:110][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.24-12.57.25:112][665]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.25:692][697]Cmd: DELETE
+[2025.05.24-12.57.25:692][697]Cmd: ACTOR DELETE
+[2025.05.24-12.57.25:697][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.25:712][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.24-12.57.25:715][697]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.26:404][735]Cmd: DELETE
+[2025.05.24-12.57.26:404][735]Cmd: ACTOR DELETE
+[2025.05.24-12.57.26:408][735]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.26:423][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.24-12.57.26:426][735]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.30:142][947]Cmd: DELETE
+[2025.05.24-12.57.30:142][947]Cmd: ACTOR DELETE
+[2025.05.24-12.57.30:145][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.30:162][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.57.30:166][947]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.57.30:799][982]Cmd: DELETE
+[2025.05.24-12.57.30:799][982]Cmd: ACTOR DELETE
+[2025.05.24-12.57.30:802][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.30:817][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-12.57.30:819][982]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.31:475][ 18]Cmd: DELETE
+[2025.05.24-12.57.31:475][ 18]Cmd: ACTOR DELETE
+[2025.05.24-12.57.31:481][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.31:496][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.24-12.57.31:499][ 18]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.57.32:148][ 54]Cmd: DELETE
+[2025.05.24-12.57.32:148][ 54]Cmd: ACTOR DELETE
+[2025.05.24-12.57.32:151][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.32:165][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-12.57.32:168][ 54]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-12.57.32:795][ 87]Cmd: DELETE
+[2025.05.24-12.57.32:795][ 87]Cmd: ACTOR DELETE
+[2025.05.24-12.57.32:799][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.32:813][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.57.32:816][ 87]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.33:408][118]Cmd: DELETE
+[2025.05.24-12.57.33:408][118]Cmd: ACTOR DELETE
+[2025.05.24-12.57.33:413][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.33:428][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-12.57.33:431][118]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.57.34:181][159]Cmd: DELETE
+[2025.05.24-12.57.34:181][159]Cmd: ACTOR DELETE
+[2025.05.24-12.57.34:185][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.34:201][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.24-12.57.34:203][159]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.34:801][192]Cmd: DELETE
+[2025.05.24-12.57.34:802][192]Cmd: ACTOR DELETE
+[2025.05.24-12.57.34:805][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.34:820][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.24-12.57.34:823][192]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.35:520][231]Cmd: DELETE
+[2025.05.24-12.57.35:520][231]Cmd: ACTOR DELETE
+[2025.05.24-12.57.35:523][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.35:538][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.57.35:540][231]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.36:088][261]Cmd: DELETE
+[2025.05.24-12.57.36:088][261]Cmd: ACTOR DELETE
+[2025.05.24-12.57.36:092][261]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.57.36:106][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-12.57.36:109][261]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.57.57:003][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-12.57.57:214][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.24-12.57.57:304][480]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.24-12.57.57:306][480]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level1EF3CF9DB436A716539D3569C97C61C91.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.24-12.57.57:317][480]LogFileHelpers: Saving map 'Level1' took 0.157
+[2025.05.24-12.57.57:328][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 324 ms (total: 3.22 sec)
+[2025.05.24-12.57.57:329][480]AssetCheck: New page: Asset Save: Level1
+[2025.05.24-12.57.57:329][480]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.24-12.58.03:058][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.24-12.58.03:084][810]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.05.24-12.58.03:086][810]LogPlayLevel: [PlayLevel] Compiling BP_Weapon_Component before play...
+[2025.05.24-12.58.03:116][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.24-12.58.03:117][810]LogPlayLevel: PlayLevel: Blueprint regeneration took 33 ms (1 blueprints)
+[2025.05.24-12.58.03:118][810]PIE: New page: PIE session: Level1 (May 25, 2025, 4:58:03 AM)
+[2025.05.24-12.58.03:127][810]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.24-12.58.03:129][810]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.24-12.58.03:130][810]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.24-12.58.03:144][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014137s)
+[2025.05.24-12.58.03:144][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.014268s)
+[2025.05.24-12.58.03:155][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.05.24-12.58.03:158][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.58.03:158][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.24-12.58.03:158][810]LogAIModule: Creating AISystem for world Level1
+[2025.05.24-12.58.03:159][810]LogPlayLevel: PIE: World Init took: (0.002303s)
+[2025.05.24-12.58.03:159][810]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.24-12.58.03:159][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.24-12.58.03:159][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.24-12.58.03:159][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.24-12.58.03:159][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.24-12.58.03:159][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.24-12.58.03:159][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.24-12.58.03:159][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.24-12.58.03:159][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.24-12.58.03:161][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.24-12.58.03:161][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.24-12.58.03:161][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.24-12.58.03:163][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.24-12.58.03:237][810]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.24-12.58.03:238][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.24-12.58.03:238][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.24-12.58.03:238][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.24-12.58.03:239][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.24-12.58.03:239][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.24-12.58.03:241][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.24-12.58.03:241][810]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.24-12.58.03:241][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.24-12.58.03:241][810]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2025.05.24-12.58.03:241][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.24-12.58.03:253][810]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.24-12.58.03:256][810]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.24-20.58.03
+[2025.05.24-12.58.03:257][810]LogWorld: Bringing up level for play took: 0.004098
+[2025.05.24-12.58.03:261][810]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.05.24-12.58.03:306][810]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.24-12.58.03:307][810]PIE: Server logged in
+[2025.05.24-12.58.03:308][810]PIE: Play in editor total start time 0.229 seconds.
+[2025.05.24-12.58.05:364][814]LogSlate: Took 0.000905 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.05.24-12.58.08:391][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.24-12.58.08:391][993]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.24-12.58.08:392][993]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.58.08:393][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.58.08:400][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.24-12.58.08:408][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.58.08:425][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.24-12.58.08:425][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.24-12.58.08:428][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.24-12.58.08:431][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.24-12.58.08:438][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.24-12.58.08:447][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.05.24-12.58.08:586][994]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.05.24-12.58.19:809][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-12.58.20:004][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.24-12.58.20:094][649]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.24-12.58.20:096][649]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level14998C30D4F974ADFDADA8CAF67F674BA.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.24-12.58.20:106][649]LogFileHelpers: Saving map 'Level1' took 0.161
+[2025.05.24-12.58.20:118][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 308 ms (total: 3.53 sec)
+[2025.05.24-12.58.20:120][649]AssetCheck: New page: Asset Save: Level1
+[2025.05.24-12.58.20:120][649]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.24-12.58.22:032][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-12.58.22:278][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.58.22:288][761]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level2.Level2
+[2025.05.24-12.58.22:288][761]Cmd: MAP LOAD FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.24-12.58.22:288][761]LightingResults: New page: Lighting Build
+[2025.05.24-12.58.22:289][761]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.24-12.58.22:332][761]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.58.22:332][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.58.22:332][761]MapCheck: New page: Map Check
+[2025.05.24-12.58.22:332][761]LightingResults: New page: Lighting Build
+[2025.05.24-12.58.22:349][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.24-12.58.22:358][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.24-12.58.22:362][761]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-12.58.22:363][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-12.58.22:394][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.24-12.58.22:412][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.24-12.58.22:440][761]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.24-12.58.22:441][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-12.58.22:441][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.24-12.58.22:441][761]LogAIModule: Creating AISystem for world Level2
+[2025.05.24-12.58.22:515][761]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.24-12.58.22:535][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.24-12.58.22:545][761]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.24-12.58.22:545][761]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: ================================================
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: Total job queries 14, among them cache hits 8 (57.14%)
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: RAM used: 119.19 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.24-12.58.22:607][761]LogShaderCompilers: Display: ================================================
+[2025.05.24-12.58.29:689][163]Cmd: DELETE
+[2025.05.24-12.58.29:689][163]Cmd: ACTOR DELETE
+[2025.05.24-12.58.29:695][163]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.29:709][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.58.29:713][163]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.58.30:299][195]Cmd: DELETE
+[2025.05.24-12.58.30:299][195]Cmd: ACTOR DELETE
+[2025.05.24-12.58.30:304][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.30:318][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.58.30:321][195]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.58.31:185][244]Cmd: DELETE
+[2025.05.24-12.58.31:185][244]Cmd: ACTOR DELETE
+[2025.05.24-12.58.31:190][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.31:206][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-12.58.31:209][244]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.58.31:891][282]Cmd: DELETE
+[2025.05.24-12.58.31:891][282]Cmd: ACTOR DELETE
+[2025.05.24-12.58.31:897][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.31:912][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.05.24-12.58.31:916][282]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-12.58.32:591][319]Cmd: DELETE
+[2025.05.24-12.58.32:591][319]Cmd: ACTOR DELETE
+[2025.05.24-12.58.32:597][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.32:611][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.24-12.58.32:614][319]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.58.33:184][349]Cmd: DELETE
+[2025.05.24-12.58.33:184][349]Cmd: ACTOR DELETE
+[2025.05.24-12.58.33:190][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.33:205][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-12.58.33:207][349]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.58.33:805][382]Cmd: DELETE
+[2025.05.24-12.58.33:805][382]Cmd: ACTOR DELETE
+[2025.05.24-12.58.33:811][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.33:825][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-12.58.33:828][382]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.58.35:784][494]Cmd: DELETE
+[2025.05.24-12.58.35:784][494]Cmd: ACTOR DELETE
+[2025.05.24-12.58.35:790][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.35:804][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-12.58.35:806][494]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.58.36:924][558]Cmd: DELETE
+[2025.05.24-12.58.36:924][558]Cmd: ACTOR DELETE
+[2025.05.24-12.58.36:929][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.36:944][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-12.58.36:946][558]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.58.46:019][ 87]Cmd: DELETE
+[2025.05.24-12.58.46:020][ 87]Cmd: ACTOR DELETE
+[2025.05.24-12.58.46:025][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.46:040][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.58.46:043][ 87]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.58.46:676][121]Cmd: DELETE
+[2025.05.24-12.58.46:676][121]Cmd: ACTOR DELETE
+[2025.05.24-12.58.46:680][121]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.46:695][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.58.46:699][121]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.58.47:265][152]Cmd: DELETE
+[2025.05.24-12.58.47:265][152]Cmd: ACTOR DELETE
+[2025.05.24-12.58.47:270][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.47:285][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.24-12.58.47:288][152]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.58.47:886][184]Cmd: DELETE
+[2025.05.24-12.58.47:886][184]Cmd: ACTOR DELETE
+[2025.05.24-12.58.47:890][184]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.47:905][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.58.47:908][184]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.58.48:452][213]Cmd: DELETE
+[2025.05.24-12.58.48:452][213]Cmd: ACTOR DELETE
+[2025.05.24-12.58.48:457][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.48:469][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.24-12.58.48:472][213]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-12.58.49:035][243]Cmd: DELETE
+[2025.05.24-12.58.49:035][243]Cmd: ACTOR DELETE
+[2025.05.24-12.58.49:040][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.49:056][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.24-12.58.49:058][243]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.58.49:613][271]Cmd: DELETE
+[2025.05.24-12.58.49:613][271]Cmd: ACTOR DELETE
+[2025.05.24-12.58.49:619][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.49:630][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.24-12.58.49:634][271]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-12.58.50:208][300]Cmd: DELETE
+[2025.05.24-12.58.50:208][300]Cmd: ACTOR DELETE
+[2025.05.24-12.58.50:213][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.50:230][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-12.58.50:233][300]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.58.50:873][333]Cmd: DELETE
+[2025.05.24-12.58.50:873][333]Cmd: ACTOR DELETE
+[2025.05.24-12.58.50:878][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.50:892][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.58.50:895][333]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.58.51:453][361]Cmd: DELETE
+[2025.05.24-12.58.51:453][361]Cmd: ACTOR DELETE
+[2025.05.24-12.58.51:459][361]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.58.51:473][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.24-12.58.51:477][361]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.59.32:038][747]Cmd: DELETE
+[2025.05.24-12.59.32:038][747]Cmd: ACTOR DELETE
+[2025.05.24-12.59.32:043][747]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.32:059][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-12.59.32:061][747]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.59.33:104][806]Cmd: DELETE
+[2025.05.24-12.59.33:104][806]Cmd: ACTOR DELETE
+[2025.05.24-12.59.33:111][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.33:125][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.59.33:128][806]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.59.33:758][841]Cmd: DELETE
+[2025.05.24-12.59.33:758][841]Cmd: ACTOR DELETE
+[2025.05.24-12.59.33:764][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.33:778][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.59.33:781][841]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.35:036][913]Cmd: DELETE
+[2025.05.24-12.59.35:037][913]Cmd: ACTOR DELETE
+[2025.05.24-12.59.35:041][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.35:056][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.59.35:059][913]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.36:504][993]Cmd: DELETE
+[2025.05.24-12.59.36:504][993]Cmd: ACTOR DELETE
+[2025.05.24-12.59.36:510][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.36:525][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-12.59.36:527][993]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.37:051][ 20]Cmd: DELETE
+[2025.05.24-12.59.37:051][ 20]Cmd: ACTOR DELETE
+[2025.05.24-12.59.37:055][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.37:070][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-12.59.37:072][ 20]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.38:348][ 92]Cmd: DELETE
+[2025.05.24-12.59.38:348][ 92]Cmd: ACTOR DELETE
+[2025.05.24-12.59.38:352][ 92]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.38:367][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.59.38:371][ 92]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.59.39:170][137]Cmd: DELETE
+[2025.05.24-12.59.39:170][137]Cmd: ACTOR DELETE
+[2025.05.24-12.59.39:176][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.39:193][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-12.59.39:195][137]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.05.24-12.59.39:822][170]Cmd: DELETE
+[2025.05.24-12.59.39:822][170]Cmd: ACTOR DELETE
+[2025.05.24-12.59.39:827][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.39:841][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.24-12.59.39:844][170]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.56:481][141]Cmd: DELETE
+[2025.05.24-12.59.56:482][141]Cmd: ACTOR DELETE
+[2025.05.24-12.59.56:486][141]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.56:501][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.24-12.59.56:503][141]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.57:196][179]Cmd: DELETE
+[2025.05.24-12.59.57:196][179]Cmd: ACTOR DELETE
+[2025.05.24-12.59.57:201][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.57:215][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-12.59.57:219][179]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.57:755][206]Cmd: DELETE
+[2025.05.24-12.59.57:755][206]Cmd: ACTOR DELETE
+[2025.05.24-12.59.57:760][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.57:775][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.59.57:779][206]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-12.59.58:326][234]Cmd: DELETE
+[2025.05.24-12.59.58:326][234]Cmd: ACTOR DELETE
+[2025.05.24-12.59.58:330][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.58:346][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-12.59.58:349][234]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-12.59.58:871][261]Cmd: DELETE
+[2025.05.24-12.59.58:871][261]Cmd: ACTOR DELETE
+[2025.05.24-12.59.58:877][261]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.58:891][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-12.59.58:894][261]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-12.59.59:451][290]Cmd: DELETE
+[2025.05.24-12.59.59:451][290]Cmd: ACTOR DELETE
+[2025.05.24-12.59.59:455][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-12.59.59:470][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-12.59.59:474][290]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.00.00:280][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1758.094971
+[2025.05.24-13.00.00:517][348]Cmd: DELETE
+[2025.05.24-13.00.00:517][348]Cmd: ACTOR DELETE
+[2025.05.24-13.00.00:523][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.00:538][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-13.00.00:541][348]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.00:616][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.00.00:616][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1758.413452, Update Interval: 319.871216
+[2025.05.24-13.00.01:149][381]Cmd: DELETE
+[2025.05.24-13.00.01:149][381]Cmd: ACTOR DELETE
+[2025.05.24-13.00.01:154][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.01:170][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.00.01:173][381]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-13.00.01:765][412]Cmd: DELETE
+[2025.05.24-13.00.01:765][412]Cmd: ACTOR DELETE
+[2025.05.24-13.00.01:770][412]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.01:785][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.00.01:788][412]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.00.02:284][437]Cmd: DELETE
+[2025.05.24-13.00.02:284][437]Cmd: ACTOR DELETE
+[2025.05.24-13.00.02:290][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.02:306][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.24-13.00.02:309][437]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-13.00.39:478][623]Cmd: DELETE
+[2025.05.24-13.00.39:478][623]Cmd: ACTOR DELETE
+[2025.05.24-13.00.39:485][623]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.39:502][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.24-13.00.39:505][623]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.05.24-13.00.40:069][652]Cmd: DELETE
+[2025.05.24-13.00.40:069][652]Cmd: ACTOR DELETE
+[2025.05.24-13.00.40:074][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.40:090][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.24-13.00.40:093][652]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.40:799][691]Cmd: DELETE
+[2025.05.24-13.00.40:799][691]Cmd: ACTOR DELETE
+[2025.05.24-13.00.40:804][691]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.40:819][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-13.00.40:823][691]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.41:617][735]Cmd: DELETE
+[2025.05.24-13.00.41:617][735]Cmd: ACTOR DELETE
+[2025.05.24-13.00.41:621][735]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.41:637][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-13.00.41:639][735]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.42:813][802]Cmd: DELETE
+[2025.05.24-13.00.42:813][802]Cmd: ACTOR DELETE
+[2025.05.24-13.00.42:818][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.42:835][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.24-13.00.42:838][802]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-13.00.43:526][839]Cmd: DELETE
+[2025.05.24-13.00.43:526][839]Cmd: ACTOR DELETE
+[2025.05.24-13.00.43:530][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.43:547][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.00.43:550][839]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.44:255][878]Cmd: DELETE
+[2025.05.24-13.00.44:255][878]Cmd: ACTOR DELETE
+[2025.05.24-13.00.44:260][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.44:276][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-13.00.44:279][878]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.44:938][914]Cmd: DELETE
+[2025.05.24-13.00.44:938][914]Cmd: ACTOR DELETE
+[2025.05.24-13.00.44:944][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.44:958][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.00.44:961][914]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.45:530][945]Cmd: DELETE
+[2025.05.24-13.00.45:532][945]Cmd: ACTOR DELETE
+[2025.05.24-13.00.45:537][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.45:553][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-13.00.45:555][945]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.46:280][985]Cmd: DELETE
+[2025.05.24-13.00.46:280][985]Cmd: ACTOR DELETE
+[2025.05.24-13.00.46:286][985]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.46:303][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.00.46:306][985]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.24-13.00.47:762][ 65]Cmd: DELETE
+[2025.05.24-13.00.47:762][ 65]Cmd: ACTOR DELETE
+[2025.05.24-13.00.47:767][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.47:783][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-13.00.47:786][ 65]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.50:954][246]Cmd: DELETE
+[2025.05.24-13.00.50:955][246]Cmd: ACTOR DELETE
+[2025.05.24-13.00.50:961][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.50:977][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-13.00.50:979][246]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.51:570][278]Cmd: DELETE
+[2025.05.24-13.00.51:570][278]Cmd: ACTOR DELETE
+[2025.05.24-13.00.51:575][278]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.51:591][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.24-13.00.51:594][278]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.00.52:267][315]Cmd: DELETE
+[2025.05.24-13.00.52:267][315]Cmd: ACTOR DELETE
+[2025.05.24-13.00.52:271][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.52:291][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-13.00.52:294][315]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.05.24-13.00.52:859][344]Cmd: DELETE
+[2025.05.24-13.00.52:859][344]Cmd: ACTOR DELETE
+[2025.05.24-13.00.52:865][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.52:879][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.00.52:882][344]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.54:276][424]Cmd: DELETE
+[2025.05.24-13.00.54:276][424]Cmd: ACTOR DELETE
+[2025.05.24-13.00.54:281][424]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.54:297][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.24-13.00.54:299][424]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.54:886][456]Cmd: DELETE
+[2025.05.24-13.00.54:886][456]Cmd: ACTOR DELETE
+[2025.05.24-13.00.54:891][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.54:907][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.24-13.00.54:910][456]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.55:482][487]Cmd: DELETE
+[2025.05.24-13.00.55:482][487]Cmd: ACTOR DELETE
+[2025.05.24-13.00.55:486][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.55:502][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-13.00.55:504][487]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.56:128][521]Cmd: DELETE
+[2025.05.24-13.00.56:128][521]Cmd: ACTOR DELETE
+[2025.05.24-13.00.56:132][521]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.56:148][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.00.56:151][521]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.00.56:803][557]Cmd: DELETE
+[2025.05.24-13.00.56:803][557]Cmd: ACTOR DELETE
+[2025.05.24-13.00.56:808][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.00.56:823][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.24-13.00.56:827][557]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.01.14:609][609]Cmd: DUPLICATE
+[2025.05.24-13.01.14:609][609]Cmd: ACTOR DUPLICATE
+[2025.05.24-13.01.44:466][351]Cmd: DELETE
+[2025.05.24-13.01.44:466][351]Cmd: ACTOR DELETE
+[2025.05.24-13.01.44:470][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.44:487][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.05.24-13.01.44:489][351]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.01.45:071][383]Cmd: DELETE
+[2025.05.24-13.01.45:071][383]Cmd: ACTOR DELETE
+[2025.05.24-13.01.45:076][383]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.45:091][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.24-13.01.45:093][383]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.01.45:659][414]Cmd: DELETE
+[2025.05.24-13.01.45:659][414]Cmd: ACTOR DELETE
+[2025.05.24-13.01.45:663][414]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.45:678][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-13.01.45:681][414]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.01.46:203][442]Cmd: DELETE
+[2025.05.24-13.01.46:203][442]Cmd: ACTOR DELETE
+[2025.05.24-13.01.46:207][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.46:222][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-13.01.46:225][442]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.01.46:728][469]Cmd: DELETE
+[2025.05.24-13.01.46:728][469]Cmd: ACTOR DELETE
+[2025.05.24-13.01.46:732][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.46:748][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.24-13.01.46:751][469]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.01.47:757][526]Cmd: DELETE
+[2025.05.24-13.01.47:757][526]Cmd: ACTOR DELETE
+[2025.05.24-13.01.47:761][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.47:776][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-13.01.47:779][526]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.01.48:686][577]Cmd: DELETE
+[2025.05.24-13.01.48:686][577]Cmd: ACTOR DELETE
+[2025.05.24-13.01.48:690][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.48:706][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-13.01.48:708][577]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.01.49:271][608]Cmd: DELETE
+[2025.05.24-13.01.49:271][608]Cmd: ACTOR DELETE
+[2025.05.24-13.01.49:277][608]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.49:293][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.24-13.01.49:295][608]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.01.49:909][640]Cmd: DELETE
+[2025.05.24-13.01.49:909][640]Cmd: ACTOR DELETE
+[2025.05.24-13.01.49:914][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.49:930][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-13.01.49:933][640]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.01.57:059][ 54]Cmd: DELETE
+[2025.05.24-13.01.57:059][ 54]Cmd: ACTOR DELETE
+[2025.05.24-13.01.57:062][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.57:078][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.24-13.01.57:081][ 54]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.01.57:579][ 81]Cmd: DELETE
+[2025.05.24-13.01.57:579][ 81]Cmd: ACTOR DELETE
+[2025.05.24-13.01.57:583][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.57:600][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.24-13.01.57:603][ 81]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.01.58:058][104]Cmd: DELETE
+[2025.05.24-13.01.58:058][104]Cmd: ACTOR DELETE
+[2025.05.24-13.01.58:063][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.58:077][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.01.58:081][104]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.01.58:601][132]Cmd: DELETE
+[2025.05.24-13.01.58:603][132]Cmd: ACTOR DELETE
+[2025.05.24-13.01.58:607][132]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.58:620][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.01.58:623][132]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.01.59:139][158]Cmd: DELETE
+[2025.05.24-13.01.59:139][158]Cmd: ACTOR DELETE
+[2025.05.24-13.01.59:144][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.59:159][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-13.01.59:162][158]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.01.59:686][185]Cmd: DELETE
+[2025.05.24-13.01.59:686][185]Cmd: ACTOR DELETE
+[2025.05.24-13.01.59:691][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.01.59:705][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.24-13.01.59:708][185]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.02.00:910][252]Cmd: DELETE
+[2025.05.24-13.02.00:910][252]Cmd: ACTOR DELETE
+[2025.05.24-13.02.00:915][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.00:930][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.24-13.02.00:933][252]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.01:550][286]Cmd: DELETE
+[2025.05.24-13.02.01:550][286]Cmd: ACTOR DELETE
+[2025.05.24-13.02.01:555][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.01:570][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.24-13.02.01:572][286]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.02:113][314]Cmd: DELETE
+[2025.05.24-13.02.02:113][314]Cmd: ACTOR DELETE
+[2025.05.24-13.02.02:118][314]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.02:131][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-13.02.02:134][314]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.02.02:606][338]Cmd: DELETE
+[2025.05.24-13.02.02:606][338]Cmd: ACTOR DELETE
+[2025.05.24-13.02.02:610][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.02:627][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.24-13.02.02:629][338]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.37:821][414]Cmd: DELETE
+[2025.05.24-13.02.37:821][414]Cmd: ACTOR DELETE
+[2025.05.24-13.02.37:825][414]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.37:841][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.24-13.02.37:843][414]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.38:403][442]Cmd: DELETE
+[2025.05.24-13.02.38:403][442]Cmd: ACTOR DELETE
+[2025.05.24-13.02.38:408][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.38:424][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.24-13.02.38:427][442]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.02.39:210][486]Cmd: DELETE
+[2025.05.24-13.02.39:210][486]Cmd: ACTOR DELETE
+[2025.05.24-13.02.39:215][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.39:226][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.02.39:229][486]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.05.24-13.02.40:602][565]Cmd: DELETE
+[2025.05.24-13.02.40:602][565]Cmd: ACTOR DELETE
+[2025.05.24-13.02.40:607][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.40:620][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.02.40:623][565]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.02.41:604][621]Cmd: DELETE
+[2025.05.24-13.02.41:604][621]Cmd: ACTOR DELETE
+[2025.05.24-13.02.41:609][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.41:624][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-13.02.41:627][621]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.42:274][657]Cmd: DELETE
+[2025.05.24-13.02.42:275][657]Cmd: ACTOR DELETE
+[2025.05.24-13.02.42:280][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.42:296][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.24-13.02.42:298][657]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.02.42:862][688]Cmd: DELETE
+[2025.05.24-13.02.42:862][688]Cmd: ACTOR DELETE
+[2025.05.24-13.02.42:866][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.42:879][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.24-13.02.42:882][688]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-13.02.44:004][751]Cmd: DELETE
+[2025.05.24-13.02.44:004][751]Cmd: ACTOR DELETE
+[2025.05.24-13.02.44:008][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.44:023][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.24-13.02.44:026][751]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.44:625][784]Cmd: DELETE
+[2025.05.24-13.02.44:625][784]Cmd: ACTOR DELETE
+[2025.05.24-13.02.44:629][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.44:644][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-13.02.44:646][784]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.46:391][884]Cmd: DELETE
+[2025.05.24-13.02.46:391][884]Cmd: ACTOR DELETE
+[2025.05.24-13.02.46:395][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.46:410][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.02.46:413][884]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.47:544][947]Cmd: DELETE
+[2025.05.24-13.02.47:544][947]Cmd: ACTOR DELETE
+[2025.05.24-13.02.47:548][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.47:564][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.02.47:566][947]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.48:750][ 13]Cmd: DELETE
+[2025.05.24-13.02.48:750][ 13]Cmd: ACTOR DELETE
+[2025.05.24-13.02.48:755][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.48:770][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.24-13.02.48:772][ 13]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.49:505][ 54]Cmd: DELETE
+[2025.05.24-13.02.49:505][ 54]Cmd: ACTOR DELETE
+[2025.05.24-13.02.49:509][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.49:525][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.24-13.02.49:527][ 54]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.50:445][104]Cmd: DELETE
+[2025.05.24-13.02.50:445][104]Cmd: ACTOR DELETE
+[2025.05.24-13.02.50:449][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.50:465][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-13.02.50:468][104]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.02.51:752][177]Cmd: DELETE
+[2025.05.24-13.02.51:752][177]Cmd: ACTOR DELETE
+[2025.05.24-13.02.51:757][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.51:773][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.24-13.02.51:776][177]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.02.52:545][219]Cmd: DELETE
+[2025.05.24-13.02.52:545][219]Cmd: ACTOR DELETE
+[2025.05.24-13.02.52:549][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.52:564][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.02.52:567][219]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.53:609][277]Cmd: DELETE
+[2025.05.24-13.02.53:609][277]Cmd: ACTOR DELETE
+[2025.05.24-13.02.53:613][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.53:628][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-13.02.53:631][277]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.54:431][321]Cmd: DELETE
+[2025.05.24-13.02.54:431][321]Cmd: ACTOR DELETE
+[2025.05.24-13.02.54:435][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.54:450][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-13.02.54:453][321]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.02.55:431][377]Cmd: DELETE
+[2025.05.24-13.02.55:431][377]Cmd: ACTOR DELETE
+[2025.05.24-13.02.55:436][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.55:450][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.02.55:453][377]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.02.56:048][410]Cmd: DELETE
+[2025.05.24-13.02.56:048][410]Cmd: ACTOR DELETE
+[2025.05.24-13.02.56:053][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.56:067][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.02.56:070][410]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.56:765][449]Cmd: DELETE
+[2025.05.24-13.02.56:766][449]Cmd: ACTOR DELETE
+[2025.05.24-13.02.56:771][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.56:785][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.02.56:789][449]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.57:560][491]Cmd: DELETE
+[2025.05.24-13.02.57:560][491]Cmd: ACTOR DELETE
+[2025.05.24-13.02.57:565][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.57:581][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-13.02.57:583][491]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.58:253][527]Cmd: DELETE
+[2025.05.24-13.02.58:253][527]Cmd: ACTOR DELETE
+[2025.05.24-13.02.58:257][527]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.58:272][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-13.02.58:275][527]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.02.58:889][561]Cmd: DELETE
+[2025.05.24-13.02.58:889][561]Cmd: ACTOR DELETE
+[2025.05.24-13.02.58:893][561]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.02.58:909][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.24-13.02.58:911][561]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.03.30:552][416]Cmd: DELETE
+[2025.05.24-13.03.30:552][416]Cmd: ACTOR DELETE
+[2025.05.24-13.03.30:556][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.30:571][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.03.30:573][416]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-13.03.31:115][446]Cmd: DELETE
+[2025.05.24-13.03.31:115][446]Cmd: ACTOR DELETE
+[2025.05.24-13.03.31:119][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.31:134][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.24-13.03.31:136][446]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.33:197][566]Cmd: DELETE
+[2025.05.24-13.03.33:197][566]Cmd: ACTOR DELETE
+[2025.05.24-13.03.33:201][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.33:217][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.24-13.03.33:219][566]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.03.33:923][604]Cmd: DELETE
+[2025.05.24-13.03.33:924][604]Cmd: ACTOR DELETE
+[2025.05.24-13.03.33:928][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.33:944][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-13.03.33:947][604]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.03.34:786][650]Cmd: DELETE
+[2025.05.24-13.03.34:786][650]Cmd: ACTOR DELETE
+[2025.05.24-13.03.34:790][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.34:805][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-13.03.34:807][650]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.35:804][707]Cmd: DELETE
+[2025.05.24-13.03.35:804][707]Cmd: ACTOR DELETE
+[2025.05.24-13.03.35:809][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.35:825][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.24-13.03.35:827][707]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.03.36:508][745]Cmd: DELETE
+[2025.05.24-13.03.36:509][745]Cmd: ACTOR DELETE
+[2025.05.24-13.03.36:512][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.36:527][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-13.03.36:529][745]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.37:175][781]Cmd: DELETE
+[2025.05.24-13.03.37:177][781]Cmd: ACTOR DELETE
+[2025.05.24-13.03.37:180][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.37:197][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.24-13.03.37:199][781]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.03.38:346][845]Cmd: DELETE
+[2025.05.24-13.03.38:346][845]Cmd: ACTOR DELETE
+[2025.05.24-13.03.38:351][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.38:366][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.03.38:368][845]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.39:621][917]Cmd: DELETE
+[2025.05.24-13.03.39:621][917]Cmd: ACTOR DELETE
+[2025.05.24-13.03.39:625][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.39:640][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.03.39:642][917]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.41:296][ 13]Cmd: DELETE
+[2025.05.24-13.03.41:296][ 13]Cmd: ACTOR DELETE
+[2025.05.24-13.03.41:301][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.41:315][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-13.03.41:318][ 13]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.42:743][ 95]Cmd: DELETE
+[2025.05.24-13.03.42:743][ 95]Cmd: ACTOR DELETE
+[2025.05.24-13.03.42:747][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.42:762][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-13.03.42:764][ 95]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.44:489][195]Cmd: DELETE
+[2025.05.24-13.03.44:489][195]Cmd: ACTOR DELETE
+[2025.05.24-13.03.44:492][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.44:507][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-13.03.44:510][195]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.45:292][239]Cmd: DELETE
+[2025.05.24-13.03.45:292][239]Cmd: ACTOR DELETE
+[2025.05.24-13.03.45:296][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.45:311][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-13.03.45:314][239]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.45:934][272]Cmd: DELETE
+[2025.05.24-13.03.45:935][272]Cmd: ACTOR DELETE
+[2025.05.24-13.03.45:938][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.45:952][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.03.45:955][272]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.46:871][323]Cmd: DELETE
+[2025.05.24-13.03.46:871][323]Cmd: ACTOR DELETE
+[2025.05.24-13.03.46:874][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.46:889][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.03.46:893][323]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.48:416][412]Cmd: TRANSACTION UNDO
+[2025.05.24-13.03.48:417][412]LogEditorTransaction: Undo Delete Elements
+[2025.05.24-13.03.50:196][493]Cmd: DELETE
+[2025.05.24-13.03.50:196][493]Cmd: ACTOR DELETE
+[2025.05.24-13.03.50:201][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.50:216][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-13.03.50:219][493]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.51:132][545]Cmd: DELETE
+[2025.05.24-13.03.51:133][545]Cmd: ACTOR DELETE
+[2025.05.24-13.03.51:136][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.51:149][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.24-13.03.51:152][545]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.05.24-13.03.52:503][621]Cmd: DELETE
+[2025.05.24-13.03.52:503][621]Cmd: ACTOR DELETE
+[2025.05.24-13.03.52:507][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.52:523][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.24-13.03.52:526][621]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.54:263][722]Cmd: DELETE
+[2025.05.24-13.03.54:263][722]Cmd: ACTOR DELETE
+[2025.05.24-13.03.54:267][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.54:282][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.24-13.03.54:285][722]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.03.56:357][843]Cmd: DELETE
+[2025.05.24-13.03.56:357][843]Cmd: ACTOR DELETE
+[2025.05.24-13.03.56:361][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.56:377][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-13.03.56:379][843]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.57:954][934]Cmd: DELETE
+[2025.05.24-13.03.57:954][934]Cmd: ACTOR DELETE
+[2025.05.24-13.03.57:958][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.57:974][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.24-13.03.57:976][934]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.03.58:607][969]Cmd: DELETE
+[2025.05.24-13.03.58:607][969]Cmd: ACTOR DELETE
+[2025.05.24-13.03.58:612][969]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.03.58:628][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.24-13.03.58:631][969]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.04.34:127][ 52]Cmd: TRANSACTION UNDO
+[2025.05.24-13.04.34:127][ 52]LogEditorTransaction: Undo Move Elements
+[2025.05.24-13.04.36:783][189]Cmd: DELETE
+[2025.05.24-13.04.36:783][189]Cmd: ACTOR DELETE
+[2025.05.24-13.04.36:787][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.04.36:803][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.24-13.04.36:806][189]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.05.17:687][492]LogViewport: Scene viewport resized to 1121x503, mode Windowed.
+[2025.05.24-13.05.20:347][646]LogViewport: Scene viewport resized to 1107x503, mode Windowed.
+[2025.05.24-13.05.20:371][647]LogViewport: Scene viewport resized to 1074x503, mode Windowed.
+[2025.05.24-13.05.20:408][648]LogViewport: Scene viewport resized to 1025x503, mode Windowed.
+[2025.05.24-13.05.20:440][649]LogViewport: Scene viewport resized to 1000x503, mode Windowed.
+[2025.05.24-13.05.20:490][650]LogViewport: Scene viewport resized to 994x503, mode Windowed.
+[2025.05.24-13.05.24:636][890]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.24-13.05.24:662][890]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.24-13.05.25:987][966]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2025.05.24-13.06.02:151][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2119.974609
+[2025.05.24-13.06.02:466][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.06.02:466][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2120.274658, Update Interval: 330.784637
+[2025.05.24-13.06.37:456][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.24-13.07.19:146][582]Cmd: DELETE
+[2025.05.24-13.07.19:146][582]Cmd: ACTOR DELETE
+[2025.05.24-13.07.19:151][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.19:176][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.24-13.07.19:178][582]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.05.24-13.07.20:093][634]Cmd: DELETE
+[2025.05.24-13.07.20:093][634]Cmd: ACTOR DELETE
+[2025.05.24-13.07.20:097][634]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.20:112][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-13.07.20:115][634]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.20:827][674]Cmd: DELETE
+[2025.05.24-13.07.20:827][674]Cmd: ACTOR DELETE
+[2025.05.24-13.07.20:831][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.20:854][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.24-13.07.20:857][674]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.05.24-13.07.22:310][758]Cmd: DELETE
+[2025.05.24-13.07.22:310][758]Cmd: ACTOR DELETE
+[2025.05.24-13.07.22:314][758]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.22:329][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.24-13.07.22:331][758]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.23:210][807]Cmd: DELETE
+[2025.05.24-13.07.23:210][807]Cmd: ACTOR DELETE
+[2025.05.24-13.07.23:214][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.23:230][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.24-13.07.23:232][807]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.23:985][848]Cmd: DELETE
+[2025.05.24-13.07.23:986][848]Cmd: ACTOR DELETE
+[2025.05.24-13.07.23:990][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.24:004][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.07.24:007][848]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.24:651][884]Cmd: DELETE
+[2025.05.24-13.07.24:651][884]Cmd: ACTOR DELETE
+[2025.05.24-13.07.24:656][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.24:670][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.24-13.07.24:672][884]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.25:821][950]Cmd: DELETE
+[2025.05.24-13.07.25:821][950]Cmd: ACTOR DELETE
+[2025.05.24-13.07.25:826][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.25:840][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.24-13.07.25:842][950]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.26:413][979]Cmd: DELETE
+[2025.05.24-13.07.26:414][979]Cmd: ACTOR DELETE
+[2025.05.24-13.07.26:418][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.26:432][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-13.07.26:436][979]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.07.27:687][ 49]Cmd: DELETE
+[2025.05.24-13.07.27:687][ 49]Cmd: ACTOR DELETE
+[2025.05.24-13.07.27:690][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.27:706][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.07.27:709][ 49]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.29:054][125]Cmd: DELETE
+[2025.05.24-13.07.29:054][125]Cmd: ACTOR DELETE
+[2025.05.24-13.07.29:058][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.29:072][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.24-13.07.29:075][125]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.05.24-13.07.30:227][190]Cmd: DELETE
+[2025.05.24-13.07.30:227][190]Cmd: ACTOR DELETE
+[2025.05.24-13.07.30:231][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.30:247][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.24-13.07.30:250][190]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.31:891][284]Cmd: DELETE
+[2025.05.24-13.07.31:891][284]Cmd: ACTOR DELETE
+[2025.05.24-13.07.31:895][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.31:911][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.24-13.07.31:914][284]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.32:833][336]Cmd: DELETE
+[2025.05.24-13.07.32:833][336]Cmd: ACTOR DELETE
+[2025.05.24-13.07.32:838][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.32:853][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.24-13.07.32:856][336]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.07.33:483][369]Cmd: DELETE
+[2025.05.24-13.07.33:483][369]Cmd: ACTOR DELETE
+[2025.05.24-13.07.33:488][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.33:503][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-13.07.33:505][369]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.34:956][451]Cmd: DELETE
+[2025.05.24-13.07.34:957][451]Cmd: ACTOR DELETE
+[2025.05.24-13.07.34:960][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.34:974][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.24-13.07.34:977][451]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.36:648][548]Cmd: DELETE
+[2025.05.24-13.07.36:648][548]Cmd: ACTOR DELETE
+[2025.05.24-13.07.36:652][548]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.36:666][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.24-13.07.36:669][548]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.37:270][581]Cmd: DELETE
+[2025.05.24-13.07.37:270][581]Cmd: ACTOR DELETE
+[2025.05.24-13.07.37:274][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.37:291][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.24-13.07.37:293][581]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.07.38:572][653]Cmd: DELETE
+[2025.05.24-13.07.38:572][653]Cmd: ACTOR DELETE
+[2025.05.24-13.07.38:576][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.38:592][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.24-13.07.38:595][653]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.39:133][681]Cmd: DELETE
+[2025.05.24-13.07.39:133][681]Cmd: ACTOR DELETE
+[2025.05.24-13.07.39:138][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.39:152][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.24-13.07.39:155][681]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.40:415][752]Cmd: DELETE
+[2025.05.24-13.07.40:415][752]Cmd: ACTOR DELETE
+[2025.05.24-13.07.40:419][752]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.40:433][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.24-13.07.40:437][752]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.05.24-13.07.41:119][789]Cmd: DELETE
+[2025.05.24-13.07.41:119][789]Cmd: ACTOR DELETE
+[2025.05.24-13.07.41:122][789]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.41:138][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.24-13.07.41:141][789]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.41:774][824]Cmd: DELETE
+[2025.05.24-13.07.41:774][824]Cmd: ACTOR DELETE
+[2025.05.24-13.07.41:779][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.41:793][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.24-13.07.41:796][824]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.43:089][897]Cmd: DELETE
+[2025.05.24-13.07.43:089][897]Cmd: ACTOR DELETE
+[2025.05.24-13.07.43:093][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.43:109][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.05.24-13.07.43:112][897]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.24-13.07.43:776][934]Cmd: DELETE
+[2025.05.24-13.07.43:776][934]Cmd: ACTOR DELETE
+[2025.05.24-13.07.43:781][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.07.43:796][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.24-13.07.43:799][934]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.05.24-13.07.49:392][258]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2025.05.24-13.08.14:749][751]Cmd: TRANSACTION UNDO
+[2025.05.24-13.08.14:749][751]LogEditorTransaction: Undo Scale Elements
+[2025.05.24-13.09.06:304][746]Cmd: TRANSACTION UNDO
+[2025.05.24-13.09.06:304][746]LogEditorTransaction: Undo Select Brush Surface
+[2025.05.24-13.10.19:972][ 18]Cmd: DELETE
+[2025.05.24-13.10.19:972][ 18]Cmd: ACTOR DELETE
+[2025.05.24-13.10.19:977][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.24-13.10.19:995][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.24-13.10.19:997][ 18]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.24-13.10.23:460][211]Cmd: DUPLICATE
+[2025.05.24-13.10.23:460][211]Cmd: ACTOR DUPLICATE
+[2025.05.24-13.11.47:035][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-13.11.47:211][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.24-13.11.47:290][ 98]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.24-13.11.47:292][ 98]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level2D8DE09344AD2D08CC3C006A9AA8C72EB.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.24-13.11.47:304][ 98]LogFileHelpers: Saving map 'Level2' took 0.144
+[2025.05.24-13.11.47:317][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 3.82 sec)
+[2025.05.24-13.11.47:322][ 98]AssetCheck: New page: Asset Save: Level2
+[2025.05.24-13.11.47:322][ 98]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.24-13.12.09:413][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2487.226562
+[2025.05.24-13.12.09:745][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.12.09:745][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2487.543213, Update Interval: 341.906799
+[2025.05.24-13.12.20:479][ 14]Cmd: DELETE
+[2025.05.24-13.12.20:479][ 14]Cmd: ACTOR DELETE
+[2025.05.24-13.12.20:484][ 14]LogEditorActor: Deleted Actor: Brush
+[2025.05.24-13.12.20:499][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.24-13.12.20:505][ 14]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.05.24-13.12.26:209][346]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2025.05.24-13.13.33:904][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-13.13.34:085][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.05.24-13.13.34:159][300]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.24-13.13.34:161][300]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level27CDDECE9494C45E75EF11CB15D28FCA5.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.24-13.13.34:173][300]LogFileHelpers: Saving map 'Level2' took 0.144
+[2025.05.24-13.13.34:184][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 4.10 sec)
+[2025.05.24-13.13.34:187][300]AssetCheck: New page: Asset Save: Level2
+[2025.05.24-13.13.34:187][300]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.24-13.14.55:087][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.24-13.14.55:271][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.05.24-13.14.55:350][977]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.24-13.14.55:351][977]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level20D6981F34A9F273EC803B19A7CCD8149.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.24-13.14.55:362][977]LogFileHelpers: Saving map 'Level2' took 0.146
+[2025.05.24-13.14.55:378][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 4.39 sec)
+[2025.05.24-13.14.55:382][977]AssetCheck: New page: Asset Save: Level2
+[2025.05.24-13.14.55:382][977]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.24-13.18.27:491][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2865.313721
+[2025.05.24-13.18.28:489][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.18.28:489][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2865.979248, Update Interval: 312.651154
+[2025.05.24-13.24.13:203][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3211.029053
+[2025.05.24-13.24.14:202][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.24.14:202][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3211.695068, Update Interval: 336.790680
+[2025.05.24-13.27.08:959][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.24-13.30.39:475][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3597.298096
+[2025.05.24-13.30.40:475][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.30.40:475][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3597.965088, Update Interval: 304.253662
+[2025.05.24-13.32.38:873][ 28]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.187 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2263 files in 3583 folders with total size 350 MiB.
+[2025.05.24-13.36.26:180][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3944.005127
+[2025.05.24-13.36.27:182][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.36.27:182][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3944.672852, Update Interval: 313.533752
+[2025.05.24-13.42.31:574][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4309.395020
+[2025.05.24-13.42.32:574][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.42.32:574][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4310.062012, Update Interval: 328.120361
+[2025.05.24-13.48.48:954][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4686.773926
+[2025.05.24-13.48.49:954][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.48.49:954][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4687.439453, Update Interval: 308.056885
+[2025.05.24-13.54.43:336][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5041.157227
+[2025.05.24-13.54.44:335][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-13.54.44:335][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5041.822266, Update Interval: 346.219055
+[2025.05.24-14.01.26:722][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5444.539062
+[2025.05.24-14.01.27:722][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.01.27:723][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5445.205566, Update Interval: 325.935852
+[2025.05.24-14.07.30:522][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5808.331055
+[2025.05.24-14.07.31:520][305]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.07.31:520][305]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5808.995117, Update Interval: 359.540405
+[2025.05.24-14.14.12:570][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B3DB1BB71-43EE-450E-8CDE-D48B2AF5518B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.1-27379709%20-%20%2B%2BEOSSDK%2BRelease-1.16.1-new-CL-27379709&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.24-14.14.12:570][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: request failed, libcurl error: 0 (No error)
+[2025.05.24-14.14.12:570][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x822608808a0 [can pipeline])
+[2025.05.24-14.14.12:570][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 1 (Re-using existing connection! (#32) with host api.epicgames.dev)
+[2025.05.24-14.14.12:570][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 2 (Connected to api.epicgames.dev (44.221.155.106) port 443 (#32))
+[2025.05.24-14.14.12:570][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.24-14.14.12:571][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.24-14.14.12:571][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.05.24-14.14.12:571][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 6 (Closing connection 32)
+[2025.05.24-14.14.12:571][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 7 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.05.24-14.14.12:571][508]LogEOSSDK: Warning: LogHttp: 000008226CFC5400: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.05.24-14.14.12:902][509]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B3DB1BB71-43EE-450E-8CDE-D48B2AF5518B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.1-27379709%20-%20%2B%2BEOSSDK%2BRelease-1.16.1-new-CL-27379709&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.24-14.14.14:237][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6212.044922
+[2025.05.24-14.14.15:903][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.14.15:903][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6213.379395, Update Interval: 353.677185
+[2025.05.24-14.21.03:629][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6621.439453
+[2025.05.24-14.21.04:629][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.21.04:629][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6622.108398, Update Interval: 344.686432
+[2025.05.24-14.27.43:346][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7021.153809
+[2025.05.24-14.27.44:356][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.27.44:357][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7021.831055, Update Interval: 342.939545
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B3DB1BB71-43EE-450E-8CDE-D48B2AF5518B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.1-27379709%20-%20%2B%2BEOSSDK%2BRelease-1.16.1-new-CL-27379709&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: request failed, libcurl error: 0 (No error)
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x822608804b0 [can pipeline])
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 1 (Re-using existing connection! (#37) with host api.epicgames.dev)
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 2 (Connected to api.epicgames.dev (35.169.254.202) port 443 (#37))
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 6 (Closing connection 37)
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.05.24-14.32.12:722][748]LogEOSSDK: Warning: LogHttp: 000008226CFC4200: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.05.24-14.32.13:057][749]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B3DB1BB71-43EE-450E-8CDE-D48B2AF5518B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.1-27379709%20-%20%2B%2BEOSSDK%2BRelease-1.16.1-new-CL-27379709&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.24-14.32.37:937][823]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.250 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2263 files in 3583 folders with total size 350 MiB.
+[2025.05.24-14.34.18:084][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7415.891602
+[2025.05.24-14.34.19:084][127]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.34.19:084][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7416.557617, Update Interval: 306.815399
+[2025.05.24-14.39.58:131][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7755.938965
+[2025.05.24-14.39.59:131][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.39.59:131][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7756.605957, Update Interval: 342.058777
+[2025.05.24-14.46.37:839][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8155.653320
+[2025.05.24-14.46.38:840][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.46.38:840][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8156.319824, Update Interval: 338.325134
+[2025.05.24-14.52.48:236][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8526.043945
+[2025.05.24-14.52.49:235][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.52.49:235][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8526.709961, Update Interval: 319.237640
+[2025.05.24-14.58.55:612][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8893.395508
+[2025.05.24-14.58.56:611][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-14.58.56:611][559]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8894.062500, Update Interval: 302.660614
+[2025.05.24-15.04.47:655][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9245.433594
+[2025.05.24-15.04.48:655][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.24-15.04.48:663][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9246.102539, Update Interval: 331.815552
+[2025.05.24-15.06.20:024][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2025.05.24-15.06.20:027][ 92]LogStall: Shutdown...
+[2025.05.24-15.06.20:041][ 92]LogStall: Shutdown complete.
+[2025.05.24-15.06.20:091][ 92]LogSlate: Window 'BP_Path' being destroyed
+[2025.05.24-15.06.20:150][ 92]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.24-15.06.20:150][ 92]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.20:150][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-15.06.20:303][ 92]LogSlate: Window 'TheUltimateChoice - Unreal Editor' being destroyed
+[2025.05.24-15.06.20:627][ 93]Cmd: QUIT_EDITOR
+[2025.05.24-15.06.20:627][ 93]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.24-15.06.20:635][ 93]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.24-15.06.20:635][ 93]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.24-15.06.20:635][ 93]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.24-15.06.20:652][ 93]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.20:652][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.24-15.06.20:683][ 93]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.24-15.06.21:863][ 93]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.24-15.06.21:863][ 93]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.24-15.06.21:863][ 93]LogAudio: Display: Audio Device unregistered from world 'Level2'.
+[2025.05.24-15.06.21:863][ 93]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.05.24-15.06.21:864][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.24-15.06.21:870][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.24-15.06.21:896][ 93]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.24-15.06.21:897][ 93]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.24-15.06.21:912][ 93]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.24-15.06.21:913][ 93]LogExit: Preparing to exit.
+[2025.05.24-15.06.21:982][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.05.24-15.06.21:995][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.21:995][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:004][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:006][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:006][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:006][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:006][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:006][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:007][ 93]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:008][ 93]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.24-15.06.22:768][ 93]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.22:772][ 93]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.22:773][ 93]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.22:776][ 93]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.22:778][ 93]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.22:780][ 93]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.24-15.06.23:038][ 93]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.24-15.06.23:200][ 93]LogExit: Editor shut down
+[2025.05.24-15.06.23:304][ 93]LogExit: Transaction tracking system shut down
+[2025.05.24-15.06.24:336][ 93]LogExit: Object subsystem successfully closed.
+[2025.05.24-15.06.24:352][ 93]LogShaderCompilers: Display: ================================================
+[2025.05.24-15.06.24:352][ 93]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.24-15.06.24:352][ 93]LogShaderCompilers: Display: Total job queries 24, among them cache hits 18 (75.00%)
+[2025.05.24-15.06.24:352][ 93]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2025.05.24-15.06.24:354][ 93]LogShaderCompilers: Display: RAM used: 119.19 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.24-15.06.24:354][ 93]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.24-15.06.24:354][ 93]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.24-15.06.24:354][ 93]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.24-15.06.24:354][ 93]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.24-15.06.24:354][ 93]LogShaderCompilers: Display: ================================================
+[2025.05.24-15.06.24:394][ 93]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.24-15.06.24:698][ 93]LogVirtualization: UE::Virtualization was shutdown
+[2025.05.24-15.06.24:836][ 93]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1060)
+[2025.05.24-15.06.24:836][ 93]LogModuleManager: Shutting down and abandoning module Voice (1058)
+[2025.05.24-15.06.24:836][ 93]LogModuleManager: Shutting down and abandoning module StatsViewer (1056)
+[2025.05.24-15.06.24:836][ 93]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1054)
+[2025.05.24-15.06.24:837][ 93]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1052)
+[2025.05.24-15.06.24:837][ 93]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2025.05.24-15.06.24:837][ 93]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2025.05.24-15.06.24:837][ 93]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2025.05.24-15.06.24:837][ 93]LogModuleManager: Shutting down and abandoning module AddContentDialog (1044)
+[2025.05.24-15.06.24:846][ 93]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1043)
+[2025.05.24-15.06.24:846][ 93]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2025.05.24-15.06.24:846][ 93]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2025.05.24-15.06.24:847][ 93]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2025.05.24-15.06.24:847][ 93]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1034)
+[2025.05.24-15.06.24:847][ 93]LogModuleManager: Shutting down and abandoning module AutomationWorker (1032)
+[2025.05.24-15.06.24:847][ 93]LogModuleManager: Shutting down and abandoning module PlanarCut (1030)
+[2025.05.24-15.06.24:847][ 93]LogModuleManager: Shutting down and abandoning module FractureEngine (1028)
+[2025.05.24-15.06.24:848][ 93]LogModuleManager: Shutting down and abandoning module CharacterAI (1026)
+[2025.05.24-15.06.24:848][ 93]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1024)
+[2025.05.24-15.06.24:848][ 93]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1022)
+[2025.05.24-15.06.24:848][ 93]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1020)
+[2025.05.24-15.06.24:848][ 93]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1018)
+[2025.05.24-15.06.24:848][ 93]LogModuleManager: Shutting down and abandoning module WebMMedia (1016)
+[2025.05.24-15.06.24:848][ 93]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1014)
+[2025.05.24-15.06.24:849][ 93]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1012)
+[2025.05.24-15.06.24:850][ 93]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1011)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1008)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1006)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1004)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1002)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1000)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (998)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (996)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module WaveTableEditor (994)
+[2025.05.24-15.06.24:852][ 93]LogModuleManager: Shutting down and abandoning module RigVMEditor (992)
+[2025.05.24-15.06.24:854][ 93]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (990)
+[2025.05.24-15.06.24:854][ 93]LogModuleManager: Shutting down and abandoning module GooglePADEditor (988)
+[2025.05.24-15.06.24:854][ 93]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (986)
+[2025.05.24-15.06.24:854][ 93]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (984)
+[2025.05.24-15.06.24:854][ 93]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (982)
+[2025.05.24-15.06.24:855][ 93]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (980)
+[2025.05.24-15.06.24:855][ 93]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (978)
+[2025.05.24-15.06.24:855][ 93]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (976)
+[2025.05.24-15.06.24:855][ 93]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (974)
+[2025.05.24-15.06.24:857][ 93]LogModuleManager: Shutting down and abandoning module TextureAlignMode (972)
+[2025.05.24-15.06.24:857][ 93]LogModuleManager: Shutting down and abandoning module BspMode (970)
+[2025.05.24-15.06.24:857][ 93]LogModuleManager: Shutting down and abandoning module GeometryMode (968)
+[2025.05.24-15.06.24:858][ 93]LogModuleManager: Shutting down and abandoning module IKRigEditor (966)
+[2025.05.24-15.06.24:860][ 93]LogModuleManager: Shutting down and abandoning module ControlRigEditor (964)
+[2025.05.24-15.06.24:860][ 93]LogModuleManager: Shutting down and abandoning module SmartSnapping (962)
+[2025.05.24-15.06.24:860][ 93]LogModuleManager: Shutting down and abandoning module SessionServices (960)
+[2025.05.24-15.06.24:861][ 93]LogModuleManager: Shutting down and abandoning module MeshPaint (958)
+[2025.05.24-15.06.24:862][ 93]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (956)
+[2025.05.24-15.06.24:862][ 93]LogModuleManager: Shutting down and abandoning module PlacementMode (955)
+[2025.05.24-15.06.24:864][ 93]LogModuleManager: Shutting down and abandoning module FoliageEdit (952)
+[2025.05.24-15.06.24:864][ 93]LogModuleManager: Shutting down and abandoning module LandscapeEditor (950)
+[2025.05.24-15.06.24:868][ 93]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (948)
+[2025.05.24-15.06.24:868][ 93]LogModuleManager: Shutting down and abandoning module ActorPickerMode (946)
+[2025.05.24-15.06.24:868][ 93]LogModuleManager: Shutting down and abandoning module ViewportSnapping (944)
+[2025.05.24-15.06.24:868][ 93]LogModuleManager: Shutting down and abandoning module EditorWidgets (942)
+[2025.05.24-15.06.24:868][ 93]LogModuleManager: Shutting down and abandoning module ViewportInteraction (940)
+[2025.05.24-15.06.24:868][ 93]LogModuleManager: Shutting down and abandoning module ClothPainter (938)
+[2025.05.24-15.06.24:870][ 93]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (937)
+[2025.05.24-15.06.24:870][ 93]LogModuleManager: Shutting down and abandoning module WidgetRegistration (934)
+[2025.05.24-15.06.24:870][ 93]LogModuleManager: Shutting down and abandoning module LogVisualizer (932)
+[2025.05.24-15.06.24:872][ 93]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (930)
+[2025.05.24-15.06.24:872][ 93]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (928)
+[2025.05.24-15.06.24:872][ 93]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (927)
+[2025.05.24-15.06.24:874][ 93]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (925)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (922)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (920)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (918)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (916)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (914)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (912)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module AnimationSettings (910)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (908)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module CSVtoSVG (906)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (904)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module EditorConfig (902)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module EditorFramework (900)
+[2025.05.24-15.06.24:887][ 93]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (898)
+[2025.05.24-15.06.24:888][ 93]LogModuleManager: Shutting down and abandoning module TraceInsights (896)
+[2025.05.24-15.06.24:892][ 93]MemoryProfiler: Shutdown
+[2025.05.24-15.06.24:893][ 93]NetworkingProfiler: Shutdown
+[2025.05.24-15.06.24:893][ 93]LoadingProfiler: Shutdown
+[2025.05.24-15.06.24:894][ 93]TimingProfiler: Shutdown
+[2025.05.24-15.06.24:896][ 93]LogModuleManager: Shutting down and abandoning module TraceServices (895)
+[2025.05.24-15.06.24:897][ 93]LogModuleManager: Shutting down and abandoning module TraceAnalysis (894)
+[2025.05.24-15.06.24:897][ 93]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (890)
+[2025.05.24-15.06.24:897][ 93]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (889)
+[2025.05.24-15.06.24:897][ 93]LogModuleManager: Shutting down and abandoning module InputBindingEditor (886)
+[2025.05.24-15.06.24:898][ 93]LogModuleManager: Shutting down and abandoning module MergeActors (884)
+[2025.05.24-15.06.24:898][ 93]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (882)
+[2025.05.24-15.06.24:898][ 93]LogModuleManager: Shutting down and abandoning module LocalizationService (881)
+[2025.05.24-15.06.24:898][ 93]LogModuleManager: Shutting down and abandoning module HardwareTargeting (878)
+[2025.05.24-15.06.24:899][ 93]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (876)
+[2025.05.24-15.06.24:899][ 93]LogModuleManager: Shutting down and abandoning module UndoHistory (874)
+[2025.05.24-15.06.24:899][ 93]LogModuleManager: Shutting down and abandoning module XmlParser (872)
+[2025.05.24-15.06.24:899][ 93]LogModuleManager: Shutting down and abandoning module Blutility (870)
+[2025.05.24-15.06.24:899][ 93]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (868)
+[2025.05.24-15.06.24:899][ 93]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (867)
+[2025.05.24-15.06.24:901][ 93]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (864)
+[2025.05.24-15.06.24:901][ 93]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (863)
+[2025.05.24-15.06.24:901][ 93]LogModuleManager: Shutting down and abandoning module SettingsEditor (860)
+[2025.05.24-15.06.24:901][ 93]LogModuleManager: Shutting down and abandoning module ProjectLauncher (858)
+[2025.05.24-15.06.24:901][ 93]LogModuleManager: Shutting down and abandoning module SessionFrontend (856)
+[2025.05.24-15.06.24:902][ 93]LogModuleManager: Shutting down and abandoning module ProfilerClient (854)
+[2025.05.24-15.06.24:902][ 93]LogModuleManager: Shutting down and abandoning module DeviceManager (852)
+[2025.05.24-15.06.24:902][ 93]LogModuleManager: Shutting down and abandoning module AutomationController (850)
+[2025.05.24-15.06.24:903][ 93]LogModuleManager: Shutting down and abandoning module AutomationWindow (848)
+[2025.05.24-15.06.24:905][ 93]LogModuleManager: Shutting down and abandoning module Layers (846)
+[2025.05.24-15.06.24:906][ 93]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (844)
+[2025.05.24-15.06.24:906][ 93]LogModuleManager: Shutting down and abandoning module DetailCustomizations (842)
+[2025.05.24-15.06.24:907][ 93]LogModuleManager: Shutting down and abandoning module PackagesDialog (840)
+[2025.05.24-15.06.24:907][ 93]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (838)
+[2025.05.24-15.06.24:908][ 93]LogModuleManager: Shutting down and abandoning module Persona (836)
+[2025.05.24-15.06.24:909][ 93]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (835)
+[2025.05.24-15.06.24:909][ 93]LogModuleManager: Shutting down and abandoning module Kismet (832)
+[2025.05.24-15.06.24:926][ 93]LogModuleManager: Shutting down and abandoning module KismetWidgets (831)
+[2025.05.24-15.06.24:926][ 93]LogModuleManager: Shutting down and abandoning module GraphEditor (828)
+[2025.05.24-15.06.24:928][ 93]LogModuleManager: Shutting down and abandoning module StructViewer (826)
+[2025.05.24-15.06.24:928][ 93]LogModuleManager: Shutting down and abandoning module ClassViewer (824)
+[2025.05.24-15.06.24:936][ 93]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (822)
+[2025.05.24-15.06.24:936][ 93]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (820)
+[2025.05.24-15.06.24:937][ 93]LogModuleManager: Shutting down and abandoning module SourceControlWindows (818)
+[2025.05.24-15.06.24:937][ 93]LogModuleManager: Shutting down and abandoning module OutputLog (816)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module Documentation (814)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (812)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (810)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module MovieScene (808)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (806)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (804)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (802)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module AudioMixer (801)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module AudioMixerCore (800)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module LauncherPlatform (796)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module AnalyticsET (794)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module PortalServices (792)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module PortalRpc (790)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module MessagingRpc (788)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module AIModule (786)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module GameplayDebugger (785)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module AITestSuite (783)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module NavigationSystem (781)
+[2025.05.24-15.06.24:942][ 93]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (778)
+[2025.05.24-15.06.24:944][ 93]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (776)
+[2025.05.24-15.06.24:944][ 93]LogModuleManager: Shutting down and abandoning module TypedElementFramework (774)
+[2025.05.24-15.06.24:944][ 93]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (772)
+[2025.05.24-15.06.24:944][ 93]LogModuleManager: Shutting down and abandoning module ProfilerService (770)
+[2025.05.24-15.06.25:197][ 93]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (768)
+[2025.05.24-15.06.25:199][ 93]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (766)
+[2025.05.24-15.06.25:199][ 93]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (764)
+[2025.05.24-15.06.25:200][ 93]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (762)
+[2025.05.24-15.06.25:201][ 93]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (760)
+[2025.05.24-15.06.25:201][ 93]LogModuleManager: Shutting down and abandoning module TakesCore (758)
+[2025.05.24-15.06.25:202][ 93]LogModuleManager: Shutting down and abandoning module Fab (756)
+[2025.05.24-15.06.25:202][ 93]LogModuleManager: Shutting down and abandoning module MegascansPlugin (754)
+[2025.05.24-15.06.25:203][ 93]LogModuleManager: Shutting down and abandoning module Bridge (752)
+[2025.05.24-15.06.25:203][ 93]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (750)
+[2025.05.24-15.06.25:206][ 93]LogModuleManager: Shutting down and abandoning module LightMixer (748)
+[2025.05.24-15.06.25:206][ 93]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2025.05.24-15.06.25:206][ 93]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (744)
+[2025.05.24-15.06.25:206][ 93]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (742)
+[2025.05.24-15.06.25:206][ 93]LogModuleManager: Shutting down and abandoning module CollectionManager (741)
+[2025.05.24-15.06.25:206][ 93]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (738)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (736)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (734)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (732)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (730)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (728)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (726)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module MeshLODToolset (724)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (722)
+[2025.05.24-15.06.25:207][ 93]LogOpenImageDenoise: OIDN shutting down
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (720)
+[2025.05.24-15.06.25:207][ 93]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (718)
+[2025.05.24-15.06.25:208][ 93]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (716)
+[2025.05.24-15.06.25:209][ 93]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (714)
+[2025.05.24-15.06.25:210][ 93]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (712)
+[2025.05.24-15.06.25:210][ 93]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (710)
+[2025.05.24-15.06.25:210][ 93]LogModuleManager: Shutting down and abandoning module LocalizableMessage (708)
+[2025.05.24-15.06.25:210][ 93]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (706)
+[2025.05.24-15.06.25:212][ 93]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (704)
+[2025.05.24-15.06.25:212][ 93]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (703)
+[2025.05.24-15.06.25:212][ 93]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (701)
+[2025.05.24-15.06.25:212][ 93]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (698)
+[2025.05.24-15.06.25:212][ 93]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (696)
+[2025.05.24-15.06.25:212][ 93]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (694)
+[2025.05.24-15.06.25:212][ 93]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (692)
+[2025.05.24-15.06.25:213][ 93]LogModuleManager: Shutting down and abandoning module DataflowNodes (690)
+[2025.05.24-15.06.25:213][ 93]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (688)
+[2025.05.24-15.06.25:213][ 93]LogModuleManager: Shutting down and abandoning module DataflowEditor (686)
+[2025.05.24-15.06.25:213][ 93]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (684)
+[2025.05.24-15.06.25:214][ 93]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (682)
+[2025.05.24-15.06.25:214][ 93]LogModuleManager: Shutting down and abandoning module ChaosNiagara (680)
+[2025.05.24-15.06.25:214][ 93]LogModuleManager: Shutting down and abandoning module BackChannel (678)
+[2025.05.24-15.06.25:214][ 93]LogModuleManager: Shutting down and abandoning module FractureEditor (676)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (674)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (672)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module AutomationUtils (670)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (668)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module UObjectPlugin (666)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (664)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (662)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (660)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module SynthesisEditor (658)
+[2025.05.24-15.06.25:217][ 93]LogModuleManager: Shutting down and abandoning module PluginUtils (656)
+[2025.05.24-15.06.25:218][ 93]LogModuleManager: Shutting down and abandoning module DumpGPUServices (654)
+[2025.05.24-15.06.25:218][ 93]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (652)
+[2025.05.24-15.06.25:218][ 93]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (650)
+[2025.05.24-15.06.25:218][ 93]LogModuleManager: Shutting down and abandoning module GitSourceControl (648)
+[2025.05.24-15.06.25:220][ 93]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (646)
+[2025.05.24-15.06.25:220][ 93]LogModuleManager: Shutting down and abandoning module VariantManager (644)
+[2025.05.24-15.06.25:223][ 93]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (643)
+[2025.05.24-15.06.25:223][ 93]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (640)
+[2025.05.24-15.06.25:224][ 93]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (638)
+[2025.05.24-15.06.25:224][ 93]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (636)
+[2025.05.24-15.06.25:225][ 93]LogModuleManager: Shutting down and abandoning module InterchangeTests (634)
+[2025.05.24-15.06.25:225][ 93]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (632)
+[2025.05.24-15.06.25:227][ 93]LogModuleManager: Shutting down and abandoning module MediaPlate (630)
+[2025.05.24-15.06.25:227][ 93]LogModuleManager: Shutting down and abandoning module MediaCompositing (628)
+[2025.05.24-15.06.25:227][ 93]LogModuleManager: Shutting down and abandoning module ImgMedia (626)
+[2025.05.24-15.06.25:228][ 93]LogModuleManager: Shutting down and abandoning module AlembicImporter (624)
+[2025.05.24-15.06.25:228][ 93]LogModuleManager: Shutting down and abandoning module AlembicLibrary (623)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (620)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module InputDebugging (618)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module ResonanceAudio (616)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (614)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (612)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module GeometryCache (610)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (608)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (606)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (604)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module AssetTags (602)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (600)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (598)
+[2025.05.24-15.06.25:229][ 93]LogModuleManager: Shutting down and abandoning module ModelingOperators (596)
+[2025.05.24-15.06.25:230][ 93]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (594)
+[2025.05.24-15.06.25:230][ 93]LogModuleManager: Shutting down and abandoning module ModelingComponents (592)
+[2025.05.24-15.06.25:230][ 93]LogModuleManager: Shutting down and abandoning module GeometryFramework (591)
+[2025.05.24-15.06.25:231][ 93]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (588)
+[2025.05.24-15.06.25:231][ 93]LogModuleManager: Shutting down and abandoning module MeshModelingTools (586)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module GooglePAD (584)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module DynamicMesh (582)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (580)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module AudioCapture (578)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (577)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (574)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (572)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module AppleImageUtils (570)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module AndroidPermission (568)
+[2025.05.24-15.06.25:232][ 93]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (566)
+[2025.05.24-15.06.25:233][ 93]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (564)
+[2025.05.24-15.06.25:233][ 93]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (562)
+[2025.05.24-15.06.25:235][ 93]LogModuleManager: Shutting down and abandoning module TakeSequencer (560)
+[2025.05.24-15.06.25:235][ 93]LogModuleManager: Shutting down and abandoning module TakeMovieScene (558)
+[2025.05.24-15.06.25:235][ 93]LogModuleManager: Shutting down and abandoning module TemplateSequence (556)
+[2025.05.24-15.06.25:235][ 93]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (554)
+[2025.05.24-15.06.25:235][ 93]LogModuleManager: Shutting down and abandoning module SequencerScripting (552)
+[2025.05.24-15.06.25:235][ 93]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (550)
+[2025.05.24-15.06.25:235][ 93]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (548)
+[2025.05.24-15.06.25:237][ 93]LogModuleManager: Shutting down and abandoning module UVEditorTools (546)
+[2025.05.24-15.06.25:237][ 93]LogModuleManager: Shutting down and abandoning module UVEditor (544)
+[2025.05.24-15.06.25:238][ 93]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (542)
+[2025.05.24-15.06.25:238][ 93]LogModuleManager: Shutting down and abandoning module PluginBrowser (540)
+[2025.05.24-15.06.25:240][ 93]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (538)
+[2025.05.24-15.06.25:240][ 93]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (536)
+[2025.05.24-15.06.25:240][ 93]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (534)
+[2025.05.24-15.06.25:242][ 93]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (532)
+[2025.05.24-15.06.25:245][ 93]LogModuleManager: Shutting down and abandoning module EditorDebugTools (530)
+[2025.05.24-15.06.25:246][ 93]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (528)
+[2025.05.24-15.06.25:246][ 93]LogModuleManager: Shutting down and abandoning module CurveEditorTools (526)
+[2025.05.24-15.06.25:247][ 93]LogModuleManager: Shutting down and abandoning module ChangelistReview (524)
+[2025.05.24-15.06.25:247][ 93]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (522)
+[2025.05.24-15.06.25:247][ 93]LogModuleManager: Shutting down and abandoning module CryptoKeys (520)
+[2025.05.24-15.06.25:247][ 93]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (518)
+[2025.05.24-15.06.25:247][ 93]LogModuleManager: Shutting down and abandoning module ControlRigSpline (516)
+[2025.05.24-15.06.25:247][ 93]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (514)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (512)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (510)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (506)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (504)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (502)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeExport (500)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeMessages (498)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module GLTFCore (496)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (494)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (492)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module InterchangeEditor (490)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (488)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (486)
+[2025.05.24-15.06.25:248][ 93]LogModuleManager: Shutting down and abandoning module Paper2DEditor (484)
+[2025.05.24-15.06.25:250][ 93]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (482)
+[2025.05.24-15.06.25:250][ 93]LogModuleManager: Shutting down and abandoning module TraceUtilities (480)
+[2025.05.24-15.06.25:250][ 93]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (478)
+[2025.05.24-15.06.25:250][ 93]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (476)
+[2025.05.24-15.06.25:250][ 93]LogModuleManager: Shutting down and abandoning module InputEditor (474)
+[2025.05.24-15.06.25:250][ 93]LogModuleManager: Shutting down and abandoning module StructUtils (472)
+[2025.05.24-15.06.25:250][ 93]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (470)
+[2025.05.24-15.06.25:252][ 93]LogModuleManager: Shutting down and abandoning module PBIK (468)
+[2025.05.24-15.06.25:252][ 93]LogModuleManager: Shutting down and abandoning module FullBodyIK (466)
+[2025.05.24-15.06.25:252][ 93]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (464)
+[2025.05.24-15.06.25:252][ 93]LogModuleManager: Shutting down and abandoning module TakeRecorder (463)
+[2025.05.24-15.06.25:252][ 93]LogModuleManager: Shutting down and abandoning module ChaosCaching (460)
+[2025.05.24-15.06.25:252][ 93]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (458)
+[2025.05.24-15.06.25:253][ 93]LogModuleManager: Shutting down and abandoning module Synthesis (456)
+[2025.05.24-15.06.25:253][ 93]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (454)
+[2025.05.24-15.06.25:255][ 93]LogModuleManager: Shutting down and abandoning module AnimationSharing (452)
+[2025.05.24-15.06.25:255][ 93]LogModuleManager: Shutting down and abandoning module TcpMessaging (450)
+[2025.05.24-15.06.25:356][ 93]LogModuleManager: Shutting down and abandoning module UdpMessaging (448)
+[2025.05.24-15.06.25:456][ 93]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (446)
+[2025.05.24-15.06.25:456][ 93]LogModuleManager: Shutting down and abandoning module SignificanceManager (444)
+[2025.05.24-15.06.25:456][ 93]LogModuleManager: Shutting down and abandoning module SoundFields (442)
+[2025.05.24-15.06.25:456][ 93]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (440)
+[2025.05.24-15.06.25:456][ 93]LogModuleManager: Shutting down and abandoning module RigVM (438)
+[2025.05.24-15.06.25:456][ 93]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (436)
+[2025.05.24-15.06.25:456][ 93]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (434)
+[2025.05.24-15.06.25:457][ 93]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (432)
+[2025.05.24-15.06.25:457][ 93]LogModuleManager: Shutting down and abandoning module MetasoundEditor (430)
+[2025.05.24-15.06.25:459][ 93]LogModuleManager: Shutting down and abandoning module AudioWidgets (429)
+[2025.05.24-15.06.25:460][ 93]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (428)
+[2025.05.24-15.06.25:460][ 93]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (424)
+[2025.05.24-15.06.25:462][ 93]LogModuleManager: Shutting down and abandoning module MetasoundEngine (422)
+[2025.05.24-15.06.25:462][ 93]LogModuleManager: Shutting down and abandoning module WaveTable (421)
+[2025.05.24-15.06.25:462][ 93]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (419)
+[2025.05.24-15.06.25:462][ 93]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (416)
+[2025.05.24-15.06.25:463][ 93]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (414)
+[2025.05.24-15.06.25:467][ 93]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (412)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (410)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (408)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (402)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (401)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (396)
+[2025.05.24-15.06.25:468][ 93]LogModuleManager: Shutting down and abandoning module Niagara (394)
+[2025.05.24-15.06.25:469][ 93]LogModuleManager: Shutting down and abandoning module SignalProcessing (393)
+[2025.05.24-15.06.25:470][ 93]LogModuleManager: Shutting down and abandoning module NiagaraEditor (391)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module NiagaraCore (388)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module GameplayCameras (386)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module ActorSequence (384)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (382)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (380)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module FacialAnimation (378)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module DataValidation (376)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module AnimationData (374)
+[2025.05.24-15.06.25:472][ 93]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (372)
+[2025.05.24-15.06.25:475][ 93]LogModuleManager: Shutting down and abandoning module LevelEditor (371)
+[2025.05.24-15.06.25:488][ 93]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (370)
+[2025.05.24-15.06.25:488][ 93]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (368)
+[2025.05.24-15.06.25:489][ 93]LogModuleManager: Shutting down and abandoning module MainFrame (366)
+[2025.05.24-15.06.25:489][ 93]LogModuleManager: Shutting down and abandoning module HotReload (365)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module ContentBrowser (361)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module ToolMenus (360)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module ContentBrowserData (358)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module TreeMap (355)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (352)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module IKRig (350)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (348)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module ControlRig (346)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module Constraints (345)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module LevelSequence (343)
+[2025.05.24-15.06.25:490][ 93]LogModuleManager: Shutting down and abandoning module InterchangePipelines (340)
+[2025.05.24-15.06.25:492][ 93]LogModuleManager: Shutting down and abandoning module InterchangeImport (338)
+[2025.05.24-15.06.25:492][ 93]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (336)
+[2025.05.24-15.06.25:492][ 93]LogModuleManager: Shutting down and abandoning module InterchangeNodes (334)
+[2025.05.24-15.06.25:492][ 93]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (332)
+[2025.05.24-15.06.25:493][ 93]LogModuleManager: Shutting down and abandoning module Paper2D (330)
+[2025.05.24-15.06.25:493][ 93]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (328)
+[2025.05.24-15.06.25:493][ 93]LogModuleManager: Shutting down and abandoning module BlueprintGraph (327)
+[2025.05.24-15.06.25:493][ 93]LogModuleManager: Shutting down and abandoning module EnhancedInput (324)
+[2025.05.24-15.06.25:493][ 93]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (322)
+[2025.05.24-15.06.25:775][ 93]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2025.05.24-15.06.25:776][ 93]LogModuleManager: Shutting down and abandoning module AndroidFileServer (318)
+[2025.05.24-15.06.25:776][ 93]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (316)
+[2025.05.24-15.06.25:776][ 93]LogModuleManager: Shutting down and abandoning module PacketHandler (314)
+[2025.05.24-15.06.25:776][ 93]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (312)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module AnimGraph (310)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module TimeManagement (308)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module AnimationDataController (306)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2025.05.24-15.06.25:777][ 93]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2025.05.24-15.06.25:778][ 93]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2025.05.24-15.06.25:778][ 93]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2025.05.24-15.06.25:779][ 93]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2025.05.24-15.06.25:780][ 93]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2025.05.24-15.06.25:780][ 93]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2025.05.24-15.06.25:783][ 93]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (280)
+[2025.05.24-15.06.25:783][ 93]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2025.05.24-15.06.25:783][ 93]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2025.05.24-15.06.25:784][ 93]LogModuleManager: Shutting down and abandoning module EditorStyle (272)
+[2025.05.24-15.06.25:784][ 93]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2025.05.24-15.06.25:785][ 93]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2025.05.24-15.06.25:785][ 93]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (264)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module Messaging (256)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2025.05.24-15.06.25:788][ 93]LogModuleManager: Shutting down and abandoning module LiveCoding (250)
+[2025.05.24-15.06.25:808][ 93]LogModuleManager: Shutting down and abandoning module Networking (248)
+[2025.05.24-15.06.25:808][ 93]LogModuleManager: Shutting down and abandoning module Core (246)
+[2025.05.24-15.06.25:808][ 93]LogModuleManager: Shutting down and abandoning module AssetDefinition (244)
+[2025.05.24-15.06.25:808][ 93]LogModuleManager: Shutting down and abandoning module MovieSceneTools (242)
+[2025.05.24-15.06.25:809][ 93]LogModuleManager: Shutting down and abandoning module CurveEditor (241)
+[2025.05.24-15.06.25:810][ 93]LogModuleManager: Shutting down and abandoning module Sequencer (239)
+[2025.05.24-15.06.25:814][ 93]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2025.05.24-15.06.25:814][ 93]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2025.05.24-15.06.25:814][ 93]LogModuleManager: Shutting down and abandoning module NaniteBuilder (232)
+[2025.05.24-15.06.25:815][ 93]LogModuleManager: Shutting down and abandoning module MeshUtilities (230)
+[2025.05.24-15.06.25:815][ 93]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (229)
+[2025.05.24-15.06.25:815][ 93]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (228)
+[2025.05.24-15.06.25:815][ 93]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (227)
+[2025.05.24-15.06.25:815][ 93]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2025.05.24-15.06.25:815][ 93]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2025.05.24-15.06.25:816][ 93]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2025.05.24-15.06.25:816][ 93]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2025.05.24-15.06.25:817][ 93]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2025.05.24-15.06.25:818][ 93]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2025.05.24-15.06.25:818][ 93]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (210)
+[2025.05.24-15.06.25:829][ 93]LogModuleManager: Shutting down and abandoning module TelemetryUtils (207)
+[2025.05.24-15.06.25:829][ 93]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (204)
+[2025.05.24-15.06.25:829][ 93]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (202)
+[2025.05.24-15.06.25:829][ 93]LogModuleManager: Shutting down and abandoning module DerivedDataCache (200)
+[2025.05.24-15.06.25:874][ 93]LogModuleManager: Shutting down and abandoning module TargetPlatform (198)
+[2025.05.24-15.06.25:874][ 93]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (197)
+[2025.05.24-15.06.25:874][ 93]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (193)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (191)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (189)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (187)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (185)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (183)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (181)
+[2025.05.24-15.06.25:876][ 93]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (179)
+[2025.05.24-15.06.25:877][ 93]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (177)
+[2025.05.24-15.06.25:877][ 93]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (175)
+[2025.05.24-15.06.25:877][ 93]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (173)
+[2025.05.24-15.06.25:877][ 93]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (171)
+[2025.05.24-15.06.25:880][ 93]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (169)
+[2025.05.24-15.06.25:880][ 93]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (167)
+[2025.05.24-15.06.25:880][ 93]LogModuleManager: Shutting down and abandoning module TextureFormat (165)
+[2025.05.24-15.06.25:880][ 93]LogModuleManager: Shutting down and abandoning module ImageWrapper (164)
+[2025.05.24-15.06.25:880][ 93]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (162)
+[2025.05.24-15.06.25:882][ 93]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (160)
+[2025.05.24-15.06.25:882][ 93]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (158)
+[2025.05.24-15.06.25:883][ 93]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (156)
+[2025.05.24-15.06.25:883][ 93]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (154)
+[2025.05.24-15.06.25:883][ 93]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (152)
+[2025.05.24-15.06.25:883][ 93]LogModuleManager: Shutting down and abandoning module TurnkeySupport (149)
+[2025.05.24-15.06.25:883][ 93]LogModuleManager: Shutting down and abandoning module InputCore (146)
+[2025.05.24-15.06.25:883][ 93]LogModuleManager: Shutting down and abandoning module Settings (144)
+[2025.05.24-15.06.25:883][ 93]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (142)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (140)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (139)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module Chaos (136)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module GeometryCore (135)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (132)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (131)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module AVEncoder (130)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module D3D12RHI (126)
+[2025.05.24-15.06.25:902][ 93]LogModuleManager: Shutting down and abandoning module ChaosCloth (124)
+[2025.05.24-15.06.25:903][ 93]LogModuleManager: Shutting down and abandoning module PixWinPlugin (122)
+[2025.05.24-15.06.25:903][ 93]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
+[2025.05.24-15.06.25:903][ 93]LogModuleManager: Shutting down and abandoning module GLTFExporter (118)
+[2025.05.24-15.06.25:903][ 93]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (116)
+[2025.05.24-15.06.25:903][ 93]RenderDocPlugin: plugin has been unloaded.
+[2025.05.24-15.06.25:903][ 93]LogModuleManager: Shutting down and abandoning module DatasmithContent (114)
+[2025.05.24-15.06.25:905][ 93]LogModuleManager: Shutting down and abandoning module WmfMedia (112)
+[2025.05.24-15.06.25:909][ 93]LogModuleManager: Shutting down and abandoning module Media (111)
+[2025.05.24-15.06.25:914][ 93]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (108)
+[2025.05.24-15.06.25:914][ 93]LogModuleManager: Shutting down and abandoning module ChunkDownloader (106)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (104)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (98)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module NiagaraShader (96)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module ACLPlugin (94)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (90)
+[2025.05.24-15.06.25:915][ 93]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2025.05.24-15.06.25:921][ 93]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2025.05.24-15.06.25:921][ 93]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2025.05.24-15.06.25:930][ 93]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2025.05.24-15.06.25:930][ 93]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.24-15.06.25:930][ 93]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B75DED1EA-4F64-5424-507B-20BB22A53234%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1f0c16aa41cdba10880bf8a0ea30f6e3%7Cabaa19d3b8f54db49d680def6cd9f0e5%7Cc2a5f2eb-87ca-473f-8710-522e4c0d9a69&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.05.24-15.06.25:950][ 93]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2025.05.24-15.06.25:955][ 93]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (74)
+[2025.05.24-15.06.25:955][ 93]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (72)
+[2025.05.24-15.06.25:955][ 93]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (70)
+[2025.05.24-15.06.25:956][ 93]LogModuleManager: Shutting down and abandoning module EOSShared (68)
+[2025.05.24-15.06.27:032][ 93]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.24-15.06.27:032][ 93]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2025.05.24-15.06.27:032][ 93]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.05.24-15.06.27:032][ 93]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2025.05.24-15.06.27:032][ 93]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2025.05.24-15.06.27:032][ 93]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2025.05.24-15.06.27:033][ 93]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2025.05.24-15.06.27:033][ 93]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2025.05.24-15.06.27:033][ 93]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2025.05.24-15.06.27:034][ 93]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2025.05.24-15.06.27:034][ 93]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.05.24-15.06.27:035][ 93]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.05.24-15.06.27:036][ 93]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.05.24-15.06.27:036][ 93]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.05.24-15.06.27:036][ 93]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.05.24-15.06.27:038][ 93]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.05.24-15.06.27:041][ 93]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.05.24-15.06.27:041][ 93]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.05.24-15.06.27:041][ 93]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.05.24-15.06.27:041][ 93]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.05.24-15.06.27:041][ 93]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.05.24-15.06.27:041][ 93]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.05.24-15.06.27:042][ 93]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.05.24-15.06.27:045][ 93]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.05.24-15.06.27:045][ 93]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.05.24-15.06.27:045][ 93]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.05.24-15.06.27:045][ 93]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.05.24-15.06.27:045][ 93]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.05.24-15.06.27:046][ 93]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.05.24-15.06.27:046][ 93]LogPakFile: Destroying PakPlatformFile
+[2025.05.24-15.06.27:046][ 93]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.05.24-15.06.27:046][ 93]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.05.24-15.06.27:046][ 93]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.05.24-15.06.27:046][ 93]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.05.24-15.06.27:046][ 93]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.05.24-15.06.27:477][ 93]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.24-15.06.27:566][ 93]LogExit: Exiting.
+[2025.05.24-15.06.27:706][ 93]Log file closed, 05/24/25 23:06:27
