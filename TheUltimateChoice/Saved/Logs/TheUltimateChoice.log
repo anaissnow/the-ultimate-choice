@@ -1645,3 +1645,122 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2025.05.25-15.03.10:695][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.05.25-15.03.10:701][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2025.05.25-15.03.10:733][111]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.05.25-15.06.30:760][420]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 650.150574
+[2025.05.25-15.06.31:760][423]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-15.06.31:760][423]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 650.817444, Update Interval: 346.876434
+[2025.05.25-15.08.52:293][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.25-15.09.09:289][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.25-15.09.09:486][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.25-15.09.18:620][876]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.25-15.09.18:649][877]LogAutomationController: Ignoring very large delta of 9.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.25-15.09.20:921][  0]LogSlate: Took 0.023094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.05.25-15.09.41:501][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板
+[2025.05.25-15.09.41:502][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板
+[2025.05.25-15.09.41:503][219]LogActorFactory: Actor Factory spawned StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板 as actor: StaticMeshActor /Game/YT_Level/Level3.Level3:PersistentLevel.StaticMeshActor_68
+[2025.05.25-15.10.01:111][364]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板
+[2025.05.25-15.10.01:111][364]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板
+[2025.05.25-15.10.01:112][364]LogActorFactory: Actor Factory spawned StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板 as actor: StaticMeshActor /Game/YT_Level/Level3.Level3:PersistentLevel.StaticMeshActor_69
+[2025.05.25-15.10.08:281][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板
+[2025.05.25-15.10.08:281][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板
+[2025.05.25-15.10.08:287][791]LogActorFactory: Actor Factory spawned StaticMesh /Game/YiTeng/YT_Models/Entrance/Entrance_attach_2_下面地板.Entrance_attach_2_下面地板 as actor: StaticMeshActor /Game/YT_Level/Level3.Level3:PersistentLevel.StaticMeshActor_70
+[2025.05.25-15.11.01:678][943]Cmd: DELETE
+[2025.05.25-15.11.01:678][943]Cmd: ACTOR DELETE
+[2025.05.25-15.11.01:697][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.25-15.11.01:702][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.25-15.11.01:704][943]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.05.25-15.12.24:842][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1004.230835
+[2025.05.25-15.12.25:843][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-15.12.25:843][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1004.897827, Update Interval: 351.835083
+[2025.05.25-15.12.55:951][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.25-15.12.55:963][851]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.005987 seconds
+[2025.05.25-15.12.56:044][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YT_Level/Level3_Auto1
+[2025.05.25-15.12.56:044][851]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Level3_Auto134F22B2949DCB43FA74D169C3386DD0E.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/YT_Level/Level3_Auto1.umap'
+[2025.05.25-15.12.56:048][851]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/YT_Level/Level3_Auto1.umap is in the /Temp path, will not scan.
+[2025.05.25-15.12.56:048][851]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/YT_Level/Level3_Auto1 is in the /Temp path, will not scan.
+[2025.05.25-15.12.56:048][851]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/YT_Level/Level3_Auto1 is in the /Temp path, will not scan.
+[2025.05.25-15.12.56:048][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level3' took 0.102
+[2025.05.25-15.12.56:048][851]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2025.05.25-15.15.04:160][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.25-15.16.05:532][729]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.25-15.18.26:205][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1365.591675
+[2025.05.25-15.18.27:206][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-15.18.27:206][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1366.258667, Update Interval: 323.573730
+[2025.05.25-15.18.55:378][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.25-15.18.55:390][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-15.18.55:508][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.25-15.18.55:580][310]LogSavePackage: Moving output files for package: /Game/YT_Level/Level3
+[2025.05.25-15.18.55:581][310]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Level39D04D3324255461DA55B1082ECFAAE7C.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level3.umap'
+[2025.05.25-15.18.55:592][310]LogFileHelpers: Saving map 'Level3' took 0.115
+[2025.05.25-15.18.55:602][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms
+[2025.05.25-15.18.55:605][310]AssetCheck: New page: Asset Save: Level3
+[2025.05.25-15.18.55:605][310]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level3.Level3
+[2025.05.25-15.19.10:012][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.05.25-15.19.10:124][557]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.25-15.19.10:130][557]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level1.Level1
+[2025.05.25-15.19.10:130][557]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.25-15.19.10:130][557]LightingResults: New page: Lighting Build
+[2025.05.25-15.19.10:130][557]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.25-15.19.10:162][557]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-15.19.10:162][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-15.19.10:162][557]MapCheck: New page: Map Check
+[2025.05.25-15.19.10:162][557]LightingResults: New page: Lighting Build
+[2025.05.25-15.19.10:167][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-15.19.10:171][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.25-15.19.10:173][557]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-15.19.10:173][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-15.19.10:182][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.25-15.19.10:186][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.25-15.19.10:202][557]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.25-15.19.10:202][557]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.25-15.19.10:203][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.25-15.19.10:203][557]LogAIModule: Creating AISystem for world Level1
+[2025.05.25-15.19.10:276][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.25-15.19.10:283][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.25-15.19.10:288][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.25-15.19.10:288][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: ================================================
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: Total job queries 22, among them cache hits 16 (72.73%)
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: RAM used: 119.19 KiB of 716.80 MiB budget. Usage: 0.02%
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.25-15.19.10:335][557]LogShaderCompilers: Display: ================================================
+[2025.05.25-15.21.06:203][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.05.25-15.21.06:312][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.25-15.21.06:318][426]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level3.Level3
+[2025.05.25-15.21.06:318][426]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.25-15.21.06:318][426]LightingResults: New page: Lighting Build
+[2025.05.25-15.21.06:318][426]LoadErrors: New page: Loading map: Level3.umap
+[2025.05.25-15.21.06:376][426]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-15.21.06:376][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-15.21.06:376][426]MapCheck: New page: Map Check
+[2025.05.25-15.21.06:376][426]LightingResults: New page: Lighting Build
+[2025.05.25-15.21.06:383][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-15.21.06:386][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.25-15.21.06:388][426]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-15.21.06:389][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-15.21.06:401][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.25-15.21.06:405][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.05.25-15.21.06:431][426]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.05.25-15.21.06:431][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.25-15.21.06:432][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.25-15.21.06:432][426]LogAIModule: Creating AISystem for world Level3
+[2025.05.25-15.21.06:533][426]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.25-15.21.06:541][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.25-15.21.06:547][426]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.25-15.21.06:547][426]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2025.05.25-15.24.10:068][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1709.459839
+[2025.05.25-15.24.10:385][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-15.24.10:385][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1709.760498, Update Interval: 349.137848
+[2025.05.25-15.26.47:487][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.25-15.26.47:503][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-15.26.47:627][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.05.25-15.26.47:697][344]LogSavePackage: Moving output files for package: /Game/YT_Level/Level3
+[2025.05.25-15.26.47:699][344]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Level3D31EFABF4E6163EF4D4869A709B52F09.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level3.umap'
+[2025.05.25-15.26.47:708][344]LogFileHelpers: Saving map 'Level3' took 0.113
+[2025.05.25-15.26.47:718][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 427 ms)
+[2025.05.25-15.26.47:721][344]AssetCheck: New page: Asset Save: Level3
+[2025.05.25-15.26.47:721][344]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level3.Level3
