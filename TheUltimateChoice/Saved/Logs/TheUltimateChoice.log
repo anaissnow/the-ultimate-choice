@@ -2286,3 +2286,488 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.26-17.33.04:381][745]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2025.05.26-17.33.04:381][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.26-17.33.22:702][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.26-17.34.11:213][251]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.239 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7092 files in 8951 folders with total size 1040 MiB.
+[2025.05.26-17.34.54:738][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7371.749023
+[2025.05.26-17.34.55:739][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-17.34.55:739][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7372.415527, Update Interval: 336.968292
+[2025.05.26-17.35.20:195][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YueErn/YE_Blueprints/BP_Door2.BP_Door2
+[2025.05.26-17.35.20:195][181]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.35.20:195][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.35.47:702][242]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../UTAR/Degree Year 2 Sem 3/Level Design/Sound Effect/Music wav/Music wav/Next level/game reward-checkpoint.wav)
+[2025.05.26-17.35.47:706][242]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave game_reward-checkpoint...
+[2025.05.26-17.35.47:730][242]LogAudio: Display: Chunk sizes for SoundWave /Game/Sound_Effect/game_reward-checkpoint.game_reward-checkpoint: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-17.35.47:731][242]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave game_reward-checkpoint...
+[2025.05.26-17.35.47:755][243]LogAudio: Display: Chunk sizes for SoundWave /Game/Sound_Effect/game_reward-checkpoint.game_reward-checkpoint: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-17.35.53:535][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.35.53:621][581]LogSavePackage: Moving output files for package: /Game/Sound_Effect/game_reward-checkpoint
+[2025.05.26-17.35.53:621][581]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/game_reward-checkpoint88CD88DC4FC545635F1B839615860945.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/Sound_Effect/game_reward-checkpoint.uasset'
+[2025.05.26-17.35.53:633][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.38 sec)
+[2025.05.26-17.35.53:634][581]AssetCheck: New page: Asset Save: game_reward-checkpoint
+[2025.05.26-17.35.53:634][581]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sound_Effect/game_reward-checkpoint.game_reward-checkpoint
+[2025.05.26-17.36.20:972][ 28]BlueprintLog: New page: Compile BP_Door2
+[2025.05.26-17.36.21:011][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.26-17.36.24:070][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-17.36.24:080][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-17.36.24:080][207]PIE: New page: PIE session: Level2 (May 27, 2025, 9:36:24 AM)
+[2025.05.26-17.36.24:080][207]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.26-17.36.24:098][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018321s)
+[2025.05.26-17.36.24:098][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.018362s)
+[2025.05.26-17.36.24:113][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.26-17.36.24:116][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.36.24:116][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.36.24:116][207]LogAIModule: Creating AISystem for world Level2
+[2025.05.26-17.36.24:117][207]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2025.05.26-17.36.24:117][207]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.05.26-17.36.24:117][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-17.36.24:117][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-17.36.24:117][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-17.36.24:117][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-17.36.24:117][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-17.36.24:117][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-17.36.24:117][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-17.36.24:117][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-17.36.24:117][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-17.36.24:117][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-17.36.24:117][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-17.36.24:119][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-17.36.24:160][207]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-17.36.24:161][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-17.36.24:161][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-17.36.24:161][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-17.36.24:163][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.05.26-17.36.24:163][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.05.26-17.36.24:164][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.05.26-17.36.24:164][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.05.26-17.36.24:164][207]LogInit: FAudioDevice initialized with ID 11.
+[2025.05.26-17.36.24:164][207]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level2'.
+[2025.05.26-17.36.24:165][207]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.26-17.36.24:167][207]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.36.24:175][207]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.27-01.36.24
+[2025.05.26-17.36.24:176][207]LogWorld: Bringing up level for play took: 0.008525
+[2025.05.26-17.36.24:179][207]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.05.26-17.36.24:183][207]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.26-17.36.24:183][207]PIE: Server logged in
+[2025.05.26-17.36.24:184][207]PIE: Play in editor total start time 0.105 seconds.
+[2025.05.26-17.36.24:189][207]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rock_Sliding_attenuation_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.26-17.36.31:459][587]LogNet: Browse: /Game/YT_Level/Level3
+[2025.05.26-17.36.31:459][587]LogLoad: LoadMap: /Game/YT_Level/Level3
+[2025.05.26-17.36.31:459][587]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.26-17.36.31:472][587]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.36.31:473][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.36.31:518][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.36.31:522][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.26-17.36.31:588][587]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level3'.
+[2025.05.26-17.36.31:588][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.36.31:588][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.36.31:588][587]LogAIModule: Creating AISystem for world Level3
+[2025.05.26-17.36.31:589][587]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2025.05.26-17.36.31:589][587]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.36.31:612][587]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2025.05.27-01.36.31
+[2025.05.26-17.36.31:613][587]LogWorld: Bringing up level for play took: 0.023420
+[2025.05.26-17.36.31:615][587]LogScript: Warning: Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue
+	Level3_C /Game/YT_Level/UEDPIE_0_Level3.Level3:PersistentLevel.Level3_C_4
+	Function /Game/YT_Level/UEDPIE_0_Level3.Level3_C:ExecuteUbergraph_Level3:0041
+[2025.05.26-17.36.31:615][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue". Node:  Play Looping Graph:  EventGraph Function:  Execute Ubergraph Level 3 Blueprint:  Level3
+[2025.05.26-17.36.31:616][587]LogLoad: Took 0.157361 seconds to LoadMap(/Game/YT_Level/Level3)
+[2025.05.26-17.36.37:483][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.36.37:483][905]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level3
+[2025.05.26-17.36.37:483][905]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.36.37:484][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.36.37:488][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-17.36.37:492][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.36.37:508][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.36.37:508][905]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.26-17.36.37:508][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.26-17.36.37:510][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.26-17.36.37:521][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.26-17.36.37:821][906]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.05.26-17.36.40:388][ 29]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.36.40:397][ 29]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.37.14:914][351]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.37.14:914][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.37.37:379][959]LogSlate: Window 'Level2' being destroyed
+[2025.05.26-17.37.37:388][959]LogSlate: Window 'Level2' being destroyed
+[2025.05.26-17.37.37:395][959]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.37.37:395][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.37.49:877][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.26-17.37.53:716][701]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-17.37.53:726][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.37.53:923][701]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_Door2
+[2025.05.26-17.37.53:923][701]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/BP_Door2913BCC2846E3B4A334EF2AB41DAB354F.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_Door2.uasset'
+[2025.05.26-17.37.53:934][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 1.59 sec)
+[2025.05.26-17.37.54:055][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.37.54:060][701]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level3.Level3
+[2025.05.26-17.37.54:060][701]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.26-17.37.54:060][701]LightingResults: New page: Lighting Build
+[2025.05.26-17.37.54:060][701]LoadErrors: New page: Loading map: Level3.umap
+[2025.05.26-17.37.54:093][701]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.37.54:093][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.37.54:093][701]MapCheck: New page: Map Check
+[2025.05.26-17.37.54:094][701]LightingResults: New page: Lighting Build
+[2025.05.26-17.37.54:108][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.37.54:116][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.26-17.37.54:118][701]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.37.54:119][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.37.54:142][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.26-17.37.54:157][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.26-17.37.54:183][701]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.05.26-17.37.54:183][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.37.54:184][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.37.54:184][701]LogAIModule: Creating AISystem for world Level3
+[2025.05.26-17.37.54:285][701]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.26-17.37.54:304][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.26-17.37.54:312][701]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.26-17.37.54:312][701]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2025.05.26-17.37.54:330][701]AssetCheck: New page: Asset Save: BP_Door2
+[2025.05.26-17.37.54:330][701]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_Door2.BP_Door2
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: ================================================
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: Total job queries 70, among them cache hits 64 (91.43%)
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: RAM used: 119.19 KiB of 716.80 MiB budget. Usage: 0.02%
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.26-17.37.54:369][701]LogShaderCompilers: Display: ================================================
+[2025.05.26-17.37.59:650][960]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/YT_Level/Level3.Level3:PersistentLevel.Level3
+[2025.05.26-17.37.59:650][960]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.37.59:650][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.38.34:046][943]BlueprintLog: New page: Compile Level3
+[2025.05.26-17.38.34:076][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.26-17.38.36:957][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-17.38.36:967][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-17.38.36:967][114]PIE: New page: PIE session: Level3 (May 27, 2025, 9:38:36 AM)
+[2025.05.26-17.38.37:004][114]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level3
+[2025.05.26-17.38.37:021][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016265s)
+[2025.05.26-17.38.37:021][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level3.Level3 to /Game/YT_Level/UEDPIE_0_Level3.Level3 (0.016320s)
+[2025.05.26-17.38.37:033][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.26-17.38.37:036][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.38.37:036][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.38.37:036][114]LogAIModule: Creating AISystem for world Level3
+[2025.05.26-17.38.37:037][114]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2025.05.26-17.38.37:037][114]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.05.26-17.38.37:037][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-17.38.37:037][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-17.38.37:037][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-17.38.37:037][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-17.38.37:037][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-17.38.37:037][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-17.38.37:037][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-17.38.37:037][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-17.38.37:037][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-17.38.37:037][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-17.38.37:037][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-17.38.37:040][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-17.38.37:084][114]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-17.38.37:084][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-17.38.37:084][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-17.38.37:084][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-17.38.37:084][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.05.26-17.38.37:084][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.05.26-17.38.37:087][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.05.26-17.38.37:087][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.05.26-17.38.37:087][114]LogInit: FAudioDevice initialized with ID 12.
+[2025.05.26-17.38.37:087][114]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level3'.
+[2025.05.26-17.38.37:087][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.26-17.38.37:089][114]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.38.37:098][114]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2025.05.27-01.38.37
+[2025.05.26-17.38.37:098][114]LogWorld: Bringing up level for play took: 0.007345
+[2025.05.26-17.38.37:100][114]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.05.26-17.38.37:102][114]LogScript: Warning: Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue
+	Level3_C /Game/YT_Level/UEDPIE_0_Level3.Level3:PersistentLevel.Level3_C_0
+	Function /Game/YT_Level/Level3.Level3_C:ExecuteUbergraph_Level3:007D
+[2025.05.26-17.38.37:103][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue". Node:  Play Looping Graph:  EventGraph Function:  Execute Ubergraph Level 3 Blueprint:  Level3
+[2025.05.26-17.38.37:104][114]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.26-17.38.37:104][114]PIE: Server logged in
+[2025.05.26-17.38.37:104][114]PIE: Play in editor total start time 0.138 seconds.
+[2025.05.26-17.38.40:076][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.38.40:076][234]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level3
+[2025.05.26-17.38.40:076][234]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.38.40:077][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.40:081][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-17.38.40:085][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.40:096][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.38.40:098][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.26-17.38.40:098][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.26-17.38.40:100][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.26-17.38.40:110][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.26-17.38.40:406][235]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.05.26-17.38.41:852][291]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.38.41:869][291]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.38.44:469][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.26-17.38.44:472][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.38.44:596][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.26-17.38.44:664][443]LogSavePackage: Moving output files for package: /Game/YT_Level/Level3
+[2025.05.26-17.38.44:665][443]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Level379BF81CB45C55046CC0260A08F50CE7F.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level3.umap'
+[2025.05.26-17.38.44:675][443]LogFileHelpers: Saving map 'Level3' took 0.121
+[2025.05.26-17.38.44:688][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 1.81 sec)
+[2025.05.26-17.38.44:690][443]AssetCheck: New page: Asset Save: Level3
+[2025.05.26-17.38.44:690][443]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level3.Level3
+[2025.05.26-17.38.47:286][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.05.26-17.38.47:404][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.38.47:412][598]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level2.Level2
+[2025.05.26-17.38.47:412][598]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.26-17.38.47:412][598]LightingResults: New page: Lighting Build
+[2025.05.26-17.38.47:412][598]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.26-17.38.47:462][598]LogSlate: Window 'Level3' being destroyed
+[2025.05.26-17.38.47:474][598]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.38.47:474][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.47:499][598]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.38.47:500][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.47:500][598]MapCheck: New page: Map Check
+[2025.05.26-17.38.47:500][598]LightingResults: New page: Lighting Build
+[2025.05.26-17.38.47:516][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.38.47:523][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.26-17.38.47:529][598]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.38.47:530][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.47:554][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.05.26-17.38.47:569][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.26-17.38.47:601][598]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.26-17.38.47:601][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.38.47:601][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.38.47:601][598]LogAIModule: Creating AISystem for world Level2
+[2025.05.26-17.38.47:702][598]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.26-17.38.47:720][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.05.26-17.38.47:727][598]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.26-17.38.47:727][598]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2025.05.26-17.38.49:916][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-17.38.49:925][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-17.38.49:925][715]PIE: New page: PIE session: Level2 (May 27, 2025, 9:38:49 AM)
+[2025.05.26-17.38.49:925][715]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.26-17.38.49:944][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018604s)
+[2025.05.26-17.38.49:944][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level2.Level2 to /Game/YT_Level/UEDPIE_0_Level2.Level2 (0.018642s)
+[2025.05.26-17.38.49:957][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.26-17.38.49:961][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.38.49:961][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.38.49:961][715]LogAIModule: Creating AISystem for world Level2
+[2025.05.26-17.38.49:961][715]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2025.05.26-17.38.49:962][715]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.05.26-17.38.49:962][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-17.38.49:962][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-17.38.49:962][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-17.38.49:962][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-17.38.49:962][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-17.38.49:962][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-17.38.49:962][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-17.38.49:962][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-17.38.49:962][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-17.38.49:962][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-17.38.49:962][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-17.38.49:964][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-17.38.50:003][715]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-17.38.50:003][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-17.38.50:003][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-17.38.50:003][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-17.38.50:004][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.05.26-17.38.50:004][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.05.26-17.38.50:006][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.05.26-17.38.50:006][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.05.26-17.38.50:006][715]LogInit: FAudioDevice initialized with ID 13.
+[2025.05.26-17.38.50:006][715]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level2'.
+[2025.05.26-17.38.50:006][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.26-17.38.50:009][715]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.38.50:017][715]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.27-01.38.50
+[2025.05.26-17.38.50:018][715]LogWorld: Bringing up level for play took: 0.008308
+[2025.05.26-17.38.50:020][715]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.05.26-17.38.50:024][715]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.26-17.38.50:024][715]PIE: Server logged in
+[2025.05.26-17.38.50:025][715]PIE: Play in editor total start time 0.1 seconds.
+[2025.05.26-17.38.50:029][715]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rock_Sliding_attenuation_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.26-17.38.54:924][948]LogNet: Browse: /Game/YT_Level/Level3
+[2025.05.26-17.38.54:924][948]LogLoad: LoadMap: /Game/YT_Level/Level3
+[2025.05.26-17.38.54:924][948]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.26-17.38.54:925][948]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.38.54:927][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.54:969][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.38.54:973][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.26-17.38.55:001][948]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level3'.
+[2025.05.26-17.38.55:001][948]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.38.55:001][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.38.55:002][948]LogAIModule: Creating AISystem for world Level3
+[2025.05.26-17.38.55:002][948]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2025.05.26-17.38.55:002][948]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.38.55:026][948]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2025.05.27-01.38.55
+[2025.05.26-17.38.55:026][948]LogWorld: Bringing up level for play took: 0.024061
+[2025.05.26-17.38.55:028][948]LogScript: Warning: Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue
+	Level3_C /Game/YT_Level/UEDPIE_0_Level3.Level3:PersistentLevel.Level3_C_0
+	Function /Game/YT_Level/UEDPIE_0_Level3.Level3_C:ExecuteUbergraph_Level3:007D
+[2025.05.26-17.38.55:028][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue". Node:  Play Looping Graph:  EventGraph Function:  Execute Ubergraph Level 3 Blueprint:  Level3
+[2025.05.26-17.38.55:030][948]LogLoad: Took 0.105666 seconds to LoadMap(/Game/YT_Level/Level3)
+[2025.05.26-17.38.57:666][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.38.57:666][103]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level3
+[2025.05.26-17.38.57:666][103]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.38.57:667][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.57:672][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-17.38.57:676][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.38.57:689][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.38.57:691][103]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.26-17.38.57:691][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.26-17.38.57:692][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.26-17.38.57:705][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.26-17.38.57:915][104]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.05.26-17.39.00:012][210]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.39.00:020][210]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.39.16:090][768]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/YT_Level/Level2.Level2:PersistentLevel.Level2
+[2025.05.26-17.39.16:091][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.39.16:091][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.39.41:353][228]BlueprintLog: New page: Compile Level2
+[2025.05.26-17.39.41:384][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.26-17.39.48:031][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.26-17.39.48:035][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.39.48:156][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.26-17.39.48:231][625]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.26-17.39.48:231][625]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Saved/Level2DEC5F4B140A927CB7651778C5B212505.tmp' to '../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.26-17.39.48:241][625]LogFileHelpers: Saving map 'Level2' took 0.127
+[2025.05.26-17.39.48:251][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 2.02 sec)
+[2025.05.26-17.39.48:253][625]AssetCheck: New page: Asset Save: Level2
+[2025.05.26-17.39.48:253][625]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.26-17.39.51:111][796]LogSlate: Window 'Level2' being destroyed
+[2025.05.26-17.39.51:118][796]LogSlate: Window 'Level2' being destroyed
+[2025.05.26-17.39.51:124][796]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.39.51:124][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.39.53:661][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.26-17.39.53:771][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.39.53:779][945]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level1.Level1
+[2025.05.26-17.39.53:779][945]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.26-17.39.53:779][945]LightingResults: New page: Lighting Build
+[2025.05.26-17.39.53:779][945]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.26-17.39.53:812][945]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.39.53:812][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.39.53:812][945]MapCheck: New page: Map Check
+[2025.05.26-17.39.53:812][945]LightingResults: New page: Lighting Build
+[2025.05.26-17.39.53:827][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.39.53:834][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.26-17.39.53:838][945]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.39.53:838][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.39.53:860][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.26-17.39.53:874][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.26-17.39.53:898][945]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.26-17.39.53:898][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.39.53:898][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.39.53:899][945]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-17.39.53:984][945]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.26-17.39.54:003][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.26-17.39.54:011][945]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.26-17.39.54:011][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2025.05.26-17.39.57:482][138]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-17.39.57:490][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-17.39.57:490][138]PIE: New page: PIE session: Level1 (May 27, 2025, 9:39:57 AM)
+[2025.05.26-17.39.57:491][138]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-17.39.57:504][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014310s)
+[2025.05.26-17.39.57:504][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.014350s)
+[2025.05.26-17.39.57:517][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.26-17.39.57:521][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.39.57:522][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.39.57:522][138]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-17.39.57:522][138]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2025.05.26-17.39.57:522][138]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.05.26-17.39.57:522][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-17.39.57:522][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-17.39.57:522][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-17.39.57:522][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-17.39.57:522][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-17.39.57:522][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-17.39.57:522][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-17.39.57:522][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-17.39.57:523][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-17.39.57:523][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-17.39.57:523][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-17.39.57:526][138]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-17.39.57:564][138]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-17.39.57:564][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-17.39.57:564][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-17.39.57:564][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-17.39.57:565][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.05.26-17.39.57:565][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.05.26-17.39.57:566][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.05.26-17.39.57:566][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.05.26-17.39.57:566][138]LogInit: FAudioDevice initialized with ID 14.
+[2025.05.26-17.39.57:566][138]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2025.05.26-17.39.57:568][138]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.05.26-17.39.57:570][138]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.39.57:575][138]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.27-01.39.57
+[2025.05.26-17.39.57:576][138]LogWorld: Bringing up level for play took: 0.005385
+[2025.05.26-17.39.57:578][138]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.05.26-17.39.57:582][138]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.26-17.39.57:582][138]PIE: Server logged in
+[2025.05.26-17.39.57:583][138]PIE: Play in editor total start time 0.092 seconds.
+[2025.05.26-17.39.57:586][138]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rock_Sliding_attenuation_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.26-17.39.57:586][138]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rock_Sliding_attenuation_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.26-17.39.57:586][138]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rock_Sliding_attenuation_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.26-17.40.04:196][495]LogNet: Browse: /Game/YT_Level/Level2
+[2025.05.26-17.40.04:196][495]LogLoad: LoadMap: /Game/YT_Level/Level2
+[2025.05.26-17.40.04:196][495]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-17.40.04:198][495]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.40.04:199][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.40.04:242][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.40.04:246][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.26-17.40.04:274][495]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level2'.
+[2025.05.26-17.40.04:274][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.40.04:274][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.40.04:274][495]LogAIModule: Creating AISystem for world Level2
+[2025.05.26-17.40.04:274][495]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2025.05.26-17.40.04:274][495]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.40.04:300][495]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2025.05.27-01.40.04
+[2025.05.26-17.40.04:300][495]LogWorld: Bringing up level for play took: 0.025518
+[2025.05.26-17.40.04:304][495]LogLoad: Took 0.108065 seconds to LoadMap(/Game/YT_Level/Level2)
+[2025.05.26-17.40.04:309][495]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rock_Sliding_attenuation_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.26-17.40.09:941][833]LogNet: Browse: /Game/YT_Level/Level3
+[2025.05.26-17.40.09:941][833]LogLoad: LoadMap: /Game/YT_Level/Level3
+[2025.05.26-17.40.09:941][833]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level2
+[2025.05.26-17.40.09:942][833]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.40.09:944][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.40.09:982][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.40.09:987][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.26-17.40.10:015][833]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level3'.
+[2025.05.26-17.40.10:015][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.40.10:015][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.40.10:016][833]LogAIModule: Creating AISystem for world Level3
+[2025.05.26-17.40.10:016][833]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2025.05.26-17.40.10:016][833]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-17.40.10:039][833]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2025.05.27-01.40.10
+[2025.05.26-17.40.10:039][833]LogWorld: Bringing up level for play took: 0.023477
+[2025.05.26-17.40.10:042][833]LogScript: Warning: Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue
+	Level3_C /Game/YT_Level/UEDPIE_0_Level3.Level3:PersistentLevel.Level3_C_0
+	Function /Game/YT_Level/UEDPIE_0_Level3.Level3_C:ExecuteUbergraph_Level3:007D
+[2025.05.26-17.40.10:042][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetSequencePlayer_ReturnValue". Node:  Play Looping Graph:  EventGraph Function:  Execute Ubergraph Level 3 Blueprint:  Level3
+[2025.05.26-17.40.10:043][833]LogLoad: Took 0.101744 seconds to LoadMap(/Game/YT_Level/Level3)
+[2025.05.26-17.40.14:108][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.40.14:108][ 75]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level3
+[2025.05.26-17.40.14:108][ 75]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.40.14:110][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.40.14:113][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-17.40.14:117][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.40.14:131][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-17.40.14:132][ 75]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.05.26-17.40.14:132][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.05.26-17.40.14:134][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.05.26-17.40.14:146][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.26-17.40.14:342][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.05.26-17.40.15:998][152]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.40.16:006][152]LogSlate: Window 'Message Log' being destroyed
+[2025.05.26-17.40.19:304][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.26-17.40.19:408][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.40.19:416][348]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level2.Level2
+[2025.05.26-17.40.19:416][348]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.26-17.40.19:416][348]LightingResults: New page: Lighting Build
+[2025.05.26-17.40.19:416][348]LoadErrors: New page: Loading map: Level2.umap
+[2025.05.26-17.40.19:446][348]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.40.19:446][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.40.19:447][348]MapCheck: New page: Map Check
+[2025.05.26-17.40.19:447][348]LightingResults: New page: Lighting Build
+[2025.05.26-17.40.19:460][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-17.40.19:466][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.26-17.40.19:470][348]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-17.40.19:470][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-17.40.19:493][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.26-17.40.19:507][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.05.26-17.40.19:535][348]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.05.26-17.40.19:535][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-17.40.19:535][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-17.40.19:535][348]LogAIModule: Creating AISystem for world Level2
+[2025.05.26-17.40.19:638][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.26-17.40.19:656][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.26-17.40.19:664][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.26-17.40.19:664][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2025.05.26-17.40.22:245][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
