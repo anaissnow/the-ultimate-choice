@@ -3066,3 +3066,328 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.05.26-02.30.25:734][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 335 ms (total: 9.83 sec)
 [2025.05.26-02.30.25:736][806]AssetCheck: New page: Asset Save: Level2
 [2025.05.26-02.30.25:736][806]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.26-02.31.05:049][108]Cmd: DUPLICATE
+[2025.05.26-02.31.05:049][108]Cmd: ACTOR DUPLICATE
+[2025.05.26-02.31.34:687][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.26-02.31.35:664][823]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.31.35:682][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.31.35:939][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.26-02.31.36:028][823]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.26-02.31.36:029][823]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level2C888781C4FFEF4595652DFBB9393E804.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.26-02.31.36:042][823]LogFileHelpers: Saving map 'Level2' took 0.166
+[2025.05.26-02.31.36:054][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 371 ms (total: 10.2 sec)
+[2025.05.26-02.31.36:056][823]AssetCheck: New page: Asset Save: Level2
+[2025.05.26-02.31.36:056][823]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.26-02.33.54:348][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.26-02.33.55:425][641]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.33.55:443][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.33.55:703][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.05.26-02.33.55:796][641]LogSavePackage: Moving output files for package: /Game/YT_Level/Level2
+[2025.05.26-02.33.55:797][641]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level29918FC0D42CA52FBF1C4A5BD2289C237.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level2.umap'
+[2025.05.26-02.33.55:812][641]LogFileHelpers: Saving map 'Level2' took 0.180
+[2025.05.26-02.33.55:827][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 382 ms (total: 10.5 sec)
+[2025.05.26-02.33.55:834][641]AssetCheck: New page: Asset Save: Level2
+[2025.05.26-02.33.55:834][641]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level2.Level2
+[2025.05.26-02.36.02:263][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23600.683594
+[2025.05.26-02.36.03:264][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-02.36.03:264][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23601.347656, Update Interval: 302.259583
+[2025.05.26-02.39.07:463][510]LogContentBrowser: Deferred new asset file creation: River_attenuation__Cue
+[2025.05.26-02.39.07:482][510]LogContentBrowser: Creating deferred item: River_attenuation__Cue
+[2025.05.26-02.39.07:501][511]LogContentBrowser: Renaming the item being created (Deferred Item: River_attenuation__Cue).
+[2025.05.26-02.39.08:517][570]LogContentBrowser: Attempting asset rename: River_attenuation__Cue -> River_attenuation__Cue
+[2025.05.26-02.39.08:529][570]LogContentBrowser: End creating deferred item River_attenuation__Cue
+[2025.05.26-02.39.11:314][701]LogContentBrowser: Deferred new asset file creation: Rock_Sliding_attenuation__Cue
+[2025.05.26-02.39.11:325][701]LogContentBrowser: Creating deferred item: Rock_Sliding_attenuation__Cue
+[2025.05.26-02.39.11:342][702]LogContentBrowser: Renaming the item being created (Deferred Item: Rock_Sliding_attenuation__Cue).
+[2025.05.26-02.39.12:303][759]LogContentBrowser: Attempting asset rename: Rock_Sliding_attenuation__Cue -> Rock_Sliding_attenuation__Cue
+[2025.05.26-02.39.12:305][759]LogContentBrowser: End creating deferred item Rock_Sliding_attenuation__Cue
+[2025.05.26-02.39.13:509][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.05.26-02.39.14:524][825]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.39.14:545][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.39.14:748][825]LogSavePackage: Moving output files for package: /Game/BeiFeng/AmbientSFX/River_attenuation__Cue
+[2025.05.26-02.39.14:748][825]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/River_attenuation__CueC63EE98F4FFAA043D9AA7FAD94EF9FB8.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/AmbientSFX/River_attenuation__Cue.uasset'
+[2025.05.26-02.39.14:753][825]LogSavePackage: Moving output files for package: /Game/BeiFeng/AmbientSFX/Rock_Sliding_attenuation__Cue
+[2025.05.26-02.39.14:753][825]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Rock_Sliding_attenuation__Cue5A548CB143B0E7099BE3C89092582306.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/AmbientSFX/Rock_Sliding_attenuation__Cue.uasset'
+[2025.05.26-02.39.14:772][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 10.8 sec)
+[2025.05.26-02.39.14:776][825]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.39.14:776][825]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/AmbientSFX/River_attenuation__Cue.River_attenuation__Cue
+[2025.05.26-02.39.14:776][825]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/AmbientSFX/Rock_Sliding_attenuation__Cue.Rock_Sliding_attenuation__Cue
+[2025.05.26-02.39.26:342][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.26-02.39.27:620][461]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.39.27:639][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.39.27:830][461]LogSavePackage: Moving output files for package: /Game/BeiFeng/bgm/Anxious_Music_Loop_Survival_Horror_Cue
+[2025.05.26-02.39.27:830][461]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Anxious_Music_Loop_Survival_Horr24882F794E30870014D2F6BBF9C5B0A5.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/bgm/Anxious_Music_Loop_Survival_Horror_Cue.uasset'
+[2025.05.26-02.39.27:832][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeiFeng/bgm/Ending_bgm_1_Cue" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/bgm/Ending_bgm_1_Cue.uasset" SILENT=true
+[2025.05.26-02.39.27:836][461]LogSavePackage: Moving output files for package: /Game/BeiFeng/bgm/Ending_bgm_1_Cue
+[2025.05.26-02.39.27:836][461]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Ending_bgm_1_CueE22A154D4DE55A87BDFADCBA57B90FB8.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/bgm/Ending_bgm_1_Cue.uasset'
+[2025.05.26-02.39.27:838][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeiFeng/bgm/Ending_bgm_2_Cue" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/bgm/Ending_bgm_2_Cue.uasset" SILENT=true
+[2025.05.26-02.39.27:840][461]LogSavePackage: Moving output files for package: /Game/BeiFeng/bgm/Ending_bgm_2_Cue
+[2025.05.26-02.39.27:840][461]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Ending_bgm_2_Cue180B4B3B498519CA0A9DAFB8C9727D68.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/bgm/Ending_bgm_2_Cue.uasset'
+[2025.05.26-02.39.27:847][461]LogSavePackage: Moving output files for package: /Game/BeiFeng/bgm/Fast_Heart_Beat_HP_low__Cue
+[2025.05.26-02.39.27:847][461]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Fast_Heart_Beat_HP_low__CueAE3D1B1843634F419C2A51B4109BC5B2.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/bgm/Fast_Heart_Beat_HP_low__Cue.uasset'
+[2025.05.26-02.39.27:864][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 11.0 sec)
+[2025.05.26-02.39.27:865][461]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.39.27:865][461]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/bgm/Anxious_Music_Loop_Survival_Horror_Cue.Anxious_Music_Loop_Survival_Horror_Cue
+[2025.05.26-02.39.27:865][461]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/bgm/Ending_bgm_1_Cue.Ending_bgm_1_Cue
+[2025.05.26-02.39.27:865][461]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/bgm/Ending_bgm_2_Cue.Ending_bgm_2_Cue
+[2025.05.26-02.39.27:866][461]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/bgm/Fast_Heart_Beat_HP_low__Cue.Fast_Heart_Beat_HP_low__Cue
+[2025.05.26-02.39.34:117][798]LogContentBrowser: Deferred new asset file creation: game_reward-checkpoint_Cue
+[2025.05.26-02.39.34:136][798]LogContentBrowser: Creating deferred item: game_reward-checkpoint_Cue
+[2025.05.26-02.39.34:156][799]LogContentBrowser: Renaming the item being created (Deferred Item: game_reward-checkpoint_Cue).
+[2025.05.26-02.39.34:847][838]LogContentBrowser: Attempting asset rename: game_reward-checkpoint_Cue -> game_reward-checkpoint_Cue
+[2025.05.26-02.39.34:849][838]LogContentBrowser: End creating deferred item game_reward-checkpoint_Cue
+[2025.05.26-02.39.35:954][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.26-02.39.37:017][903]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.39.37:032][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.39.37:220][903]LogSavePackage: Moving output files for package: /Game/BeiFeng/CheckpointSFX/game_reward-checkpoint_Cue
+[2025.05.26-02.39.37:221][903]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/game_reward-checkpoint_Cue419EA24C43BB5C2E32F5FA99397F5114.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/CheckpointSFX/game_reward-checkpoint_Cue.uasset'
+[2025.05.26-02.39.37:233][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 11.2 sec)
+[2025.05.26-02.39.37:235][903]AssetCheck: New page: Asset Save: game_reward-checkpoint_Cue
+[2025.05.26-02.39.37:235][903]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/CheckpointSFX/game_reward-checkpoint_Cue.game_reward-checkpoint_Cue
+[2025.05.26-02.40.30:511][551]LogSlate: Window 'Save Asset As' being destroyed
+[2025.05.26-02.40.30:543][551]LogContentBrowser: Deferred new asset file creation: Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.40.30:560][551]LogContentBrowser: Creating deferred item: Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.40.30:584][552]LogAutomationController: Ignoring very large delta of 23.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-02.40.30:599][552]LogContentBrowser: Renaming the item being created (Deferred Item: Level_1_Cassette_Voice__Dialogue).
+[2025.05.26-02.40.31:840][616]LogContentBrowser: Attempting asset rename: Level_1_Cassette_Voice__Dialogue -> Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.40.31:844][616]LogContentBrowser: End creating deferred item Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.40.33:404][708]LogAssetEditorSubsystem: Opening Asset editor for DialogueWave /Game/BeiFeng/Dialogues/Cassette/Level_1_Cassette_Voice__Dialogue.Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.40.49:745][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.40.49:876][653]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Cassette/Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.40.49:876][653]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_1_Cassette_Voice__DialogueC77012D44806B954CA829693D18E46BF.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Cassette/Level_1_Cassette_Voice__Dialogue.uasset'
+[2025.05.26-02.40.49:894][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 11.3 sec)
+[2025.05.26-02.40.49:897][653]AssetCheck: New page: Asset Save: Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.40.49:897][653]LogContentValidation: Display: Validating /Script/Engine.DialogueWave /Game/BeiFeng/Dialogues/Cassette/Level_1_Cassette_Voice__Dialogue.Level_1_Cassette_Voice__Dialogue
+[2025.05.26-02.41.01:430][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.26-02.41.02:604][277]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.26-02.41.02:667][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.26-02.41.02:704][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.26-02.41.02:723][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.26-02.41.04:733][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.26-02.41.05:820][390]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.41.05:840][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.41.06:034][390]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Cassette/Level1_CassetteDialogue
+[2025.05.26-02.41.06:034][390]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level1_CassetteDialogue9A2BAFAC46709AA4AD9E8BB413717FC6.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Cassette/Level1_CassetteDialogue.uasset'
+[2025.05.26-02.41.06:038][390]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Cassette/Level_1_Cassette_Voice__Cue
+[2025.05.26-02.41.06:040][390]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_1_Cassette_Voice__Cue53A8E46047E568E5BFD5FCAD449F6E8B.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Cassette/Level_1_Cassette_Voice__Cue.uasset'
+[2025.05.26-02.41.06:044][390]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Cassette/Level_2_Cassette_Voice__Cue
+[2025.05.26-02.41.06:044][390]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_2_Cassette_Voice__Cue72B7D9AA48E248451C37B0B88D0FEB37.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Cassette/Level_2_Cassette_Voice__Cue.uasset'
+[2025.05.26-02.41.06:051][390]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Cassette/Starting__Cassette_Voice__Cue
+[2025.05.26-02.41.06:051][390]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Starting__Cassette_Voice__Cue1CCA2E6249CC682AA497CCB709862B1B.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Cassette/Starting__Cassette_Voice__Cue.uasset'
+[2025.05.26-02.41.06:067][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 11.6 sec)
+[2025.05.26-02.41.06:072][390]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.41.06:072][390]LogContentValidation: Display: Validating /Script/Engine.DialogueVoice /Game/BeiFeng/Dialogues/Cassette/Level1_CassetteDialogue.Level1_CassetteDialogue
+[2025.05.26-02.41.06:072][390]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Cassette/Level_1_Cassette_Voice__Cue.Level_1_Cassette_Voice__Cue
+[2025.05.26-02.41.06:072][390]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Cassette/Level_2_Cassette_Voice__Cue.Level_2_Cassette_Voice__Cue
+[2025.05.26-02.41.06:072][390]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Cassette/Starting__Cassette_Voice__Cue.Starting__Cassette_Voice__Cue
+[2025.05.26-02.41.14:169][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.26-02.41.15:047][832]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.41.15:067][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.41.15:262][832]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Ending/Final_1_Cue
+[2025.05.26-02.41.15:262][832]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Final_1_Cue21C2CFA74EF8DD9F09D879A46FDB8EF4.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Ending/Final_1_Cue.uasset'
+[2025.05.26-02.41.15:269][832]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Ending/Final_2_Cue
+[2025.05.26-02.41.15:270][832]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Final_2_Cue4A1297A145F9C2BDD981639089395BC7.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Ending/Final_2_Cue.uasset'
+[2025.05.26-02.41.15:275][832]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Ending/Final_3_Cue
+[2025.05.26-02.41.15:275][832]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Final_3_Cue1AA64A8F479E17B5CC6B35AFFA174121.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Ending/Final_3_Cue.uasset'
+[2025.05.26-02.41.15:292][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 11.8 sec)
+[2025.05.26-02.41.15:295][832]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.41.15:295][832]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Ending/Final_1_Cue.Final_1_Cue
+[2025.05.26-02.41.15:295][832]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Ending/Final_2_Cue.Final_2_Cue
+[2025.05.26-02.41.15:295][832]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Ending/Final_3_Cue.Final_3_Cue
+[2025.05.26-02.41.23:981][340]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/BeiFeng/Dialogues/Player/Level_1__player_.Level_1__player_
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: ================================================
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Total job queries 125, among them cache hits 93 (74.40%)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 24 distinct outputs (75.00%)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: RAM used: 624.09 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Average time worker was idle: 143.65 s
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Time job spent in pending queue: average 0.93 s, longest 2.08 s
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 3.24 s
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Job life time (pending + execution): average 1.92 s, max 3.24
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Shader code size: average 32.317 KiB, min 6.074 KiB, max 39.164 KiB
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.66 s
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Average processing rate: 5.57 jobs/sec
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Total thread time: 17.511 s
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Total thread preprocess time: 8.165 s
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Percentage time preprocessing: 46.63%
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Effective parallelization: 3.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.68 sec, max 2.03 sec, min 0.31 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 0.63 sec, max 1.57 sec, min 0.36 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.69% of total time (compiled   11 times, average 0.68 sec, max 2.03 sec, min 0.31 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.33% of total time (compiled   11 times, average 0.63 sec, max 1.57 sec, min 0.36 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.86% of total time (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.50% of total time (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 1.05% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.05.26-02.41.24:913][379]LogShaderCompilers: Display: ================================================
+[2025.05.26-02.42.02:549][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23960.984375
+[2025.05.26-02.42.03:549][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-02.42.03:549][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23961.650391, Update Interval: 351.289398
+[2025.05.26-02.42.46:918][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.05.26-02.42.48:067][581]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.42.48:097][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.42.48:299][581]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Whispers/Level_1__Whisper__Cue
+[2025.05.26-02.42.48:299][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_1__Whisper__Cue8BD020034565EA346CA2ADB9AEB03422.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Whispers/Level_1__Whisper__Cue.uasset'
+[2025.05.26-02.42.48:305][581]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Whispers/Level_2__Whisper__Cue
+[2025.05.26-02.42.48:305][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_2__Whisper__CueDECF56024F37222221E2A2BBAF80A1AB.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Whispers/Level_2__Whisper__Cue.uasset'
+[2025.05.26-02.42.48:310][581]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Whispers/Level_3__Whisper__Cue
+[2025.05.26-02.42.48:310][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_3__Whisper__CueDC626E884794A07973DD078FC5F92082.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Whispers/Level_3__Whisper__Cue.uasset'
+[2025.05.26-02.42.48:317][581]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Whispers/Random_1__Whisper__Cue
+[2025.05.26-02.42.48:317][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Random_1__Whisper__Cue93B16BC84C4BBDB2FEA25C9744FA1490.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Whispers/Random_1__Whisper__Cue.uasset'
+[2025.05.26-02.42.48:323][581]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Whispers/Random_2__Whisper__Cue
+[2025.05.26-02.42.48:323][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Random_2__Whisper__CueF74658614826365D4A202AB39084067D.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Whispers/Random_2__Whisper__Cue.uasset'
+[2025.05.26-02.42.48:329][581]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Whispers/Random_3__Whisper__Cue
+[2025.05.26-02.42.48:329][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Random_3__Whisper__Cue5EB07355433792FAF87E8A9EAD6E2812.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Whispers/Random_3__Whisper__Cue.uasset'
+[2025.05.26-02.42.48:334][581]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Whispers/Random_4__Whisper__Cue
+[2025.05.26-02.42.48:334][581]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Random_4__Whisper__Cue64AB11F04C099BF850A5A88E7577FA76.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Whispers/Random_4__Whisper__Cue.uasset'
+[2025.05.26-02.42.48:354][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 257 ms (total: 12.0 sec)
+[2025.05.26-02.42.48:359][581]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.42.48:359][581]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Whispers/Level_1__Whisper__Cue.Level_1__Whisper__Cue
+[2025.05.26-02.42.48:359][581]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Whispers/Level_2__Whisper__Cue.Level_2__Whisper__Cue
+[2025.05.26-02.42.48:359][581]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Whispers/Level_3__Whisper__Cue.Level_3__Whisper__Cue
+[2025.05.26-02.42.48:359][581]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Whispers/Random_1__Whisper__Cue.Random_1__Whisper__Cue
+[2025.05.26-02.42.48:359][581]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Whispers/Random_2__Whisper__Cue.Random_2__Whisper__Cue
+[2025.05.26-02.42.48:359][581]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Whispers/Random_3__Whisper__Cue.Random_3__Whisper__Cue
+[2025.05.26-02.42.48:359][581]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Whispers/Random_4__Whisper__Cue.Random_4__Whisper__Cue
+[2025.05.26-02.45.51:931][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.26-02.45.53:231][874]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.26-02.45.53:292][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.26-02.45.53:314][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.05.26-02.45.53:333][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.26-02.46.03:851][957]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/yueer/Downloads/DIalogue/DIalogue/player/wav/Ending (player).wav)
+[2025.05.26-02.46.03:857][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Ending__player_...
+[2025.05.26-02.46.03:868][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Ending__player_.Ending__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:873][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Ending__player_...
+[2025.05.26-02.46.03:876][957]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/yueer/Downloads/DIalogue/DIalogue/player/wav/Level 1 (player).wav)
+[2025.05.26-02.46.03:878][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Level_1__player_...
+[2025.05.26-02.46.03:891][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Ending__player_.Ending__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:891][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Level_1__player_.Level_1__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:893][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Level_1__player_...
+[2025.05.26-02.46.03:894][957]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/yueer/Downloads/DIalogue/DIalogue/player/wav/Level 2 (player).wav)
+[2025.05.26-02.46.03:898][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Level_2__player_...
+[2025.05.26-02.46.03:907][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Level_1__player_.Level_1__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:913][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Level_2__player_.Level_2__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:915][957]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/yueer/Downloads/DIalogue/DIalogue/player/wav/Level 3 (player).wav)
+[2025.05.26-02.46.03:920][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Level_3__player_...
+[2025.05.26-02.46.03:921][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Level_2__player_...
+[2025.05.26-02.46.03:930][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Level_2__player_.Level_2__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:930][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Level_3__player_.Level_3__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:931][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Level_3__player_...
+[2025.05.26-02.46.03:935][957]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/yueer/Downloads/DIalogue/DIalogue/player/wav/Starting (player).wav)
+[2025.05.26-02.46.03:939][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Starting__player_...
+[2025.05.26-02.46.03:968][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Level_3__player_.Level_3__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:968][957]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Starting__player_.Starting__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.03:970][957]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Starting__player_...
+[2025.05.26-02.46.03:990][957]LogAutomationController: Ignoring very large delta of 9.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-02.46.03:994][958]LogAudio: Display: Chunk sizes for SoundWave /Game/BeiFeng/Dialogues/Player/Starting__player_.Starting__player_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.26-02.46.11:635][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.05.26-02.46.12:823][364]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.46.12:853][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.46.13:066][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Ending__player_
+[2025.05.26-02.46.13:066][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Ending__player_EAFAA8FC48CED14F9607F5B670C489BB.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Ending__player_.uasset'
+[2025.05.26-02.46.13:072][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Ending__player__Cue
+[2025.05.26-02.46.13:072][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Ending__player__CueB46CD1D04755F304B6DC55BD31DDFC84.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Ending__player__Cue.uasset'
+[2025.05.26-02.46.13:087][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Level_1__player_
+[2025.05.26-02.46.13:087][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_1__player_B7AB09454B1BBA920795ED88C1A08570.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Level_1__player_.uasset'
+[2025.05.26-02.46.13:093][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Level_1__player__Cue
+[2025.05.26-02.46.13:093][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_1__player__Cue30E9C701498AF339158D668E266E89BE.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Level_1__player__Cue.uasset'
+[2025.05.26-02.46.13:104][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Level_2__player_
+[2025.05.26-02.46.13:104][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_2__player_642DF07E48F3A69B71EB3BBDCA361E28.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Level_2__player_.uasset'
+[2025.05.26-02.46.13:109][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Level_2__player__Cue
+[2025.05.26-02.46.13:109][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_2__player__Cue8209B89F41D2EDE15EB796A8D99521CF.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Level_2__player__Cue.uasset'
+[2025.05.26-02.46.13:121][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Level_3__player_
+[2025.05.26-02.46.13:121][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_3__player_4DB4B4C14679E4A1EC810E9A40B07418.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Level_3__player_.uasset'
+[2025.05.26-02.46.13:126][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Level_3__player__Cue
+[2025.05.26-02.46.13:126][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level_3__player__CueDEFAB49C41C34535431E68847CDC4628.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Level_3__player__Cue.uasset'
+[2025.05.26-02.46.13:141][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Starting__player_
+[2025.05.26-02.46.13:141][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Starting__player_CE53138C45BDF05A32C6B08DC09266E4.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Starting__player_.uasset'
+[2025.05.26-02.46.13:146][364]LogSavePackage: Moving output files for package: /Game/BeiFeng/Dialogues/Player/Starting__player__Cue
+[2025.05.26-02.46.13:146][364]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Starting__player__Cue13AF628546FA08ADEBD30B857082C240.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/Dialogues/Player/Starting__player__Cue.uasset'
+[2025.05.26-02.46.13:164][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms (total: 12.4 sec)
+[2025.05.26-02.46.13:169][364]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/BeiFeng/Dialogues/Player/Ending__player_.Ending__player_
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Player/Ending__player__Cue.Ending__player__Cue
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/BeiFeng/Dialogues/Player/Level_1__player_.Level_1__player_
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Player/Level_1__player__Cue.Level_1__player__Cue
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/BeiFeng/Dialogues/Player/Level_2__player_.Level_2__player_
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Player/Level_2__player__Cue.Level_2__player__Cue
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/BeiFeng/Dialogues/Player/Level_3__player_.Level_3__player_
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Player/Level_3__player__Cue.Level_3__player__Cue
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/BeiFeng/Dialogues/Player/Starting__player_.Starting__player_
+[2025.05.26-02.46.13:169][364]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/Dialogues/Player/Starting__player__Cue.Starting__player__Cue
+[2025.05.26-02.46.21:448][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.26-02.46.22:640][805]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.46.22:670][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.46.22:878][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Footsteps_Cue
+[2025.05.26-02.46.22:878][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Footsteps_Cue9AEA0C954998D6246B1B24978447551E.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Footsteps_Cue.uasset'
+[2025.05.26-02.46.22:883][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Footsteps_on_Stone_Cue
+[2025.05.26-02.46.22:883][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Footsteps_on_Stone_Cue6320AA8B45FCE5EFB0838FB126EAFA88.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Footsteps_on_Stone_Cue.uasset'
+[2025.05.26-02.46.22:888][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Landing_Cue
+[2025.05.26-02.46.22:889][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Landing_CueECE26B06450F4320854839917E752A00.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Landing_Cue.uasset'
+[2025.05.26-02.46.22:895][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Step1_Cue
+[2025.05.26-02.46.22:895][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Step1_Cue65AB8F744031BD17AECD28B53BAABAF4.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Step1_Cue.uasset'
+[2025.05.26-02.46.22:901][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Step2_Cue
+[2025.05.26-02.46.22:901][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Step2_Cue3151A4604C60E1A79EE951A5BEDBCDD1.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Step2_Cue.uasset'
+[2025.05.26-02.46.22:906][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Step3_Cue
+[2025.05.26-02.46.22:906][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Step3_Cue97BC11E246EA9F015EE56982881EF608.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Step3_Cue.uasset'
+[2025.05.26-02.46.22:911][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Step4_Cue
+[2025.05.26-02.46.22:911][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Step4_CueDD0F200F4489A0B28C4038832A035AAD.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Step4_Cue.uasset'
+[2025.05.26-02.46.22:917][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Step5_Cue
+[2025.05.26-02.46.22:917][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Step5_CueCFB670584F5ADE99B9D20A909EB031C4.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Step5_Cue.uasset'
+[2025.05.26-02.46.22:923][805]LogSavePackage: Moving output files for package: /Game/BeiFeng/FootstepSFX/Walking_On_Sand_Cue
+[2025.05.26-02.46.22:923][805]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Walking_On_Sand_Cue91D151FB4453B2C6BCC5CCA9A0D48BEF.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/FootstepSFX/Walking_On_Sand_Cue.uasset'
+[2025.05.26-02.46.22:945][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 12.6 sec)
+[2025.05.26-02.46.22:949][805]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Footsteps_Cue.Footsteps_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Footsteps_on_Stone_Cue.Footsteps_on_Stone_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Landing_Cue.Landing_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Step1_Cue.Step1_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Step2_Cue.Step2_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Step3_Cue.Step3_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Step4_Cue.Step4_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Step5_Cue.Step5_Cue
+[2025.05.26-02.46.22:950][805]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/FootstepSFX/Walking_On_Sand_Cue.Walking_On_Sand_Cue
+[2025.05.26-02.46.39:683][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.26-02.46.40:675][697]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-02.46.40:695][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-02.46.40:876][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/ObjectSFX/door-close_Cue
+[2025.05.26-02.46.40:876][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/door-close_Cue0AA1C8AF4788266AF0C12DAA0A5A0341.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/ObjectSFX/door-close_Cue.uasset'
+[2025.05.26-02.46.40:882][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/ObjectSFX/door-opening_Cue
+[2025.05.26-02.46.40:882][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/door-opening_CueEC7E001B423AAF355CFE7BAB4100DE7F.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/ObjectSFX/door-opening_Cue.uasset'
+[2025.05.26-02.46.40:887][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/PlayerSFX/Heavy_Breathing_Cue
+[2025.05.26-02.46.40:888][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Heavy_Breathing_CueABE94E8C4F101629A691E08DEDBB7CBD.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/PlayerSFX/Heavy_Breathing_Cue.uasset'
+[2025.05.26-02.46.40:894][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/PlayerSFX/injured_Cue
+[2025.05.26-02.46.40:894][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/injured_CueA34E269442834E235E41F69CACAEC6D7.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/PlayerSFX/injured_Cue.uasset'
+[2025.05.26-02.46.40:897][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeiFeng/PlayerSFX/jump_Cue" FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/PlayerSFX/jump_Cue.uasset" SILENT=true
+[2025.05.26-02.46.40:899][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/PlayerSFX/jump_Cue
+[2025.05.26-02.46.40:899][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/jump_Cue546F173E4876B509D14490A5951EA3BF.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/PlayerSFX/jump_Cue.uasset'
+[2025.05.26-02.46.40:903][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/ObjectSFX/keys_pickup_Cue
+[2025.05.26-02.46.40:904][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/keys_pickup_Cue4B0B7E4D43941142A179A7A14E26D0CB.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/ObjectSFX/keys_pickup_Cue.uasset'
+[2025.05.26-02.46.40:909][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/PlayerSFX/Normal-Breathing_Cue
+[2025.05.26-02.46.40:909][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Normal-Breathing_Cue286CEA2449B5B88753490B897099FF9C.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/PlayerSFX/Normal-Breathing_Cue.uasset'
+[2025.05.26-02.46.40:915][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/ObjectSFX/pick-up_Cue
+[2025.05.26-02.46.40:915][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/pick-up_Cue192C68544AD7441936728D9407AB8276.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/ObjectSFX/pick-up_Cue.uasset'
+[2025.05.26-02.46.40:919][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/ObjectSFX/Pickup_Item_Cue
+[2025.05.26-02.46.40:919][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Pickup_Item_Cue7C9D3A4640C2C5BBB70ADAB82DB18138.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/ObjectSFX/Pickup_Item_Cue.uasset'
+[2025.05.26-02.46.40:924][697]LogSavePackage: Moving output files for package: /Game/BeiFeng/ObjectSFX/push_object_Cue
+[2025.05.26-02.46.40:924][697]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/push_object_Cue169A0D4C4869FCBA524F3F872723AE14.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/BeiFeng/ObjectSFX/push_object_Cue.uasset'
+[2025.05.26-02.46.40:940][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 244 ms (total: 12.9 sec)
+[2025.05.26-02.46.40:942][697]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/door-close_Cue.door-close_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/door-opening_Cue.door-opening_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/PlayerSFX/Heavy_Breathing_Cue.Heavy_Breathing_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/PlayerSFX/injured_Cue.injured_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/PlayerSFX/jump_Cue.jump_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/keys_pickup_Cue.keys_pickup_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/PlayerSFX/Normal-Breathing_Cue.Normal-Breathing_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/pick-up_Cue.pick-up_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/Pickup_Item_Cue.Pickup_Item_Cue
+[2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/push_object_Cue.push_object_Cue
