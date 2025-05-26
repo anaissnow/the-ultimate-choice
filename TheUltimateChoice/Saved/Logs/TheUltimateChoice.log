@@ -3391,3 +3391,1050 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/pick-up_Cue.pick-up_Cue
 [2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/Pickup_Item_Cue.Pickup_Item_Cue
 [2025.05.26-02.46.40:942][697]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/BeiFeng/ObjectSFX/push_object_Cue.push_object_Cue
+[2025.05.26-02.48.52:513][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24371.085938
+[2025.05.26-02.48.53:513][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-02.48.53:514][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24371.753906, Update Interval: 320.797760
+[2025.05.26-02.54.58:566][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24737.187500
+[2025.05.26-02.54.59:565][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-02.54.59:565][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24737.853516, Update Interval: 342.137512
+[2025.05.26-02.57.59:854][292]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.530 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
+[2025.05.26-03.01.21:601][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25120.294922
+[2025.05.26-03.01.22:599][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.01.22:599][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25120.960938, Update Interval: 329.424103
+[2025.05.26-03.07.43:657][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25502.388672
+[2025.05.26-03.07.44:654][ 47]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.07.44:655][ 47]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25503.054688, Update Interval: 352.232422
+[2025.05.26-03.10.34:038][ 71]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.26-03.10.34:076][ 71]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.26-03.10.34:088][ 71]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.26-03.10.34:106][ 71]LogAutomationController: Ignoring very large delta of 9.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-03.10.34:120][ 72]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.26-03.10.38:311][315]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemyAI
+[2025.05.26-03.10.38:454][315]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.26-03.10.43:855][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-03.10.43:874][620]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.10.43:881][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.10.44:454][620]LogViewport: Scene viewport resized to 990x567, mode Windowed.
+[2025.05.26-03.11.21:054][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.12.49:167][384]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2025.05.26-03.12.51:212][384]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-03.12.51:232][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-03.12.51:560][384]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-03.12.51:560][384]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAIF80C31C14CE54F6C3F8F69BB5D30B629.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-03.12.51:584][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 13.2 sec)
+[2025.05.26-03.12.51:838][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.12.51:856][384]LogAssetEditorSubsystem: Opening Asset editor for World /Game/YT_Level/Level1.Level1
+[2025.05.26-03.12.51:857][384]Cmd: MAP LOAD FILE="../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.26-03.12.51:858][384]LightingResults: New page: Lighting Build
+[2025.05.26-03.12.51:866][384]LoadErrors: New page: Loading map: Level1.umap
+[2025.05.26-03.12.51:935][384]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-03.12.51:943][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-03.12.51:949][384]MapCheck: New page: Map Check
+[2025.05.26-03.12.51:949][384]LightingResults: New page: Lighting Build
+[2025.05.26-03.12.51:972][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-03.12.52:008][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.26-03.12.52:018][384]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-03.12.52:018][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-03.12.52:047][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.26-03.12.52:063][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.05.26-03.12.52:111][384]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.05.26-03.12.52:113][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.12.52:114][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.12.52:115][384]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-03.12.52:186][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.26-03.12.52:216][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.05.26-03.12.52:230][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.26-03.12.52:231][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.637ms to complete.
+[2025.05.26-03.12.52:254][384]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-03.12.52:254][384]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-03.12.52:315][384]LogShaderCompilers: Display: ================================================
+[2025.05.26-03.12.52:315][384]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.26-03.12.52:315][384]LogShaderCompilers: Display: Total job queries 127, among them cache hits 95 (74.80%)
+[2025.05.26-03.12.52:315][384]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 24 distinct outputs (75.00%)
+[2025.05.26-03.12.52:315][384]LogShaderCompilers: Display: RAM used: 624.09 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.05.26-03.12.52:315][384]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.26-03.12.52:315][384]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Average time worker was idle: 143.65 s
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Time job spent in pending queue: average 0.93 s, longest 2.08 s
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 3.24 s
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Job life time (pending + execution): average 1.92 s, max 3.24
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Shader code size: average 32.317 KiB, min 6.074 KiB, max 39.164 KiB
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.66 s
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Average processing rate: 5.57 jobs/sec
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Total thread time: 17.511 s
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Total thread preprocess time: 8.165 s
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Percentage time preprocessing: 46.63%
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Effective parallelization: 3.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.68 sec, max 2.03 sec, min 0.31 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 0.63 sec, max 1.57 sec, min 0.36 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.69% of total time (compiled   11 times, average 0.68 sec, max 2.03 sec, min 0.31 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.33% of total time (compiled   11 times, average 0.63 sec, max 1.57 sec, min 0.36 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.86% of total time (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.50% of total time (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 1.05% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2025.05.26-03.12.52:317][384]LogShaderCompilers: Display: ================================================
+[2025.05.26-03.12.52:322][384]LogAutomationController: Ignoring very large delta of 3.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-03.12.54:998][388]LogAutomationController: Ignoring very large delta of 2.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-03.14.24:432][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25903.210938
+[2025.05.26-03.14.24:778][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.14.24:778][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25903.537109, Update Interval: 354.770355
+[2025.05.26-03.15.02:762][826]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-03.15.02:882][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2025.05.26-03.15.03:538][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-03.15.03:708][847]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-03.15.03:709][847]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAI82E8EB2349A56F5C9A21EAAD9D64DBCE.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-03.15.03:726][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 13.4 sec)
+[2025.05.26-03.15.03:732][847]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-03.15.03:732][847]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-03.17.27:858][701]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-03.17.27:895][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.26-03.17.28:828][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-03.17.28:983][746]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-03.17.28:984][746]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAI95C0C6684F4A25018EFF05A40B193347.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-03.17.28:998][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 13.6 sec)
+[2025.05.26-03.17.29:004][746]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-03.17.29:004][746]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-03.18.39:707][941]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-03.18.39:753][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.26-03.18.40:409][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-03.18.40:591][973]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-03.18.40:594][973]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAI7023B8A24043514DEADB368FAB1B6D6A.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-03.18.40:607][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 13.8 sec)
+[2025.05.26-03.18.40:611][973]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-03.18.40:611][973]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-03.20.36:743][133]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-03.20.36:789][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.05.26-03.20.53:966][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26292.755859
+[2025.05.26-03.20.54:964][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.20.54:964][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26293.423828, Update Interval: 311.940674
+[2025.05.26-03.21.19:771][154]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-03.21.19:806][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.26-03.21.21:624][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-03.21.21:814][252]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-03.21.21:816][252]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAIF6D3FE1E4E63AB522EFE82A5A9F5D837.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-03.21.21:828][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 14.0 sec)
+[2025.05.26-03.21.21:833][252]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-03.21.21:833][252]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-03.23.12:878][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.05.26-03.23.12:882][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YT_Level/Level1' took 0.030
+[2025.05.26-03.23.12:884][456]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YueErn/YE_Blueprints/BP_EnemyAI] ([2] browsable assets)...
+[2025.05.26-03.23.13:030][456]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI]
+[2025.05.26-03.23.13:031][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/YueErn/YE_Blueprints/BP_EnemyAI]
+[2025.05.26-03.23.13:042][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YueErn/YE_Blueprints/BP_EnemyAI_Auto4
+[2025.05.26-03.23.13:043][456]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAI_Auto4810B0E4B44D89AFA471158B087A9D5F6.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Autosaves/Game/YueErn/YE_Blueprints/BP_EnemyAI_Auto4.uasset'
+[2025.05.26-03.23.13:045][456]LogFileHelpers: Auto-saving content packages took 0.163
+[2025.05.26-03.23.30:504][869]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-03.23.30:551][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.26-03.24.22:584][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.26-03.24.24:143][730]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.26-03.24.24:188][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.26-03.24.24:211][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.26-03.24.24:229][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.26-03.24.32:154][179]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.26-03.24.32:706][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.05.26-03.24.35:796][179]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.26-03.24.35:829][179]LogAutomationController: Ignoring very large delta of 3.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-03.25.18:774][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.26-03.25.23:936][556]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.26-03.25.23:962][557]LogAutomationController: Ignoring very large delta of 5.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-03.25.27:368][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.26-03.25.28:397][748]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-03.25.28:420][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-03.25.28:693][748]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-03.25.28:695][748]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAI08A9CF33449A643A33784688315F2B17.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-03.25.28:712][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 14.3 sec)
+[2025.05.26-03.25.28:716][748]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-03.25.28:716][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-03.26.12:216][455]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.05.26-03.26.12:235][455]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.05.26-03.26.12:244][455]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.05.26-03.26.12:251][456]LogAutomationController: Ignoring very large delta of 13.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-03.26.12:282][456]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.05.26-03.26.18:588][826]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Anim_Statue
+[2025.05.26-03.26.18:647][826]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.05.26-03.26.18:681][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.21:075][934]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/YueErn/YE_Blueprints/Anim_Statue.Anim_Statue
+[2025.05.26-03.26.21:078][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.21:080][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.26.21:178][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.21:178][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.26.21:207][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-03.26.21:928][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.21:928][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.26.22:196][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.22:338][934]LogViewport: Scene viewport resized to 474x374, mode Windowed.
+[2025.05.26-03.26.30:064][284]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Engine/EngineMeshes/SkeletalCube_Skeleton.SkeletalCube_Skeleton
+[2025.05.26-03.26.30:067][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.30:067][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.26.30:125][284]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-03.26.30:441][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.30:441][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.26.30:684][284]LogViewport: Scene viewport resized to 1139x803, mode Windowed.
+[2025.05.26-03.26.34:961][448]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Engine/EngineMeshes/SkeletalCube.SkeletalCube
+[2025.05.26-03.26.34:964][448]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.26.34:965][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-03.26.34:988][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-03.26.35:439][448]LogViewport: Scene viewport resized to 1428x803, mode Windowed.
+[2025.05.26-03.26.46:077][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-03.27.02:426][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26661.232422
+[2025.05.26-03.27.02:805][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.27.02:805][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26661.589844, Update Interval: 346.327087
+[2025.05.26-03.27.03:869][627]Cmd: TRANSACTION UNDO
+[2025.05.26-03.27.03:869][627]LogEditorTransaction: Undo Translate Bone
+[2025.05.26-03.27.04:687][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-03.27.04:688][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-03.27.04:690][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-03.27.27:859][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-03.27.28:034][559]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/Anim_Statue
+[2025.05.26-03.27.28:034][559]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Anim_Statue0ACCE1AA4A233AB56ED7E48609DA4521.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/Anim_Statue.uasset'
+[2025.05.26-03.27.28:055][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 14.5 sec)
+[2025.05.26-03.27.28:060][559]AssetCheck: New page: Asset Save: Anim_Statue
+[2025.05.26-03.27.28:060][559]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/YueErn/YE_Blueprints/Anim_Statue.Anim_Statue
+[2025.05.26-03.33.41:174][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27060.029297
+[2025.05.26-03.33.42:505][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.33.42:505][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27061.031250, Update Interval: 332.049927
+[2025.05.26-03.39.38:766][330]LogAutomationController: Ignoring very large delta of 212.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-03.40.21:886][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27460.736328
+[2025.05.26-03.40.22:894][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.40.22:894][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27461.404297, Update Interval: 329.468048
+[2025.05.26-03.46.23:281][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27822.130859
+[2025.05.26-03.46.24:283][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.46.24:284][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27822.796875, Update Interval: 355.971558
+[2025.05.26-03.53.09:364][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28228.228516
+[2025.05.26-03.53.10:364][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.53.10:364][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28228.894531, Update Interval: 350.467224
+[2025.05.26-03.59.38:778][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28617.671875
+[2025.05.26-03.59.39:778][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-03.59.39:778][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28618.335938, Update Interval: 339.910889
+[2025.05.26-04.01.33:219][273]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.542 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
+[2025.05.26-04.06.00:523][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28999.468750
+[2025.05.26-04.06.01:523][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.06.01:523][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29000.134766, Update Interval: 312.878204
+[2025.05.26-04.12.10:570][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29369.605469
+[2025.05.26-04.12.11:571][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.12.11:571][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29370.273438, Update Interval: 355.321503
+[2025.05.26-04.18.57:951][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29777.031250
+[2025.05.26-04.18.58:951][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.18.58:951][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29777.697266, Update Interval: 314.674530
+[2025.05.26-04.24.45:327][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30124.425781
+[2025.05.26-04.24.46:328][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.24.46:328][452]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30125.091797, Update Interval: 338.037659
+[2025.05.26-04.31.14:387][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30513.541016
+[2025.05.26-04.31.15:396][619]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.31.15:396][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30514.207031, Update Interval: 325.476257
+[2025.05.26-04.37.38:104][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30897.248047
+[2025.05.26-04.37.39:104][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.37.39:104][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30897.916016, Update Interval: 318.475891
+[2025.05.26-04.43.52:491][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31271.677734
+[2025.05.26-04.43.53:491][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.43.53:491][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31272.345703, Update Interval: 353.298126
+[2025.05.26-04.50.33:537][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31672.769531
+[2025.05.26-04.50.34:539][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.50.34:539][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31673.437500, Update Interval: 317.254547
+[2025.05.26-04.56.42:584][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32041.873047
+[2025.05.26-04.56.43:583][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.56.43:584][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32042.541016, Update Interval: 300.142822
+[2025.05.26-05.01.32:429][ 69]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.744 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
+[2025.05.26-05.02.14:957][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32374.318359
+[2025.05.26-05.02.15:960][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.02.15:960][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32374.984375, Update Interval: 320.612823
+[2025.05.26-05.08.21:009][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32740.398438
+[2025.05.26-05.08.22:006][298]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.08.22:006][298]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32741.062500, Update Interval: 355.863525
+[2025.05.26-05.14.49:739][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33128.707031
+[2025.05.26-05.14.50:737][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.14.50:737][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33129.375000, Update Interval: 300.032959
+[2025.05.26-05.20.24:475][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33463.062500
+[2025.05.26-05.20.25:479][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.20.25:479][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33463.730469, Update Interval: 349.597473
+[2025.05.26-05.27.06:907][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33864.953125
+[2025.05.26-05.27.07:905][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.27.07:906][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33865.621094, Update Interval: 330.387268
+[2025.05.26-05.33.16:064][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34233.714844
+[2025.05.26-05.33.17:064][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.33.17:064][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34234.382812, Update Interval: 348.253418
+[2025.05.26-05.39.42:495][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34619.742188
+[2025.05.26-05.39.43:489][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.39.43:489][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34620.410156, Update Interval: 351.040375
+[2025.05.26-05.46.33:911][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35030.734375
+[2025.05.26-05.46.34:911][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.46.34:911][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35031.402344, Update Interval: 321.304962
+[2025.05.26-05.52.39:318][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35395.773438
+[2025.05.26-05.52.40:318][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.52.40:318][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35396.445312, Update Interval: 344.237793
+[2025.05.26-05.58.59:727][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35775.949219
+[2025.05.26-05.59.00:730][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-05.59.00:730][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35776.617188, Update Interval: 321.378204
+[2025.05.26-06.01.33:221][869]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.528 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
+[2025.05.26-06.05.09:099][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36144.957031
+[2025.05.26-06.05.10:097][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.05.10:097][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36145.621094, Update Interval: 355.184174
+[2025.05.26-06.11.39:479][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36534.789062
+[2025.05.26-06.11.40:477][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.11.40:479][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36535.457031, Update Interval: 319.911499
+[2025.05.26-06.17.53:852][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36908.660156
+[2025.05.26-06.17.54:852][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.17.54:852][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36909.328125, Update Interval: 348.178345
+[2025.05.26-06.24.26:233][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37300.437500
+[2025.05.26-06.24.27:232][991]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.24.27:232][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37301.105469, Update Interval: 307.346405
+[2025.05.26-06.30.07:606][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37641.429688
+[2025.05.26-06.30.08:608][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.30.08:608][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37642.097656, Update Interval: 343.162933
+[2025.05.26-06.36.37:644][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38030.753906
+[2025.05.26-06.36.38:644][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.36.38:653][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38031.417969, Update Interval: 337.158722
+[2025.05.26-06.42.50:357][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38402.957031
+[2025.05.26-06.42.51:356][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.42.51:356][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38403.625000, Update Interval: 347.099823
+[2025.05.26-06.49.12:398][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38784.367188
+[2025.05.26-06.49.13:398][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.49.13:398][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38785.035156, Update Interval: 343.140961
+[2025.05.26-06.55.30:172][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39163.300781
+[2025.05.26-06.55.31:170][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-06.55.31:171][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39163.976562, Update Interval: 344.506958
+[2025.05.26-07.01.33:240][673]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.547 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
+[2025.05.26-07.01.45:884][711]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39538.410156
+[2025.05.26-07.01.46:884][714]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.01.46:884][714]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39539.078125, Update Interval: 309.305695
+[2025.05.26-07.07.31:252][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39883.226562
+[2025.05.26-07.07.32:252][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.07.32:252][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39883.894531, Update Interval: 341.562561
+[2025.05.26-07.13.47:625][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40259.007812
+[2025.05.26-07.13.48:628][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.13.48:628][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40259.671875, Update Interval: 321.779236
+[2025.05.26-07.19.51:333][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40622.191406
+[2025.05.26-07.19.52:334][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.19.52:334][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40622.859375, Update Interval: 308.130127
+[2025.05.26-07.25.51:371][ 47]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40981.648438
+[2025.05.26-07.25.52:370][ 50]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.25.52:371][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40982.316406, Update Interval: 302.052673
+[2025.05.26-07.31.42:761][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41332.808594
+[2025.05.26-07.31.43:761][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.31.43:762][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41333.476562, Update Interval: 312.098145
+[2025.05.26-07.37.27:138][134]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41676.800781
+[2025.05.26-07.37.28:138][137]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.37.28:138][137]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41677.468750, Update Interval: 330.998871
+[2025.05.26-07.43.41:194][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42050.574219
+[2025.05.26-07.43.42:197][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.43.42:197][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42051.242188, Update Interval: 330.379944
+[2025.05.26-07.49.46:907][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42416.066406
+[2025.05.26-07.49.47:906][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.49.47:906][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42416.730469, Update Interval: 342.968842
+[2025.05.26-07.56.29:299][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42818.097656
+[2025.05.26-07.56.30:300][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-07.56.30:300][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42818.765625, Update Interval: 331.000702
+[2025.05.26-08.01.33:281][471]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.587 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
+[2025.05.26-08.02.45:347][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43193.664062
+[2025.05.26-08.02.46:347][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.02.46:347][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43194.328125, Update Interval: 339.421967
+[2025.05.26-08.09.14:058][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43581.937500
+[2025.05.26-08.09.15:058][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.09.15:066][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43582.601562, Update Interval: 350.575287
+[2025.05.26-08.16.04:759][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43992.042969
+[2025.05.26-08.16.05:759][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.16.05:760][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43992.710938, Update Interval: 321.394684
+[2025.05.26-08.22.18:801][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44365.449219
+[2025.05.26-08.22.19:800][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.22.19:800][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44366.117188, Update Interval: 321.627258
+[2025.05.26-08.28.13:184][271]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44719.320312
+[2025.05.26-08.28.14:184][274]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.28.14:184][274]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44719.984375, Update Interval: 310.226746
+[2025.05.26-08.34.18:552][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45084.136719
+[2025.05.26-08.34.19:552][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.34.19:552][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45084.800781, Update Interval: 334.058655
+[2025.05.26-08.40.29:599][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45454.550781
+[2025.05.26-08.40.30:600][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.40.30:601][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45455.214844, Update Interval: 315.892212
+[2025.05.26-08.43.41:671][344]Cmd: TRANSACTION UNDO
+[2025.05.26-08.43.41:671][344]LogEditorTransaction: Undo Translate Bone
+[2025.05.26-08.43.42:862][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-08.43.42:863][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-08.43.42:868][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-08.43.43:036][344]Cmd: TRANSACTION UNDO
+[2025.05.26-08.43.43:036][344]LogEditorTransaction: Undo Translate Bone
+[2025.05.26-08.43.43:712][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-08.43.43:712][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-08.43.43:713][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-08.43.44:322][344]LogAutomationController: Ignoring very large delta of 2.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-08.43.54:279][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-08.43.54:495][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMeshes/SkeletalCube" FILE="../../../Engine/Content/EngineMeshes/SkeletalCube.uasset" SILENT=true
+[2025.05.26-08.43.54:528][783]LogSavePackage: Moving output files for package: /Engine/EngineMeshes/SkeletalCube
+[2025.05.26-08.43.54:531][783]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/SkeletalCube815BB1AA4FD57972A8E6328687470B8C.tmp' to '../../../Engine/Content/EngineMeshes/SkeletalCube.uasset'
+[2025.05.26-08.43.54:558][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 278 ms (total: 14.8 sec)
+[2025.05.26-08.43.54:579][783]AssetCheck: New page: Asset Save: SkeletalCube
+[2025.05.26-08.43.54:580][783]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Engine/EngineMeshes/SkeletalCube.SkeletalCube
+[2025.05.26-08.46.22:682][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45807.359375
+[2025.05.26-08.46.23:680][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.46.23:680][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45808.027344, Update Interval: 305.191193
+[2025.05.26-08.52.02:401][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46146.808594
+[2025.05.26-08.52.03:401][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.52.03:401][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46147.472656, Update Interval: 322.328552
+[2025.05.26-08.57.58:457][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46502.406250
+[2025.05.26-08.57.59:467][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-08.57.59:467][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46503.074219, Update Interval: 342.741791
+[2025.05.26-09.01.32:436][416]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.733 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
+[2025.05.26-09.04.17:831][913]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46881.378906
+[2025.05.26-09.04.18:832][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.04.18:832][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46882.042969, Update Interval: 329.142120
+[2025.05.26-09.10.18:883][996]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47241.914062
+[2025.05.26-09.10.19:883][999]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.10.19:883][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47242.578125, Update Interval: 355.070648
+[2025.05.26-09.17.11:611][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47654.007812
+[2025.05.26-09.17.12:604][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.17.12:606][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47654.671875, Update Interval: 339.037445
+[2025.05.26-09.20.29:299][642]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.20.29:308][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.20.47:150][369]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.20.47:150][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.20.47:292][369]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.20.47:292][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.21.01:216][ 47]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.21.01:216][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.21.01:278][ 47]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.21.01:278][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.21.01:384][ 47]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.21.01:385][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.21.07:827][409]LogViewport: Scene viewport resized to 994x471, mode Windowed.
+[2025.05.26-09.21.07:869][410]LogViewport: Scene viewport resized to 994x457, mode Windowed.
+[2025.05.26-09.21.07:895][411]LogViewport: Scene viewport resized to 994x443, mode Windowed.
+[2025.05.26-09.21.07:933][412]LogViewport: Scene viewport resized to 994x426, mode Windowed.
+[2025.05.26-09.21.07:963][413]LogViewport: Scene viewport resized to 994x413, mode Windowed.
+[2025.05.26-09.21.07:996][414]LogViewport: Scene viewport resized to 994x403, mode Windowed.
+[2025.05.26-09.21.08:035][415]LogViewport: Scene viewport resized to 994x385, mode Windowed.
+[2025.05.26-09.21.08:065][416]LogViewport: Scene viewport resized to 994x372, mode Windowed.
+[2025.05.26-09.21.08:099][417]LogViewport: Scene viewport resized to 994x358, mode Windowed.
+[2025.05.26-09.21.08:134][418]LogViewport: Scene viewport resized to 994x348, mode Windowed.
+[2025.05.26-09.21.08:170][419]LogViewport: Scene viewport resized to 994x337, mode Windowed.
+[2025.05.26-09.21.08:205][420]LogViewport: Scene viewport resized to 994x331, mode Windowed.
+[2025.05.26-09.21.08:236][421]LogViewport: Scene viewport resized to 994x327, mode Windowed.
+[2025.05.26-09.21.08:266][422]LogViewport: Scene viewport resized to 994x325, mode Windowed.
+[2025.05.26-09.21.08:301][423]LogViewport: Scene viewport resized to 994x322, mode Windowed.
+[2025.05.26-09.21.08:376][427]LogViewport: Scene viewport resized to 994x320, mode Windowed.
+[2025.05.26-09.21.14:708][751]LogUObjectHash: Compacting FUObjectHashTables data took  10.56ms
+[2025.05.26-09.21.17:332][751]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.26-09.21.17:451][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.05.26-09.21.17:479][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.05.26-09.21.17:507][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.26-09.21.17:539][751]LogAutomationController: Ignoring very large delta of 3.09 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-09.21.27:834][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.21.28:051][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.26-09.21.28:201][343]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.26-09.21.28:203][343]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level108C6BAB24409976FF9F597ABB0C773DD.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.26-09.21.28:229][343]LogFileHelpers: Saving map 'Level1' took 0.240
+[2025.05.26-09.21.28:241][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 407 ms (total: 15.2 sec)
+[2025.05.26-09.21.28:247][343]AssetCheck: New page: Asset Save: Level1
+[2025.05.26-09.21.28:247][343]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.26-09.21.33:928][663]LogViewport: Scene viewport resized to 994x326, mode Windowed.
+[2025.05.26-09.21.33:953][664]LogViewport: Scene viewport resized to 994x335, mode Windowed.
+[2025.05.26-09.21.33:989][665]LogViewport: Scene viewport resized to 994x355, mode Windowed.
+[2025.05.26-09.21.34:038][666]LogViewport: Scene viewport resized to 994x372, mode Windowed.
+[2025.05.26-09.21.34:057][667]LogViewport: Scene viewport resized to 994x388, mode Windowed.
+[2025.05.26-09.21.34:090][668]LogViewport: Scene viewport resized to 994x405, mode Windowed.
+[2025.05.26-09.21.34:126][669]LogViewport: Scene viewport resized to 994x415, mode Windowed.
+[2025.05.26-09.21.34:158][670]LogViewport: Scene viewport resized to 994x429, mode Windowed.
+[2025.05.26-09.21.34:210][671]LogViewport: Scene viewport resized to 994x448, mode Windowed.
+[2025.05.26-09.21.34:228][672]LogViewport: Scene viewport resized to 994x472, mode Windowed.
+[2025.05.26-09.21.34:274][673]LogViewport: Scene viewport resized to 994x498, mode Windowed.
+[2025.05.26-09.21.34:297][674]LogViewport: Scene viewport resized to 994x519, mode Windowed.
+[2025.05.26-09.21.34:335][675]LogViewport: Scene viewport resized to 994x536, mode Windowed.
+[2025.05.26-09.21.34:373][676]LogViewport: Scene viewport resized to 994x558, mode Windowed.
+[2025.05.26-09.21.34:421][677]LogViewport: Scene viewport resized to 994x575, mode Windowed.
+[2025.05.26-09.21.34:461][678]LogViewport: Scene viewport resized to 994x616, mode Windowed.
+[2025.05.26-09.21.34:487][679]LogViewport: Scene viewport resized to 994x641, mode Windowed.
+[2025.05.26-09.21.34:523][680]LogViewport: Scene viewport resized to 994x656, mode Windowed.
+[2025.05.26-09.21.34:558][681]LogViewport: Scene viewport resized to 994x661, mode Windowed.
+[2025.05.26-09.21.34:592][682]LogViewport: Scene viewport resized to 994x664, mode Windowed.
+[2025.05.26-09.21.34:623][683]LogViewport: Scene viewport resized to 994x667, mode Windowed.
+[2025.05.26-09.21.34:653][684]LogViewport: Scene viewport resized to 994x668, mode Windowed.
+[2025.05.26-09.21.34:685][685]LogViewport: Scene viewport resized to 994x669, mode Windowed.
+[2025.05.26-09.21.42:363][139]LogViewport: Scene viewport resized to 994x656, mode Windowed.
+[2025.05.26-09.21.42:390][140]LogViewport: Scene viewport resized to 994x638, mode Windowed.
+[2025.05.26-09.21.42:426][141]LogViewport: Scene viewport resized to 994x610, mode Windowed.
+[2025.05.26-09.21.42:476][142]LogViewport: Scene viewport resized to 994x562, mode Windowed.
+[2025.05.26-09.21.42:515][143]LogViewport: Scene viewport resized to 994x507, mode Windowed.
+[2025.05.26-09.21.42:574][144]LogViewport: Scene viewport resized to 994x458, mode Windowed.
+[2025.05.26-09.21.42:654][145]LogViewport: Scene viewport resized to 994x413, mode Windowed.
+[2025.05.26-09.21.42:717][146]LogViewport: Scene viewport resized to 994x412, mode Windowed.
+[2025.05.26-09.21.44:494][249]LogViewport: Scene viewport resized to 1370x412, mode Windowed.
+[2025.05.26-09.22.34:455][192]LogViewport: Scene viewport resized to 1370x410, mode Windowed.
+[2025.05.26-09.22.34:485][193]LogViewport: Scene viewport resized to 1370x420, mode Windowed.
+[2025.05.26-09.22.34:515][194]LogViewport: Scene viewport resized to 1370x446, mode Windowed.
+[2025.05.26-09.22.34:552][195]LogViewport: Scene viewport resized to 1370x475, mode Windowed.
+[2025.05.26-09.22.34:588][196]LogViewport: Scene viewport resized to 1370x499, mode Windowed.
+[2025.05.26-09.22.34:627][197]LogViewport: Scene viewport resized to 1370x518, mode Windowed.
+[2025.05.26-09.22.34:666][198]LogViewport: Scene viewport resized to 1370x545, mode Windowed.
+[2025.05.26-09.22.34:703][199]LogViewport: Scene viewport resized to 1370x565, mode Windowed.
+[2025.05.26-09.22.34:741][200]LogViewport: Scene viewport resized to 1370x587, mode Windowed.
+[2025.05.26-09.22.34:771][201]LogViewport: Scene viewport resized to 1370x601, mode Windowed.
+[2025.05.26-09.22.34:801][202]LogViewport: Scene viewport resized to 1370x612, mode Windowed.
+[2025.05.26-09.22.34:832][203]LogViewport: Scene viewport resized to 1370x620, mode Windowed.
+[2025.05.26-09.22.34:864][204]LogViewport: Scene viewport resized to 1370x628, mode Windowed.
+[2025.05.26-09.22.34:895][205]LogViewport: Scene viewport resized to 1370x635, mode Windowed.
+[2025.05.26-09.22.34:924][206]LogViewport: Scene viewport resized to 1370x638, mode Windowed.
+[2025.05.26-09.22.34:954][207]LogViewport: Scene viewport resized to 1370x641, mode Windowed.
+[2025.05.26-09.22.34:984][208]LogViewport: Scene viewport resized to 1370x643, mode Windowed.
+[2025.05.26-09.23.22:978][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48023.851562
+[2025.05.26-09.23.23:299][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.23.23:299][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48024.152344, Update Interval: 313.152863
+[2025.05.26-09.23.27:678][863]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.05.26-09.23.27:679][863]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.05.26-09.23.27:715][863]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/YT_Level/Level1.Level1:PersistentLevel.NavMeshBoundsVolume_0
+[2025.05.26-09.23.27:753][863]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/YT_Level/Level1.Level1:PersistentLevel.NavMeshBoundsVolume_0
+[2025.05.26-09.24.23:184][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2025.05.26-09.24.24:583][123]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-09.24.24:613][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.24.24:872][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.26-09.24.24:983][123]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.26-09.24.24:984][123]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level1DB67E5C5416E919FE34EEC9A627A45F5.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.26-09.24.24:999][123]LogFileHelpers: Saving map 'Level1' took 0.190
+[2025.05.26-09.24.25:009][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 396 ms (total: 15.6 sec)
+[2025.05.26-09.24.25:011][123]AssetCheck: New page: Asset Save: Level1
+[2025.05.26-09.24.25:011][123]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.26-09.25.41:737][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.26-09.26.11:958][ 83]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-09.26.11:996][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-09.26.12:002][ 83]PIE: New page: PIE session: Level1 (May 27, 2025, 1:26:11 AM)
+[2025.05.26-09.26.12:009][ 83]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.26.12:052][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043052s)
+[2025.05.26-09.26.12:052][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.044253s)
+[2025.05.26-09.26.12:071][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.05.26-09.26.12:082][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-09.26.12:090][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-09.26.12:101][ 83]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-09.26.12:113][ 83]LogPlayLevel: PIE: World Init took: (0.037012s)
+[2025.05.26-09.26.12:116][ 83]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.05.26-09.26.12:118][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-09.26.12:118][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-09.26.12:118][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-09.26.12:118][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-09.26.12:118][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-09.26.12:118][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-09.26.12:118][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-09.26.12:118][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-09.26.12:122][ 83]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-09.26.12:122][ 83]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-09.26.12:124][ 83]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-09.26.12:130][ 83]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-09.26.12:219][ 83]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-09.26.12:223][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-09.26.12:223][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-09.26.12:223][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-09.26.12:227][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.05.26-09.26.12:227][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.05.26-09.26.12:230][ 83]LogInit: FAudioDevice initialized with ID 17.
+[2025.05.26-09.26.12:230][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.05.26-09.26.12:230][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.05.26-09.26.12:230][ 83]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level1'.
+[2025.05.26-09.26.12:231][ 83]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.05.26-09.26.12:256][ 83]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-09.26.12:276][ 83]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.26-17.26.12
+[2025.05.26-09.26.12:278][ 83]LogWorld: Bringing up level for play took: 0.020148
+[2025.05.26-09.26.12:292][ 83]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.05.26-09.26.12:344][ 83]PIE: Server logged in
+[2025.05.26-09.26.12:347][ 83]PIE: Play in editor total start time 0.358 seconds.
+[2025.05.26-09.26.25:651][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.26.25:652][676]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.26.25:660][676]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.26.25:667][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.26.25:691][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-09.26.25:708][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.26.25:790][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.26.25:793][676]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.05.26-09.26.25:797][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.05.26-09.26.25:800][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.05.26-09.26.25:841][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.05.26-09.26.25:991][677]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.05.26-09.26.31:585][949]Cmd: DELETE
+[2025.05.26-09.26.31:587][949]Cmd: ACTOR DELETE
+[2025.05.26-09.26.31:665][949]LogEditorActor: Deleted Actor: BP_Statue_C
+[2025.05.26-09.26.31:708][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.05.26-09.26.31:711][949]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2025.05.26-09.26.34:823][128]LogViewport: Scene viewport resized to 1370x641, mode Windowed.
+[2025.05.26-09.26.34:853][129]LogViewport: Scene viewport resized to 1370x628, mode Windowed.
+[2025.05.26-09.26.34:881][130]LogViewport: Scene viewport resized to 1370x610, mode Windowed.
+[2025.05.26-09.26.34:922][131]LogViewport: Scene viewport resized to 1370x572, mode Windowed.
+[2025.05.26-09.26.34:950][132]LogViewport: Scene viewport resized to 1370x543, mode Windowed.
+[2025.05.26-09.26.34:980][133]LogViewport: Scene viewport resized to 1370x512, mode Windowed.
+[2025.05.26-09.26.35:014][134]LogViewport: Scene viewport resized to 1370x477, mode Windowed.
+[2025.05.26-09.26.35:087][135]LogViewport: Scene viewport resized to 1370x436, mode Windowed.
+[2025.05.26-09.26.35:116][136]LogViewport: Scene viewport resized to 1370x424, mode Windowed.
+[2025.05.26-09.26.35:145][137]LogViewport: Scene viewport resized to 1370x422, mode Windowed.
+[2025.05.26-09.26.37:061][222]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.26.37:062][222]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.26.37:075][222]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_0
+[2025.05.26-09.26.37:076][222]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_0
+[2025.05.26-09.26.38:255][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.26.38:255][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.26.38:267][288]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_1
+[2025.05.26-09.26.38:268][288]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_1
+[2025.05.26-09.26.41:517][466]LogViewport: Scene viewport resized to 1370x426, mode Windowed.
+[2025.05.26-09.26.41:541][467]LogViewport: Scene viewport resized to 1370x437, mode Windowed.
+[2025.05.26-09.26.41:571][468]LogViewport: Scene viewport resized to 1370x463, mode Windowed.
+[2025.05.26-09.26.41:607][469]LogViewport: Scene viewport resized to 1370x491, mode Windowed.
+[2025.05.26-09.26.41:642][470]LogViewport: Scene viewport resized to 1370x529, mode Windowed.
+[2025.05.26-09.26.41:681][471]LogViewport: Scene viewport resized to 1370x566, mode Windowed.
+[2025.05.26-09.26.41:719][472]LogViewport: Scene viewport resized to 1370x591, mode Windowed.
+[2025.05.26-09.26.41:755][473]LogViewport: Scene viewport resized to 1370x608, mode Windowed.
+[2025.05.26-09.26.41:797][474]LogViewport: Scene viewport resized to 1370x629, mode Windowed.
+[2025.05.26-09.26.41:831][475]LogViewport: Scene viewport resized to 1370x657, mode Windowed.
+[2025.05.26-09.26.41:864][476]LogViewport: Scene viewport resized to 1370x667, mode Windowed.
+[2025.05.26-09.26.41:900][477]LogViewport: Scene viewport resized to 1370x671, mode Windowed.
+[2025.05.26-09.26.41:934][478]LogViewport: Scene viewport resized to 1370x676, mode Windowed.
+[2025.05.26-09.26.41:969][479]LogViewport: Scene viewport resized to 1370x677, mode Windowed.
+[2025.05.26-09.26.42:013][480]LogViewport: Scene viewport resized to 1370x680, mode Windowed.
+[2025.05.26-09.26.42:038][481]LogViewport: Scene viewport resized to 1370x683, mode Windowed.
+[2025.05.26-09.26.42:073][482]LogViewport: Scene viewport resized to 1370x693, mode Windowed.
+[2025.05.26-09.26.42:103][483]LogViewport: Scene viewport resized to 1370x702, mode Windowed.
+[2025.05.26-09.26.42:137][484]LogViewport: Scene viewport resized to 1370x710, mode Windowed.
+[2025.05.26-09.26.42:171][485]LogViewport: Scene viewport resized to 1370x723, mode Windowed.
+[2025.05.26-09.26.42:208][486]LogViewport: Scene viewport resized to 1370x728, mode Windowed.
+[2025.05.26-09.26.42:245][487]LogViewport: Scene viewport resized to 1370x730, mode Windowed.
+[2025.05.26-09.26.44:071][595]Cmd: DELETE
+[2025.05.26-09.26.44:071][595]Cmd: ACTOR DELETE
+[2025.05.26-09.26.44:084][595]LogEditorActor: Deleted Actor: BP_EnemyAI_C
+[2025.05.26-09.26.44:105][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.26-09.26.44:110][595]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.05.26-09.29.11:535][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48369.140625
+[2025.05.26-09.29.11:850][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.29.11:850][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48369.449219, Update Interval: 322.465881
+[2025.05.26-09.29.42:890][739]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-09.29.43:023][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.05.26-09.29.43:849][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.29.44:070][762]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-09.29.44:071][762]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAI4EB32C68447AA293948E25ABA65D1A54.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-09.29.44:089][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 15.8 sec)
+[2025.05.26-09.29.44:098][762]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-09.29.44:098][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-09.29.46:817][913]LogViewport: Scene viewport resized to 1370x718, mode Windowed.
+[2025.05.26-09.29.46:840][914]LogViewport: Scene viewport resized to 1370x689, mode Windowed.
+[2025.05.26-09.29.46:872][915]LogViewport: Scene viewport resized to 1370x636, mode Windowed.
+[2025.05.26-09.29.46:906][916]LogViewport: Scene viewport resized to 1370x575, mode Windowed.
+[2025.05.26-09.29.46:942][917]LogViewport: Scene viewport resized to 1370x532, mode Windowed.
+[2025.05.26-09.29.46:976][918]LogViewport: Scene viewport resized to 1370x493, mode Windowed.
+[2025.05.26-09.29.47:025][919]LogViewport: Scene viewport resized to 1370x473, mode Windowed.
+[2025.05.26-09.29.47:053][920]LogViewport: Scene viewport resized to 1370x472, mode Windowed.
+[2025.05.26-09.29.47:123][923]LogViewport: Scene viewport resized to 1370x470, mode Windowed.
+[2025.05.26-09.29.47:266][931]LogViewport: Scene viewport resized to 1370x472, mode Windowed.
+[2025.05.26-09.29.47:340][935]LogViewport: Scene viewport resized to 1370x474, mode Windowed.
+[2025.05.26-09.29.49:956][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.05.26-09.29.51:468][ 81]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-09.29.51:494][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.29.51:772][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.26-09.29.51:893][ 81]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.26-09.29.51:895][ 81]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level1897D55494E49349C9E7A79B4BE03D0A8.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.26-09.29.51:918][ 81]LogFileHelpers: Saving map 'Level1' took 0.219
+[2025.05.26-09.29.51:931][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 437 ms (total: 16.2 sec)
+[2025.05.26-09.29.51:937][ 81]AssetCheck: New page: Asset Save: Level1
+[2025.05.26-09.29.51:937][ 81]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.26-09.29.51:948][ 81]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-09.29.54:706][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.29.54:706][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.29.54:709][170]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_2
+[2025.05.26-09.29.54:710][170]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_2
+[2025.05.26-09.29.55:497][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.29.55:497][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.29.55:500][212]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_3
+[2025.05.26-09.29.55:502][212]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_3
+[2025.05.26-09.30.10:249][ 59]Cmd: DELETE
+[2025.05.26-09.30.10:249][ 59]Cmd: ACTOR DELETE
+[2025.05.26-09.30.10:252][ 59]LogEditorActor: Deleted Actor: BP_EnemyAI_C
+[2025.05.26-09.30.10:272][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.26-09.30.10:276][ 59]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.05.26-09.30.22:217][656]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-09.30.22:279][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.05.26-09.30.22:968][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.30.23:120][683]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-09.30.23:121][683]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAI3510F96041AAB21B765FD5A11473762F.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-09.30.23:133][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 16.4 sec)
+[2025.05.26-09.30.23:139][683]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-09.30.23:139][683]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-09.30.28:445][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.30.28:445][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.30.28:448][896]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_4
+[2025.05.26-09.30.28:449][896]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_4
+[2025.05.26-09.30.29:789][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.30.29:789][967]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2025.05.26-09.30.29:793][967]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_5
+[2025.05.26-09.30.29:795][967]LogActorFactory: Actor Factory spawned Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/YT_Level/Level1.Level1:PersistentLevel.BP_EnemyAI_C_5
+[2025.05.26-09.30.55:171][469]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-09.30.55:194][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-09.30.55:194][469]PIE: New page: PIE session: Level1 (May 27, 2025, 1:30:55 AM)
+[2025.05.26-09.30.55:194][469]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.30.55:209][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014593s)
+[2025.05.26-09.30.55:209][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.014641s)
+[2025.05.26-09.30.55:231][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.26-09.30.55:238][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-09.30.55:239][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-09.30.55:240][469]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-09.30.55:242][469]LogPlayLevel: PIE: World Init took: (0.003252s)
+[2025.05.26-09.30.55:242][469]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.05.26-09.30.55:242][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-09.30.55:242][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-09.30.55:242][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-09.30.55:243][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-09.30.55:243][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-09.30.55:243][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-09.30.55:243][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-09.30.55:243][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-09.30.55:243][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-09.30.55:243][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-09.30.55:243][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-09.30.55:248][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-09.30.55:318][469]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-09.30.55:319][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-09.30.55:319][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-09.30.55:319][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-09.30.55:320][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.05.26-09.30.55:320][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.05.26-09.30.55:322][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.05.26-09.30.55:322][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.05.26-09.30.55:322][469]LogInit: FAudioDevice initialized with ID 18.
+[2025.05.26-09.30.55:322][469]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2025.05.26-09.30.55:322][469]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.26-09.30.55:337][469]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-09.30.55:341][469]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.26-17.30.55
+[2025.05.26-09.30.55:346][469]LogWorld: Bringing up level for play took: 0.008984
+[2025.05.26-09.30.55:350][469]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.05.26-09.30.55:354][469]PIE: Server logged in
+[2025.05.26-09.30.55:354][469]PIE: Play in editor total start time 0.163 seconds.
+[2025.05.26-09.31.00:506][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.31.00:506][700]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.31.00:514][700]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.31.00:515][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.31.00:522][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-09.31.00:530][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.31.00:547][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.31.00:547][700]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.05.26-09.31.00:548][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.26-09.31.00:551][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.05.26-09.31.00:563][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.05.26-09.31.00:817][701]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.05.26-09.31.35:608][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-09.31.35:621][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-09.31.35:621][611]PIE: New page: PIE session: Level1 (May 27, 2025, 1:31:35 AM)
+[2025.05.26-09.31.35:656][611]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.31.35:669][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013644s)
+[2025.05.26-09.31.35:669][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.013705s)
+[2025.05.26-09.31.35:689][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.26-09.31.35:712][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-09.31.35:712][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-09.31.35:713][611]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-09.31.35:713][611]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2025.05.26-09.31.35:713][611]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.05.26-09.31.35:713][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-09.31.35:713][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-09.31.35:713][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-09.31.35:713][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-09.31.35:713][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-09.31.35:713][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-09.31.35:713][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-09.31.35:714][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-09.31.35:714][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-09.31.35:714][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-09.31.35:714][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-09.31.35:716][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-09.31.35:787][611]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-09.31.35:787][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-09.31.35:787][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-09.31.35:787][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-09.31.35:788][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.05.26-09.31.35:788][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.05.26-09.31.35:790][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.05.26-09.31.35:790][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.05.26-09.31.35:791][611]LogInit: FAudioDevice initialized with ID 19.
+[2025.05.26-09.31.35:791][611]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2025.05.26-09.31.35:791][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.26-09.31.35:794][611]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-09.31.35:798][611]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.26-17.31.35
+[2025.05.26-09.31.35:799][611]LogWorld: Bringing up level for play took: 0.004049
+[2025.05.26-09.31.35:805][611]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.05.26-09.31.35:808][611]PIE: Server logged in
+[2025.05.26-09.31.35:809][611]PIE: Play in editor total start time 0.189 seconds.
+[2025.05.26-09.31.57:087][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.31.57:088][810]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.31.57:088][810]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.31.57:089][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.31.57:095][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-09.31.57:103][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.31.57:124][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-09.31.57:125][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.05.26-09.31.57:125][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.26-09.31.57:127][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.05.26-09.31.57:135][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.31.57:140][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.05.26-09.31.57:266][811]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.05.26-09.32.24:703][989]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-09.32.24:844][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.05.26-09.32.25:457][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.32.25:608][  5]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-09.32.25:610][  5]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAIA82ABCA4458199ED2E298C8F0BBCB8A4.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-09.32.25:622][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 16.6 sec)
+[2025.05.26-09.32.25:627][  5]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-09.32.25:627][  5]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-09.35.19:046][125]Cmd: DELETE
+[2025.05.26-09.35.19:046][125]Cmd: ACTOR DELETE
+[2025.05.26-09.35.19:050][125]LogEditorActor: Deleted Actor: BP_Path_C
+[2025.05.26-09.35.19:070][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.05.26-09.35.19:081][125]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.05.26-09.35.19:515][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48734.855469
+[2025.05.26-09.35.19:864][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.35.19:864][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48735.171875, Update Interval: 331.674561
+[2025.05.26-09.35.33:450][956]Cmd: DELETE
+[2025.05.26-09.35.33:450][956]Cmd: ACTOR DELETE
+[2025.05.26-09.35.33:453][956]LogEditorActor: Deleted Actor: BP_Path_C
+[2025.05.26-09.35.33:480][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.05.26-09.35.33:483][956]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.05.26-09.35.42:509][484]Cmd: DELETE
+[2025.05.26-09.35.42:509][484]Cmd: ACTOR DELETE
+[2025.05.26-09.35.42:513][484]LogEditorActor: Deleted Actor: BP_Path_C
+[2025.05.26-09.35.42:531][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.26-09.35.42:535][484]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.05.26-09.35.44:632][607]Cmd: DELETE
+[2025.05.26-09.35.44:632][607]Cmd: ACTOR DELETE
+[2025.05.26-09.35.44:637][607]LogEditorActor: Deleted Actor: BP_Statue_C
+[2025.05.26-09.35.44:662][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.26-09.35.44:667][607]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.05.26-09.35.48:338][815]Cmd: DELETE
+[2025.05.26-09.35.48:338][815]Cmd: ACTOR DELETE
+[2025.05.26-09.35.48:343][815]LogEditorActor: Deleted Actor: BP_Statue_C
+[2025.05.26-09.35.48:368][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.26-09.35.48:372][815]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.05.26-09.35.53:633][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.26-09.35.54:511][123]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-09.35.54:533][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.35.54:802][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.26-09.35.54:888][123]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.26-09.35.54:889][123]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level1E0842AEA48723DF01EE0BF96E8AAB291.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.26-09.35.54:902][123]LogFileHelpers: Saving map 'Level1' took 0.165
+[2025.05.26-09.35.54:915][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 382 ms (total: 17.0 sec)
+[2025.05.26-09.35.54:920][123]AssetCheck: New page: Asset Save: Level1
+[2025.05.26-09.35.54:920][123]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.26-09.35.55:831][173]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-09.35.55:844][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-09.35.55:844][173]PIE: New page: PIE session: Level1 (May 27, 2025, 1:35:55 AM)
+[2025.05.26-09.35.55:844][173]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.35.55:856][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012427s)
+[2025.05.26-09.35.55:856][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.012493s)
+[2025.05.26-09.35.55:874][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.26-09.35.55:878][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-09.35.55:878][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-09.35.55:878][173]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-09.35.55:879][173]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2025.05.26-09.35.55:879][173]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.05.26-09.35.55:879][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-09.35.55:879][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-09.35.55:879][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-09.35.55:879][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-09.35.55:879][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-09.35.55:879][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-09.35.55:879][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-09.35.55:879][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-09.35.55:879][173]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-09.35.55:879][173]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-09.35.55:879][173]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-09.35.55:882][173]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-09.35.55:961][173]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-09.35.55:961][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-09.35.55:961][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-09.35.55:961][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-09.35.55:962][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.05.26-09.35.55:962][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.05.26-09.35.55:965][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.05.26-09.35.55:965][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.05.26-09.35.55:965][173]LogInit: FAudioDevice initialized with ID 20.
+[2025.05.26-09.35.55:965][173]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2025.05.26-09.35.55:965][173]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.05.26-09.35.55:967][173]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-09.35.55:971][173]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.26-17.35.55
+[2025.05.26-09.35.55:971][173]LogWorld: Bringing up level for play took: 0.003696
+[2025.05.26-09.35.55:975][173]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.05.26-09.35.55:979][173]PIE: Server logged in
+[2025.05.26-09.35.55:980][173]PIE: Play in editor total start time 0.136 seconds.
+[2025.05.26-09.36.06:795][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.36.06:796][742]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.36.06:796][742]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-09.36.06:796][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.36.06:808][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-09.36.06:816][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-09.36.06:831][742]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-09.36.06:831][742]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.05.26-09.36.06:831][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.05.26-09.36.06:834][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.05.26-09.36.06:839][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-09.36.06:843][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.26-09.36.06:993][743]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.05.26-09.36.18:716][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.26-09.36.19:663][357]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-09.36.19:686][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-09.36.19:950][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.26-09.36.20:039][357]LogSavePackage: Moving output files for package: /Game/YT_Level/Level1
+[2025.05.26-09.36.20:040][357]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/Level199F24AEB4D9A9783413EF3851353051D.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YT_Level/Level1.umap'
+[2025.05.26-09.36.20:053][357]LogFileHelpers: Saving map 'Level1' took 0.174
+[2025.05.26-09.36.20:066][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 379 ms (total: 17.3 sec)
+[2025.05.26-09.36.20:071][357]AssetCheck: New page: Asset Save: Level1
+[2025.05.26-09.36.20:071][357]LogContentValidation: Display: Validating /Script/Engine.World /Game/YT_Level/Level1.Level1
+[2025.05.26-09.41.43:898][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49116.468750
+[2025.05.26-09.41.44:896][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.41.44:896][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49117.132812, Update Interval: 305.308380
+[2025.05.26-09.47.45:292][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49476.757812
+[2025.05.26-09.47.46:294][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.47.46:294][473]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49477.425781, Update Interval: 326.302063
+[2025.05.26-09.54.10:035][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49860.375000
+[2025.05.26-09.54.11:022][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.54.11:022][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49861.039062, Update Interval: 306.064636
+[2025.05.26-09.59.50:440][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50199.257812
+[2025.05.26-09.59.50:818][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-09.59.50:818][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50199.621094, Update Interval: 319.151581
+[2025.05.26-09.59.51:646][196]LogViewport: Scene viewport resized to 1370x491, mode Windowed.
+[2025.05.26-09.59.51:685][197]LogViewport: Scene viewport resized to 1370x536, mode Windowed.
+[2025.05.26-09.59.51:727][198]LogViewport: Scene viewport resized to 1370x561, mode Windowed.
+[2025.05.26-09.59.51:752][199]LogViewport: Scene viewport resized to 1370x571, mode Windowed.
+[2025.05.26-09.59.51:778][200]LogViewport: Scene viewport resized to 1370x579, mode Windowed.
+[2025.05.26-09.59.51:801][201]LogViewport: Scene viewport resized to 1370x585, mode Windowed.
+[2025.05.26-09.59.51:833][202]LogViewport: Scene viewport resized to 1370x592, mode Windowed.
+[2025.05.26-09.59.51:857][203]LogViewport: Scene viewport resized to 1370x594, mode Windowed.
+[2025.05.26-09.59.51:883][204]LogViewport: Scene viewport resized to 1370x599, mode Windowed.
+[2025.05.26-09.59.51:914][205]LogViewport: Scene viewport resized to 1370x611, mode Windowed.
+[2025.05.26-09.59.51:939][206]LogViewport: Scene viewport resized to 1370x620, mode Windowed.
+[2025.05.26-09.59.51:963][207]LogViewport: Scene viewport resized to 1370x629, mode Windowed.
+[2025.05.26-09.59.51:987][208]LogViewport: Scene viewport resized to 1370x635, mode Windowed.
+[2025.05.26-09.59.52:009][209]LogViewport: Scene viewport resized to 1370x645, mode Windowed.
+[2025.05.26-09.59.52:032][210]LogViewport: Scene viewport resized to 1370x655, mode Windowed.
+[2025.05.26-09.59.52:060][211]LogViewport: Scene viewport resized to 1370x662, mode Windowed.
+[2025.05.26-09.59.52:081][212]LogViewport: Scene viewport resized to 1370x668, mode Windowed.
+[2025.05.26-09.59.52:106][213]LogViewport: Scene viewport resized to 1370x676, mode Windowed.
+[2025.05.26-09.59.52:127][214]LogViewport: Scene viewport resized to 1370x679, mode Windowed.
+[2025.05.26-09.59.55:924][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-09.59.55:972][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-09.59.55:978][435]PIE: New page: PIE session: Level1 (May 27, 2025, 1:59:55 AM)
+[2025.05.26-09.59.55:986][435]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-09.59.56:078][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092121s)
+[2025.05.26-09.59.56:078][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.092997s)
+[2025.05.26-09.59.56:217][435]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2025.05.26-09.59.56:239][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-09.59.56:248][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-09.59.56:261][435]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-09.59.56:276][435]LogPlayLevel: PIE: World Init took: (0.043709s)
+[2025.05.26-09.59.56:277][435]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.05.26-09.59.56:279][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-09.59.56:279][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-09.59.56:279][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-09.59.56:279][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-09.59.56:279][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-09.59.56:279][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-09.59.56:279][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-09.59.56:279][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-09.59.56:282][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-09.59.56:282][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-09.59.56:282][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-09.59.56:288][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-09.59.56:372][435]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-09.59.56:377][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-09.59.56:378][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-09.59.56:378][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-09.59.56:384][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.05.26-09.59.56:384][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.05.26-09.59.56:387][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.05.26-09.59.56:387][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.05.26-09.59.56:387][435]LogInit: FAudioDevice initialized with ID 21.
+[2025.05.26-09.59.56:387][435]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level1'.
+[2025.05.26-09.59.56:387][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.26-09.59.56:403][435]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-09.59.56:423][435]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.26-17.59.56
+[2025.05.26-09.59.56:435][435]LogWorld: Bringing up level for play took: 0.029889
+[2025.05.26-09.59.56:448][435]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.05.26-09.59.56:481][435]PIE: Server logged in
+[2025.05.26-09.59.56:482][435]PIE: Play in editor total start time 0.522 seconds.
+[2025.05.26-10.00.02:564][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-10.00.02:564][694]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-10.00.02:577][694]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-10.00.02:584][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-10.00.02:664][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-10.00.02:674][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-10.00.02:700][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-10.00.02:702][694]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.05.26-10.00.02:705][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.26-10.00.02:708][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.05.26-10.00.02:743][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.05.26-10.00.03:231][695]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.05.26-10.00.55:738][409]BlueprintLog: New page: Compile BP_EnemyAI
+[2025.05.26-10.00.55:984][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.26-10.00.56:908][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-10.00.57:115][436]LogSavePackage: Moving output files for package: /Game/YueErn/YE_Blueprints/BP_EnemyAI
+[2025.05.26-10.00.57:117][436]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Saved/BP_EnemyAIF144F71C44EE90C551C5C6A8251D73EB.tmp' to '../../../../../../Users/yueer/Desktop/the-ultimate-choice/TheUltimateChoice/Content/YueErn/YE_Blueprints/BP_EnemyAI.uasset'
+[2025.05.26-10.00.57:132][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 17.6 sec)
+[2025.05.26-10.00.57:134][436]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2025.05.26-10.00.57:134][436]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/YueErn/YE_Blueprints/BP_EnemyAI.BP_EnemyAI
+[2025.05.26-10.00.59:420][562]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-10.00.59:434][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-10.00.59:434][562]PIE: New page: PIE session: Level1 (May 27, 2025, 2:00:59 AM)
+[2025.05.26-10.00.59:467][562]LogPlayLevel: Creating play world package: /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-10.00.59:478][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011672s)
+[2025.05.26-10.00.59:478][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YT_Level/Level1.Level1 to /Game/YT_Level/UEDPIE_0_Level1.Level1 (0.011771s)
+[2025.05.26-10.00.59:494][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.26-10.00.59:504][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-10.00.59:504][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-10.00.59:504][562]LogAIModule: Creating AISystem for world Level1
+[2025.05.26-10.00.59:504][562]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2025.05.26-10.00.59:504][562]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.05.26-10.00.59:504][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-10.00.59:504][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-10.00.59:504][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-10.00.59:504][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-10.00.59:504][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.26-10.00.59:504][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-10.00.59:504][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.26-10.00.59:505][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-10.00.59:505][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-10.00.59:505][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-10.00.59:505][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-10.00.59:508][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-10.00.59:579][562]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.05.26-10.00.59:580][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-10.00.59:580][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-10.00.59:580][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-10.00.59:581][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.05.26-10.00.59:581][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.05.26-10.00.59:583][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.05.26-10.00.59:583][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.05.26-10.00.59:584][562]LogInit: FAudioDevice initialized with ID 22.
+[2025.05.26-10.00.59:584][562]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level1'.
+[2025.05.26-10.00.59:584][562]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.26-10.00.59:587][562]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.26-10.00.59:591][562]LogWorld: Bringing World /Game/YT_Level/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.05.26-18.00.59
+[2025.05.26-10.00.59:591][562]LogWorld: Bringing up level for play took: 0.003298
+[2025.05.26-10.00.59:596][562]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.05.26-10.00.59:599][562]PIE: Server logged in
+[2025.05.26-10.00.59:599][562]PIE: Play in editor total start time 0.164 seconds.
+[2025.05.26-10.01.03:807][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-10.01.03:807][772]LogWorld: BeginTearingDown for /Game/YT_Level/UEDPIE_0_Level1
+[2025.05.26-10.01.03:807][772]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-10.01.03:807][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-10.01.03:815][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-10.01.03:820][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-10.01.03:837][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-10.01.03:838][772]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.05.26-10.01.03:838][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.26-10.01.03:841][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.05.26-10.01.03:854][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.26-10.01.04:199][773]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.05.26-10.01.19:314][634]LogViewport: Scene viewport resized to 1370x675, mode Windowed.
+[2025.05.26-10.01.19:335][635]LogViewport: Scene viewport resized to 1370x650, mode Windowed.
+[2025.05.26-10.01.19:365][636]LogViewport: Scene viewport resized to 1370x627, mode Windowed.
+[2025.05.26-10.01.19:389][637]LogViewport: Scene viewport resized to 1370x608, mode Windowed.
+[2025.05.26-10.01.19:421][638]LogViewport: Scene viewport resized to 1370x591, mode Windowed.
+[2025.05.26-10.01.19:446][639]LogViewport: Scene viewport resized to 1370x573, mode Windowed.
+[2025.05.26-10.01.19:470][640]LogViewport: Scene viewport resized to 1370x552, mode Windowed.
+[2025.05.26-10.01.19:498][641]LogViewport: Scene viewport resized to 1370x533, mode Windowed.
+[2025.05.26-10.01.19:520][642]LogViewport: Scene viewport resized to 1370x530, mode Windowed.
+[2025.05.26-10.01.19:544][643]LogViewport: Scene viewport resized to 1370x528, mode Windowed.
+[2025.05.26-10.01.21:299][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.26-10.01.33:286][890]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.573 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2378 files in 3706 folders with total size 340 MiB.
